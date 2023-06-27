@@ -18,6 +18,7 @@ mysql -p -u root datos-rep-dom < sectores.sql
 
 ### MongoDB
 ```shell
+cd JSON/
 mongoimport -d datos-rep-dom -c provincias provincias.json
 mongoimport -d datos-rep-dom -c municipios municipios.json
 mongoimport -d datos-rep-dom -c provincias sectores.json
