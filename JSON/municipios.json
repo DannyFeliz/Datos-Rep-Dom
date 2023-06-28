@@ -255,6 +255,11 @@
 		"municipio" : "JAMAO AL NORTE"
 	},
 	{
+		"provincia_id" : 56,
+		"municipio_id" : 905,
+		"municipio" : "SAN VÍCTOR"
+	},
+	{
 		"provincia_id" : 83,
 		"municipio_id" : 1001,
 		"municipio" : "JIMANI"
@@ -398,6 +403,11 @@
 		"provincia_id" : 94,
 		"municipio_id" : 1702,
 		"municipio" : "NIZAO"
+	},
+	{
+		"provincia_id" : 94,
+		"municipio_id" : 1703,
+		"municipio" : "MATANZAS"
 	},
 	{
 		"provincia_id" : 57,
@@ -638,6 +648,11 @@
 		"provincia_id" : 51,
 		"municipio_id" : 2509,
 		"municipio" : "SABANA IGLESIA"
+	},
+	{
+		"provincia_id" : 51,
+		"municipio_id" : 2510,
+		"municipio" : "BAITOA"
 	},
 	{
 		"provincia_id" : 64,
