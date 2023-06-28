@@ -21,7 +21,7 @@
 
 LOCK TABLES `provincias` WRITE;
 /*!40000 ALTER TABLE `provincias` DISABLE KEYS */;
-INSERT INTO `provincias` VALUES (1,'Distrito Nacional'),(21,'San Pedro de Macorís'),(22,'La Romana'),(23,'La Altagracia'),(24,'El Seibo'),(25,'Hato Mayor'),(31,'Duarte'),(32,'Samaná'),(33,'Maria Trinidad Sánchez'),(34,'Salcedo'),(41,'La Vega'),(42,'Monseñor Nouel'),(43,'Sánchez Ramirez'),(51,'Santiago'),(56,'Espaillat'),(57,'Puerto Plata'),(61,'Valverde'),(62,'Monte Cristi'),(63,'Dajabónn'),(64,'Santiago Rodríguez'),(71,'Azua'),(72,'San Juan de la Maguana'),(73,'Elías Piña'),(81,'Barahona'),(82,'Bahoruco'),(83,'Independencia'),(84,'Perdenales'),(91,'San Cristóbal'),(92,'Monte Plata'),(93,'San José de Ocoa'),(94,'Peravia');
+INSERT INTO `provincias` VALUES (1,'Distrito Nacional'),(2,'Santo Domingo'),(21,'San Pedro de Macorís'),(22,'La Romana'),(23,'La Altagracia'),(24,'El Seibo'),(25,'Hato Mayor'),(31,'Duarte'),(32,'Samaná'),(33,'Maria Trinidad Sánchez'),(34,'Salcedo'),(41,'La Vega'),(42,'Monseñor Nouel'),(43,'Sánchez Ramirez'),(51,'Santiago'),(56,'Espaillat'),(57,'Puerto Plata'),(61,'Valverde'),(62,'Monte Cristi'),(63,'Dajabónn'),(64,'Santiago Rodríguez'),(71,'Azua'),(72,'San Juan de la Maguana'),(73,'Elías Piña'),(81,'Barahona'),(82,'Bahoruco'),(83,'Independencia'),(84,'Perdenales'),(91,'San Cristóbal'),(92,'Monte Plata'),(93,'San José de Ocoa'),(94,'Peravia');
 /*!40000 ALTER TABLE `provincias` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

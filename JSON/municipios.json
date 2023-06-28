@@ -2,7 +2,7 @@
 	{
 		"provincia_id" : 1,
 		"municipio_id" : 101,
-		"municipio" : "SANTO DOMINGO CENTRO (DN)"
+		"municipio" : "SANTO DOMINGO"
 	},
 	{
 		"provincia_id" : 71,
@@ -255,6 +255,11 @@
 		"municipio" : "JAMAO AL NORTE"
 	},
 	{
+		"provincia_id" : 56,
+		"municipio_id" : 905,
+		"municipio" : "SAN VÍCTOR"
+	},
+	{
 		"provincia_id" : 83,
 		"municipio_id" : 1001,
 		"municipio" : "JIMANI"
@@ -398,6 +403,11 @@
 		"provincia_id" : 94,
 		"municipio_id" : 1702,
 		"municipio" : "NIZAO"
+	},
+	{
+		"provincia_id" : 94,
+		"municipio_id" : 1703,
+		"municipio" : "MATANZAS"
 	},
 	{
 		"provincia_id" : 57,
@@ -640,6 +650,11 @@
 		"municipio" : "SABANA IGLESIA"
 	},
 	{
+		"provincia_id" : 51,
+		"municipio_id" : 2510,
+		"municipio" : "BAITOA"
+	},
+	{
 		"provincia_id" : 64,
 		"municipio_id" : 2601,
 		"municipio" : "SAN IGNACIO DE SABANETA"
@@ -740,37 +755,37 @@
 		"municipio" : "RANCHO ARRIBA"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3201,
 		"municipio" : "SANTO DOMINGO ESTE"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3202,
 		"municipio" : "SANTO DOMINGO OESTE"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3203,
 		"municipio" : "SANTO DOMINGO NORTE"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3204,
 		"municipio" : "BOCA CHICA"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3205,
 		"municipio" : "SAN ANTONIO DE GUERRA"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3206,
 		"municipio" : "LOS ALCARRIZOS"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3207,
 		"municipio" : "PEDRO BRAND"
 	}
