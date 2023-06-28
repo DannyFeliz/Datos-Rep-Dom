@@ -4,6 +4,10 @@
 		"provincia" : "Distrito Nacional"
 	},
 	{
+		"provincia_id" : 2,
+		"provincia" : "Santo Domingo"
+	},
+	{
 		"provincia_id" : 21,
 		"provincia" : "San Pedro de Macorís"
 	},

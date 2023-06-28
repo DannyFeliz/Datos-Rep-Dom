@@ -2,7 +2,7 @@
 	{
 		"provincia_id" : 1,
 		"municipio_id" : 101,
-		"municipio" : "SANTO DOMINGO CENTRO (DN)"
+		"municipio" : "SANTO DOMINGO"
 	},
 	{
 		"provincia_id" : 71,
@@ -755,37 +755,37 @@
 		"municipio" : "RANCHO ARRIBA"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3201,
 		"municipio" : "SANTO DOMINGO ESTE"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3202,
 		"municipio" : "SANTO DOMINGO OESTE"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3203,
 		"municipio" : "SANTO DOMINGO NORTE"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3204,
 		"municipio" : "BOCA CHICA"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3205,
 		"municipio" : "SAN ANTONIO DE GUERRA"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3206,
 		"municipio" : "LOS ALCARRIZOS"
 	},
 	{
-		"provincia_id" : 1,
+		"provincia_id" : 2,
 		"municipio_id" : 3207,
 		"municipio" : "PEDRO BRAND"
 	}
