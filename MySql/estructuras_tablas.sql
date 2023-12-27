@@ -1,3 +1,10 @@
+CREATE TABLE `provincias` (
+  `provincia_id` tinyint(3) unsigned NOT NULL,
+  `provincia` varchar(50) COLLATE utf8_spanish_ci NOT NULL,
+  PRIMARY KEY (`provincia_id`),
+  UNIQUE KEY `id_UNIQUE` (`provincia_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
+
 CREATE TABLE `municipios` (
   `provincia_id` tinyint(3) unsigned NOT NULL,
   `municipio_id` int(10) unsigned NOT NULL,
@@ -5,13 +12,6 @@ CREATE TABLE `municipios` (
   PRIMARY KEY (`municipio_id`),
   KEY `provincia_id` (`provincia_id`),
   CONSTRAINT `provincia_id` FOREIGN KEY (`provincia_id`) REFERENCES `provincias` (`provincia_id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
-
-CREATE TABLE `provincias` (
-  `provincia_id` tinyint(3) unsigned NOT NULL,
-  `provincia` varchar(50) COLLATE utf8_spanish_ci NOT NULL,
-  PRIMARY KEY (`provincia_id`),
-  UNIQUE KEY `id_UNIQUE` (`provincia_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
 
 CREATE TABLE `sectores` (
