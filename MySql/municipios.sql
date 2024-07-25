@@ -1,37 +1,170 @@
--- MySQL dump 10.13  Distrib 5.6.24, for Win32 (x86)
---
--- Host: 127.0.0.1    Database: rd
--- ------------------------------------------------------
--- Server version	5.5.5-10.1.9-MariaDB
+-- Adminer 4.8.1 MySQL 11.4.2-MariaDB-ubu2404 dump
 
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
-/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
-/*!40103 SET TIME_ZONE='+00:00' */;
-/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
-/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
-/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
-/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+SET NAMES utf8;
+SET time_zone = '+00:00';
+SET foreign_key_checks = 0;
+SET sql_mode = 'NO_AUTO_VALUE_ON_ZERO';
 
---
--- Dumping data for table `municipios`
---
+SET NAMES utf8mb4;
 
-LOCK TABLES `municipios` WRITE;
-/*!40000 ALTER TABLE `municipios` DISABLE KEYS */;
-INSERT INTO `municipios` VALUES (1,101,'SANTO DOMINGO'),(71,201,'AZUA'),(71,202,'LAS CHARCAS'),(71,203,'LAS YAYAS DE VIAJAMA'),(71,204,'PADRE LAS CASAS'),(71,205,'PERALTA'),(71,206,'SABANA YEGUA'),(71,207,'PUEBLO VIEJO'),(71,208,'TABARA ARRIBA'),(71,209,'GUAYABAL'),(71,210,'ESTEBANIA'),(82,301,'NEIBA'),(82,302,'GALVAN'),(82,303,'TAMAYO'),(82,304,'VILLA JARAGUA'),(82,305,'LOS RIOS'),(81,401,'BARAHONA'),(81,402,'CABRAL'),(81,403,'ENRIQUILLO'),(81,404,'PARAISO'),(81,405,'VICENTE NOBLE'),(81,406,'EL PEÑON'),(81,407,'LA CIENAGA'),(81,408,'FUNDACION'),(81,409,'LAS SALINAS'),(81,410,'POLO'),(81,411,'JAQUIMEYES'),(63,501,'DAJABON'),(63,502,'LOMA DE CABRERA'),(63,503,'PARTIDO'),(63,504,'RESTAURACION'),(63,505,'EL PINO'),(31,601,'SAN FRANCISCO DE MACORIS'),(31,602,'ARENOSO'),(31,603,'CASTILLO'),(31,604,'PIMENTEL'),(31,605,'VILLA RIVA'),(31,606,'LAS GUARANAS'),(31,607,'EUGENIO MARIA DE HOSTOS'),(73,701,'COMENDADOR'),(73,702,'BANICA'),(73,703,'EL LLANO'),(73,704,'HONDO VALLE'),(73,705,'PEDRO SANTANA'),(73,706,'JUAN SANTIAGO'),(24,801,'EL SEIBO'),(24,802,'MICHES'),(56,901,'MOCA'),(56,902,'CAYETANO GERMOSEN'),(56,903,'GASPAR HERNANDEZ'),(56,904,'JAMAO AL NORTE'),(56,905,'SAN VÍCTOR'),(83,1001,'JIMANI'),(83,1002,'DUVERGE'),(83,1003,'LA DESCUBIERTA'),(83,1004,'POSTRER RIO'),(83,1005,'CRISTOBAL'),(83,1006,'MELLA'),(23,1101,'HIGUEY'),(23,1102,'SAN RAFAEL DEL YUMA'),(22,1201,'LA ROMANA'),(22,1202,'GUAYMATE'),(22,1203,'VILLA HERMOSA'),(41,1301,'LA VEGA'),(41,1302,'CONSTANZA'),(41,1303,'JARABACOA'),(41,1304,'JIMA ABAJO'),(33,1401,'NAGUA'),(33,1402,'CABRERA'),(33,1403,'EL FACTOR'),(33,1404,'RIO SAN JUAN'),(62,1501,'MONTE CRISTI'),(62,1502,'CASTAÃ‘UELAS'),(62,1503,'GUAYUBIN'),(62,1504,'LAS MATAS DE SANTA CRUZ'),(62,1505,'PEPILLO SALCEDO'),(62,1506,'VILLA VASQUEZ'),(84,1601,'PEDERNALES'),(84,1602,'OVIEDO'),(94,1701,'BANI'),(94,1702,'NIZAO'),(94,1703,'MATANZAS'),(57,1801,'PUERTO PLATA'),(57,1802,'ALTAMIRA'),(57,1803,'GUANANICO'),(57,1804,'IMBERT'),(57,1805,'LOS HIDALGOS'),(57,1806,'LUPERON'),(57,1807,'SOSUA'),(57,1808,'VILLA ISABELA'),(57,1809,'VILLA MONTELLANO'),(34,1901,'SALCEDO'),(34,1902,'TENARES'),(34,1903,'VILLA TAPIA'),(32,2001,'SAMANA'),(32,2002,'SANCHEZ'),(32,2003,'LAS TERRENAS'),(91,2101,'SAN CRISTOBAL'),(91,2102,'SABANA GRANDE DE PALENQUE'),(91,2103,'BAJOS DE HAINA'),(91,2104,'CAMBITA GARABITOS'),(91,2105,'VILLA ALTAGRACIA'),(91,2106,'YAGUATE'),(91,2107,'SAN GREGORIO DE NIGUA'),(91,2108,'LOS CACAOS'),(72,2201,'SAN JUAN DE LA MAGUANA'),(72,2202,'BOHECHIO'),(72,2203,'EL CERCADO'),(72,2204,'JUAN DE HERRERA'),(72,2205,'LAS MATAS DE FARFAN'),(72,2206,'VALLEJUELO'),(21,2301,'SAN PEDRO DE MACORIS'),(21,2302,'LOS LLANOS'),(21,2303,'RAMON SANTANA'),(21,2304,'CONSUELO'),(21,2305,'QUISQUEYA'),(21,2306,'GUAYACANES'),(43,2401,'COTUI'),(43,2402,'CEVICOS'),(43,2403,'FANTINO'),(43,2404,'LA MATA'),(51,2501,'SANTIAGO'),(51,2502,'BISONO'),(51,2503,'JANICO'),(51,2504,'LICEY AL MEDIO'),(51,2505,'SAN JOSE DE LAS MATAS'),(51,2506,'TAMBORIL'),(51,2507,'VILLA GONZALEZ'),(51,2508,'PUÑAL'),(51,2509,'SABANA IGLESIA'),(51,2510,'BAITOA'),(64,2601,'SAN IGNACIO DE SABANETA'),(64,2602,'VILLA LOS ALMACIGOS'),(64,2603,'MONCION'),(61,2701,'MAO'),(61,2702,'ESPERANZA'),(61,2703,'LAGUNA SALADA'),(42,2801,'BONAO'),(42,2802,'MAIMON'),(42,2803,'PIEDRA BLANCA'),(92,2901,'MONTE PLATA'),(92,2902,'BAYAGUANA'),(92,2903,'SABANA GRANDE DE BOYA'),(92,2904,'YAMASA'),(92,2905,'PERALVILLO'),(25,3001,'HATO MAYOR'),(25,3002,'SABANA DE LA MAR'),(25,3003,'EL VALLE'),(93,3101,'SAN JOSE DE OCOA'),(93,3102,'SABANA LARGA'),(93,3103,'RANCHO ARRIBA'),(2,3201,'SANTO DOMINGO ESTE'),(2,3202,'SANTO DOMINGO OESTE'),(2,3203,'SANTO DOMINGO NORTE'),(2,3204,'BOCA CHICA'),(2,3205,'SAN ANTONIO DE GUERRA'),(2,3206,'LOS ALCARRIZOS'),(2,3207,'PEDRO BRAND');
-/*!40000 ALTER TABLE `municipios` ENABLE KEYS */;
-UNLOCK TABLES;
-/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+INSERT INTO `municipios` (`id`, `provinciaId`, `nombre`) VALUES
+(1,	1,	'Santo Domingo de Guzmán'),
+(2,	2,	'Azua'),
+(3,	2,	'Las Charcas'),
+(4,	2,	'Las Yayas de Viajama'),
+(5,	2,	'Padre Las Casas'),
+(6,	2,	'Peralta'),
+(7,	2,	'Sabana Yegua'),
+(8,	2,	'Pueblo Viejo'),
+(9,	2,	'Tábara Arriba'),
+(10,	2,	'Guayabal'),
+(11,	2,	'Estebanía'),
+(12,	3,	'Neiba'),
+(13,	3,	'Galván'),
+(14,	3,	'Tamayo'),
+(15,	3,	'Villa Jaragua'),
+(16,	3,	'Los Ríos'),
+(17,	4,	'Barahona'),
+(18,	4,	'Cabral'),
+(19,	4,	'Enriquillo'),
+(20,	4,	'Paraíso'),
+(21,	4,	'Vicente Noble'),
+(22,	4,	'El Peñón'),
+(23,	4,	'La Ciénaga'),
+(24,	4,	'Fundación'),
+(25,	4,	'Las Salinas'),
+(26,	4,	'Polo'),
+(27,	4,	'Jaquimeyes'),
+(28,	5,	'Dajabón'),
+(29,	5,	'Loma de Cabrera'),
+(30,	5,	'Partido'),
+(31,	5,	'Restauración'),
+(32,	5,	'El Pino'),
+(33,	6,	'San Francisco de Macorís'),
+(34,	6,	'Arenoso'),
+(35,	6,	'Castillo'),
+(36,	6,	'Pimentel'),
+(37,	6,	'Villa Riva'),
+(38,	6,	'Las Guáranas'),
+(39,	6,	'Eugenio María de Hostos'),
+(40,	7,	'Comendador'),
+(41,	7,	'Bánica'),
+(42,	7,	'El Llano'),
+(43,	7,	'Hondo Valle'),
+(44,	7,	'Pedro Santana'),
+(45,	7,	'Juan Santiago'),
+(46,	8,	'El Seibo'),
+(47,	8,	'Miches'),
+(48,	9,	'Moca'),
+(49,	9,	'Cayetano Germosén'),
+(50,	9,	'Gaspar Hernández'),
+(51,	9,	'Jamao Al Norte'),
+(52,	9,	'San Víctor '),
+(53,	10,	'Jimaní'),
+(54,	10,	'Duvergé'),
+(55,	10,	'La Descubierta'),
+(56,	10,	'Postrer Río'),
+(57,	10,	'Cristóbal'),
+(58,	10,	'Mella'),
+(59,	11,	'Higüey'),
+(60,	11,	'San Rafael del Yuma'),
+(61,	12,	'La Romana'),
+(62,	12,	'Guaymate'),
+(63,	12,	'Villa Hermosa'),
+(64,	13,	'La Vega'),
+(65,	13,	'Constanza'),
+(66,	13,	'Jarabacoa'),
+(67,	13,	'Jima Abajo'),
+(68,	14,	'Nagua'),
+(69,	14,	'Cabrera'),
+(70,	14,	'El Factor'),
+(71,	14,	'Río San Juan'),
+(72,	15,	'Monte Cristi'),
+(73,	15,	'Castañuelas'),
+(74,	15,	'Guayubín'),
+(75,	15,	'Las Matas de Santa Cruz'),
+(76,	15,	'Pepillo Salcedo'),
+(77,	15,	'Villa Vásquez'),
+(78,	16,	'Pedernales'),
+(79,	16,	'Oviedo'),
+(80,	17,	'Baní'),
+(81,	17,	'Nizao'),
+(82,	17,	'Matanzas'),
+(83,	18,	'Puerto Plata'),
+(84,	18,	'Altamira'),
+(85,	18,	'Guananico'),
+(86,	18,	'Imbert'),
+(87,	18,	'Los Hidalgos'),
+(88,	18,	'Luperón'),
+(89,	18,	'Sosúa'),
+(90,	18,	'Villa Isabela'),
+(91,	18,	'Villa Montellano'),
+(92,	19,	'Salcedo'),
+(93,	19,	'Tenares'),
+(94,	19,	'Villa Tapia'),
+(95,	20,	'Samaná'),
+(96,	20,	'Sánchez'),
+(97,	20,	'Las Terrenas'),
+(98,	21,	'San Cristóbal'),
+(99,	21,	'Sabana Grande de Palenque'),
+(100,	21,	'Bajos de Haina'),
+(101,	21,	'Cambita Garabitos'),
+(102,	21,	'Villa Altagracia'),
+(103,	21,	'Yaguate'),
+(104,	21,	'San Gregorio de Nigua'),
+(105,	21,	'Los Cacaos'),
+(106,	22,	'San Juan'),
+(107,	22,	'Bohechío'),
+(108,	22,	'El Cercado'),
+(109,	22,	'Juan de Herrera'),
+(110,	22,	'Las Matas de Farfán'),
+(111,	22,	'Vallejuelo'),
+(112,	23,	'San Pedro de Macorís'),
+(113,	23,	'Los Llanos'),
+(114,	23,	'Ramón Santana'),
+(115,	23,	'Consuelo'),
+(116,	23,	'Quisqueya'),
+(117,	23,	'Guayacanes'),
+(118,	24,	'Cotuí'),
+(119,	24,	'Cevicos'),
+(120,	24,	'Fantino'),
+(121,	24,	'Villa La Mata'),
+(122,	25,	'Santiago'),
+(123,	25,	'Bisonó'),
+(124,	25,	'Jánico'),
+(125,	25,	'Licey al Medio'),
+(126,	25,	'San José de Las Matas'),
+(127,	25,	'Tamboril'),
+(128,	25,	'Villa González'),
+(129,	25,	'Puñal'),
+(130,	25,	'Sabana Iglesia '),
+(131,	25,	'Baitoa'),
+(132,	26,	'San Ignacio de Sabaneta'),
+(133,	26,	'Villa Los Almácigos'),
+(134,	26,	'Monción'),
+(135,	27,	'Mao'),
+(136,	27,	'Esperanza'),
+(137,	27,	'Laguna Salada'),
+(138,	28,	'Bonao'),
+(139,	28,	'Maimón'),
+(140,	28,	'Piedra Blanca'),
+(141,	29,	'Monte Plata'),
+(142,	29,	'Bayaguana'),
+(143,	29,	'Sabana Grande de Boyá'),
+(144,	29,	'Yamasá'),
+(145,	29,	'Peralvillo'),
+(146,	30,	'Hato Mayor'),
+(147,	30,	'Sabana de La Mar'),
+(148,	30,	'El Valle'),
+(149,	31,	'San José de Ocoa'),
+(150,	31,	'Sabana Larga'),
+(151,	31,	'Rancho Arriba'),
+(152,	32,	'Santo Domingo Este'),
+(153,	32,	'Santo Domingo Oeste'),
+(154,	32,	'Santo Domingo Norte'),
+(155,	32,	'Boca Chica'),
+(156,	32,	'San Antonio de Guerra'),
+(157,	32,	'Los Alcarrizos'),
+(158,	32,	'Pedro Brand');
 
-/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
-/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
-/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
-/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
-
--- Dump completed on 2016-05-15 20:29:13
+-- 2024-07-25 14:16:57
