@@ -85,6 +85,25 @@ logging.basicConfig(
 )
 
 
+def parse_env_file(filename: str = ".env") -> DatabaseCreds:
+    env = dict()
+    with open(filename) as env_file:
+        for line in env_file:
+            if line.startswith("#") or not line.strip():
+                continue
+
+            k, v = line.strip().split("=", 1)
+            env[k] = v
+
+    return DatabaseCreds(
+        user=env["DB_USER"],
+        password=env["DB_PASSWORD"],
+        host=env["DB_HOST"],
+        port=env["DB_PORT"],
+        database=env["DB_DATABASE"],
+    )
+
+
 def extract_excel_data(sheet_name: str, xls_obj: pd.ExcelFile) -> pd.DataFrame:
     """
     Extract and clean data from an Excel sheet.
@@ -180,7 +199,7 @@ def execute_sql_relations(engine, relations: list):
             connection.execute(text(relation))
 
 
-def extract_and_save(filename: str, db_creds: DatabaseCreds = DatabaseCreds()):
+def extract_and_save(filename: str, db_creds: DatabaseCreds = parse_env_file()):
     """
     Extract data from Excel, filter it, and save to the database.
     Args:
