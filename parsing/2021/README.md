@@ -64,3 +64,5 @@ El script realizará las siguientes acciones:
 2. Filtrará los datos según criterios predefinidos.
 3. Guardará los datos filtrados en tablas de una base de datos MySQL.
 4. Establecerá relaciones entre las tablas mediante claves foráneas.
+5. Creará un folder llamado `.json_output` y pondrá todos los archivos
+   correspondientes para la carpeta `JSON` que son utilizados para MongoDB.
