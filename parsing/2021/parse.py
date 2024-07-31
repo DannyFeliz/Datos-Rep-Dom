@@ -1,7 +1,8 @@
 import pandas as pd
 import sys
+import os
 import logging
-from sqlalchemy import create_engine, text
+from sqlalchemy import create_engine, text, Engine
 from sqlalchemy.types import Integer, String
 from dataclasses import dataclass
 
@@ -175,7 +176,7 @@ def filter_data(
     return combined_df
 
 
-def save_to_sql(df: pd.DataFrame, table_name: str, engine, dtype_mapping: dict):
+def save_to_sql(df: pd.DataFrame, table_name: str, engine: Engine, dtype_mapping: dict):
     """
     Save DataFrame to SQL table.
     Args:
@@ -187,7 +188,22 @@ def save_to_sql(df: pd.DataFrame, table_name: str, engine, dtype_mapping: dict):
     df.to_sql(name=table_name, con=engine, dtype=dtype_mapping, if_exists="replace")
 
 
-def execute_sql_relations(engine, relations: list):
+def save_to_json(df: pd.DataFrame, name: str, output_dir: str = ".json_output/"):
+    """
+    Save DataFrames to JSON files.
+    Args:
+        df (pd.DataFrame): DataFrame to save.
+        name (str): Name of the file
+        output_dir (str): Directory to save JSON files.
+    """
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    output_file = os.path.join(output_dir, f"{name}.json")
+    df.to_json(output_file, orient="records", force_ascii=False, indent=2)
+
+
+def execute_sql_relations(engine: Engine, relations: list):
     """
     Execute SQL commands to set up foreign key relations.
     Args:
@@ -335,27 +351,44 @@ def extract_and_save(filename: str, db_creds: DatabaseCreds = parse_env_file()):
         engine,
         dtype_mapping["provincias"],
     )
+
+    save_to_json(dfs["provincias"].rename_axis("id").reset_index(), "provincias")
+
     save_to_sql(
         municipios_sql.rename_axis("id"),
         "municipios",
         engine,
         dtype_mapping["municipios"],
     )
+
+    save_to_json(municipios_sql.rename_axis("id"), "municipios")
+
     save_to_sql(
         distritos_sql.rename_axis("id"), "distritos", engine, dtype_mapping["distritos"]
     )
+
+    save_to_json(distritos_sql.rename_axis("id").reset_index(), "distritos")
+
     save_to_sql(
         secciones_sql.rename_axis("id"), "secciones", engine, dtype_mapping["secciones"]
     )
+
+    save_to_json(secciones_sql.rename_axis("id").reset_index(), "secciones")
+
     save_to_sql(
         barrios_sql.rename_axis("id"), "barrios", engine, dtype_mapping["barrios"]
     )
+
+    save_to_json(barrios_sql.rename_axis("id").reset_index(), "barrios")
+
     save_to_sql(
         sub_barrios_sql.rename_axis("id"),
         "sub_barrios",
         engine,
         dtype_mapping["sub_barrios"],
     )
+
+    save_to_json(sub_barrios_sql.rename_axis("id").reset_index(), "sub_barrios")
 
     # Define and execute SQL commands to set up foreign key relationships
     relation_sql = [

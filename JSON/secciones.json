@@ -1,0 +1,9596 @@
+[
+  {
+    "id":1,
+    "nombre":"Santo Domingo de Guzmán (Zona urbana)",
+    "municipioId":1,
+    "distritoId":null
+  },
+  {
+    "id":2,
+    "nombre":"Azua de Compostela (Zona urbana)",
+    "municipioId":2,
+    "distritoId":null
+  },
+  {
+    "id":3,
+    "nombre":"Barro Arriba (Zona urbana)",
+    "municipioId":2,
+    "distritoId":1.0
+  },
+  {
+    "id":4,
+    "nombre":"Villa Corazón de Jesús",
+    "municipioId":2,
+    "distritoId":1.0
+  },
+  {
+    "id":5,
+    "nombre":"Barro en Medio",
+    "municipioId":2,
+    "distritoId":1.0
+  },
+  {
+    "id":6,
+    "nombre":"El Puerto",
+    "municipioId":2,
+    "distritoId":1.0
+  },
+  {
+    "id":7,
+    "nombre":"Las Barías-La Estancia (Zona urbana)",
+    "municipioId":2,
+    "distritoId":2.0
+  },
+  {
+    "id":8,
+    "nombre":"La Ceiba Vieja",
+    "municipioId":2,
+    "distritoId":2.0
+  },
+  {
+    "id":9,
+    "nombre":"La Ceiba Nueva",
+    "municipioId":2,
+    "distritoId":2.0
+  },
+  {
+    "id":10,
+    "nombre":"Los Jovillos (Zona urbana)",
+    "municipioId":2,
+    "distritoId":3.0
+  },
+  {
+    "id":11,
+    "nombre":"La Altagracia",
+    "municipioId":2,
+    "distritoId":3.0
+  },
+  {
+    "id":12,
+    "nombre":"Kilómetro 7",
+    "municipioId":2,
+    "distritoId":3.0
+  },
+  {
+    "id":13,
+    "nombre":"Puerto Viejo (Zona urbana) ",
+    "municipioId":2,
+    "distritoId":4.0
+  },
+  {
+    "id":14,
+    "nombre":"Ranchería",
+    "municipioId":2,
+    "distritoId":4.0
+  },
+  {
+    "id":15,
+    "nombre":"Barreras (Zona urbana)",
+    "municipioId":2,
+    "distritoId":5.0
+  },
+  {
+    "id":16,
+    "nombre":"Mordán",
+    "municipioId":2,
+    "distritoId":5.0
+  },
+  {
+    "id":17,
+    "nombre":"Doña Emma Balaguer Viuda Vallejo (Zona urbana)",
+    "municipioId":2,
+    "distritoId":6.0
+  },
+  {
+    "id":18,
+    "nombre":"Monte Río",
+    "municipioId":2,
+    "distritoId":6.0
+  },
+  {
+    "id":19,
+    "nombre":"Clavellina (Zona urbana)",
+    "municipioId":2,
+    "distritoId":7.0
+  },
+  {
+    "id":20,
+    "nombre":"Clavellina",
+    "municipioId":2,
+    "distritoId":7.0
+  },
+  {
+    "id":21,
+    "nombre":"Los Tramojos",
+    "municipioId":2,
+    "distritoId":7.0
+  },
+  {
+    "id":22,
+    "nombre":"Los Barrancones",
+    "municipioId":2,
+    "distritoId":7.0
+  },
+  {
+    "id":23,
+    "nombre":"Las Lomas (Zona urbana)",
+    "municipioId":2,
+    "distritoId":8.0
+  },
+  {
+    "id":24,
+    "nombre":"La Cabuyita",
+    "municipioId":2,
+    "distritoId":8.0
+  },
+  {
+    "id":25,
+    "nombre":"Las Charcas (Zona urbana)",
+    "municipioId":3,
+    "distritoId":null
+  },
+  {
+    "id":26,
+    "nombre":"Hatillo",
+    "municipioId":3,
+    "distritoId":null
+  },
+  {
+    "id":27,
+    "nombre":"Cañada Cimarrona",
+    "municipioId":3,
+    "distritoId":null
+  },
+  {
+    "id":28,
+    "nombre":"Boquerón",
+    "municipioId":3,
+    "distritoId":null
+  },
+  {
+    "id":29,
+    "nombre":"Caracoles",
+    "municipioId":3,
+    "distritoId":null
+  },
+  {
+    "id":30,
+    "nombre":"Palmar de Ocoa (Zona urbana)",
+    "municipioId":3,
+    "distritoId":9.0
+  },
+  {
+    "id":31,
+    "nombre":"Duvergé",
+    "municipioId":3,
+    "distritoId":9.0
+  },
+  {
+    "id":32,
+    "nombre":"Las Yayas de Viajama (Zona urbana)",
+    "municipioId":4,
+    "distritoId":null
+  },
+  {
+    "id":33,
+    "nombre":"Viajama",
+    "municipioId":4,
+    "distritoId":null
+  },
+  {
+    "id":34,
+    "nombre":"Villarpando (Zona urbana)",
+    "municipioId":4,
+    "distritoId":10.0
+  },
+  {
+    "id":35,
+    "nombre":"Canoa",
+    "municipioId":4,
+    "distritoId":10.0
+  },
+  {
+    "id":36,
+    "nombre":"Bastidas",
+    "municipioId":4,
+    "distritoId":10.0
+  },
+  {
+    "id":37,
+    "nombre":"Arroyo Salado",
+    "municipioId":4,
+    "distritoId":10.0
+  },
+  {
+    "id":38,
+    "nombre":"Hato Nuevo Cortés (Zona urbana)",
+    "municipioId":4,
+    "distritoId":11.0
+  },
+  {
+    "id":39,
+    "nombre":"Orégano Grande",
+    "municipioId":4,
+    "distritoId":11.0
+  },
+  {
+    "id":40,
+    "nombre":"El Cruce de Las Yayas",
+    "municipioId":4,
+    "distritoId":11.0
+  },
+  {
+    "id":41,
+    "nombre":"Magüeyal",
+    "municipioId":4,
+    "distritoId":11.0
+  },
+  {
+    "id":42,
+    "nombre":"Padre Las Casas (Zona urbana)",
+    "municipioId":5,
+    "distritoId":null
+  },
+  {
+    "id":43,
+    "nombre":"Viejo Sabana Yegua",
+    "municipioId":5,
+    "distritoId":null
+  },
+  {
+    "id":44,
+    "nombre":"Las Lagunas (Zona urbana)",
+    "municipioId":5,
+    "distritoId":12.0
+  },
+  {
+    "id":45,
+    "nombre":"Las Lagunas",
+    "municipioId":5,
+    "distritoId":12.0
+  },
+  {
+    "id":46,
+    "nombre":"Caña Castillo",
+    "municipioId":5,
+    "distritoId":12.0
+  },
+  {
+    "id":47,
+    "nombre":"Las Cañitas",
+    "municipioId":5,
+    "distritoId":12.0
+  },
+  {
+    "id":48,
+    "nombre":"La Siembra (Zona urbana)",
+    "municipioId":5,
+    "distritoId":13.0
+  },
+  {
+    "id":49,
+    "nombre":"La Siembra",
+    "municipioId":5,
+    "distritoId":13.0
+  },
+  {
+    "id":50,
+    "nombre":"Periquito",
+    "municipioId":5,
+    "distritoId":13.0
+  },
+  {
+    "id":51,
+    "nombre":"Los Naranjos",
+    "municipioId":5,
+    "distritoId":13.0
+  },
+  {
+    "id":52,
+    "nombre":"Monte Bonito (Zona urbana)",
+    "municipioId":5,
+    "distritoId":14.0
+  },
+  {
+    "id":53,
+    "nombre":"La Cabuya",
+    "municipioId":5,
+    "distritoId":14.0
+  },
+  {
+    "id":54,
+    "nombre":"El Córbano (El Córvano)",
+    "municipioId":5,
+    "distritoId":14.0
+  },
+  {
+    "id":55,
+    "nombre":"Los Fríos (Zona urbana)",
+    "municipioId":5,
+    "distritoId":15.0
+  },
+  {
+    "id":56,
+    "nombre":"La Cucarita",
+    "municipioId":5,
+    "distritoId":15.0
+  },
+  {
+    "id":57,
+    "nombre":"Los Guayuyos",
+    "municipioId":5,
+    "distritoId":15.0
+  },
+  {
+    "id":58,
+    "nombre":"El Montazo",
+    "municipioId":5,
+    "distritoId":15.0
+  },
+  {
+    "id":59,
+    "nombre":"Peralta (Zona urbana)",
+    "municipioId":6,
+    "distritoId":null
+  },
+  {
+    "id":60,
+    "nombre":"El Carrizal",
+    "municipioId":6,
+    "distritoId":null
+  },
+  {
+    "id":61,
+    "nombre":"El Majagual",
+    "municipioId":6,
+    "distritoId":null
+  },
+  {
+    "id":62,
+    "nombre":"Puerto",
+    "municipioId":6,
+    "distritoId":null
+  },
+  {
+    "id":63,
+    "nombre":"Sabana Yegua (Zona urbana)",
+    "municipioId":7,
+    "distritoId":null
+  },
+  {
+    "id":64,
+    "nombre":"Proyecto 4 (Zona urbana)",
+    "municipioId":7,
+    "distritoId":16.0
+  },
+  {
+    "id":65,
+    "nombre":"Proyecto 4",
+    "municipioId":7,
+    "distritoId":16.0
+  },
+  {
+    "id":66,
+    "nombre":"Ganadero (Zona urbana)",
+    "municipioId":7,
+    "distritoId":17.0
+  },
+  {
+    "id":67,
+    "nombre":"Proyecto D-1 Ganadero",
+    "municipioId":7,
+    "distritoId":17.0
+  },
+  {
+    "id":68,
+    "nombre":"Proyecto 2-C (Zona urbana)",
+    "municipioId":7,
+    "distritoId":18.0
+  },
+  {
+    "id":69,
+    "nombre":"Proyecto 2-C",
+    "municipioId":7,
+    "distritoId":18.0
+  },
+  {
+    "id":70,
+    "nombre":"Pueblo Viejo (Zona urbana)",
+    "municipioId":8,
+    "distritoId":null
+  },
+  {
+    "id":71,
+    "nombre":"Las Terreras",
+    "municipioId":8,
+    "distritoId":null
+  },
+  {
+    "id":72,
+    "nombre":"Guayacanal",
+    "municipioId":8,
+    "distritoId":null
+  },
+  {
+    "id":73,
+    "nombre":"El Rosario (Zona urbana)",
+    "municipioId":8,
+    "distritoId":19.0
+  },
+  {
+    "id":74,
+    "nombre":"El Nuevo Curro",
+    "municipioId":8,
+    "distritoId":19.0
+  },
+  {
+    "id":75,
+    "nombre":"La Ciénaga",
+    "municipioId":8,
+    "distritoId":19.0
+  },
+  {
+    "id":76,
+    "nombre":"Tábara Arriba (Zona urbana)",
+    "municipioId":9,
+    "distritoId":null
+  },
+  {
+    "id":77,
+    "nombre":"Tábara Arriba",
+    "municipioId":9,
+    "distritoId":null
+  },
+  {
+    "id":78,
+    "nombre":"Tábara Abajo (Zona urbana)",
+    "municipioId":9,
+    "distritoId":20.0
+  },
+  {
+    "id":79,
+    "nombre":"Orégano Chiquito",
+    "municipioId":9,
+    "distritoId":20.0
+  },
+  {
+    "id":80,
+    "nombre":"Kilómetro 15",
+    "municipioId":9,
+    "distritoId":20.0
+  },
+  {
+    "id":81,
+    "nombre":"Amiama Gómez (Zona urbana)",
+    "municipioId":9,
+    "distritoId":21.0
+  },
+  {
+    "id":82,
+    "nombre":"Amiama Gómez",
+    "municipioId":9,
+    "distritoId":21.0
+  },
+  {
+    "id":83,
+    "nombre":"Los Toros (Zona urbana)",
+    "municipioId":9,
+    "distritoId":22.0
+  },
+  {
+    "id":84,
+    "nombre":"Las Guanábanas",
+    "municipioId":9,
+    "distritoId":22.0
+  },
+  {
+    "id":85,
+    "nombre":"Sajanoa",
+    "municipioId":9,
+    "distritoId":22.0
+  },
+  {
+    "id":86,
+    "nombre":"Guayabal (Zona urbana)",
+    "municipioId":10,
+    "distritoId":null
+  },
+  {
+    "id":87,
+    "nombre":"El Naranjito",
+    "municipioId":10,
+    "distritoId":null
+  },
+  {
+    "id":88,
+    "nombre":"Arroyo Corozo",
+    "municipioId":10,
+    "distritoId":null
+  },
+  {
+    "id":89,
+    "nombre":"Estebanía (Zona urbana)",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":90,
+    "nombre":"El Memiso",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":91,
+    "nombre":"Rancho del Pino",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":92,
+    "nombre":"La China",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":93,
+    "nombre":"Arroyo Colorado",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":94,
+    "nombre":"El Limón",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":95,
+    "nombre":"Kilómetro 8",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":96,
+    "nombre":"Sabana de Miguel Martín",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":97,
+    "nombre":"El Cruce",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":98,
+    "nombre":"Río Grande",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":99,
+    "nombre":"Los Quemados",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":100,
+    "nombre":"El Francés",
+    "municipioId":11,
+    "distritoId":null
+  },
+  {
+    "id":101,
+    "nombre":"Neiba (Zona urbana)",
+    "municipioId":12,
+    "distritoId":null
+  },
+  {
+    "id":102,
+    "nombre":"Apolinar Perdomo",
+    "municipioId":12,
+    "distritoId":null
+  },
+  {
+    "id":103,
+    "nombre":"El Estero",
+    "municipioId":12,
+    "distritoId":null
+  },
+  {
+    "id":104,
+    "nombre":"Los Guineos",
+    "municipioId":12,
+    "distritoId":null
+  },
+  {
+    "id":105,
+    "nombre":"El Manguito",
+    "municipioId":12,
+    "distritoId":null
+  },
+  {
+    "id":106,
+    "nombre":"Las Petacas",
+    "municipioId":12,
+    "distritoId":null
+  },
+  {
+    "id":107,
+    "nombre":"Los Roas",
+    "municipioId":12,
+    "distritoId":null
+  },
+  {
+    "id":108,
+    "nombre":"Copey",
+    "municipioId":12,
+    "distritoId":null
+  },
+  {
+    "id":109,
+    "nombre":"El Aguacate",
+    "municipioId":12,
+    "distritoId":null
+  },
+  {
+    "id":110,
+    "nombre":"El Palmar (Zona urbana)",
+    "municipioId":12,
+    "distritoId":23.0
+  },
+  {
+    "id":111,
+    "nombre":"Batey I",
+    "municipioId":12,
+    "distritoId":23.0
+  },
+  {
+    "id":112,
+    "nombre":"Batey 4",
+    "municipioId":12,
+    "distritoId":23.0
+  },
+  {
+    "id":113,
+    "nombre":"Batey 5",
+    "municipioId":12,
+    "distritoId":23.0
+  },
+  {
+    "id":114,
+    "nombre":"Batey Isabela",
+    "municipioId":12,
+    "distritoId":23.0
+  },
+  {
+    "id":115,
+    "nombre":"El Palmar",
+    "municipioId":12,
+    "distritoId":23.0
+  },
+  {
+    "id":116,
+    "nombre":"Galván (Zona urbana)",
+    "municipioId":13,
+    "distritoId":null
+  },
+  {
+    "id":117,
+    "nombre":"El Mamón",
+    "municipioId":13,
+    "distritoId":null
+  },
+  {
+    "id":118,
+    "nombre":"El Rodeo (Majagual)",
+    "municipioId":13,
+    "distritoId":null
+  },
+  {
+    "id":119,
+    "nombre":"Las Tejas",
+    "municipioId":13,
+    "distritoId":null
+  },
+  {
+    "id":120,
+    "nombre":"El Salado (Zona urbana)",
+    "municipioId":13,
+    "distritoId":24.0
+  },
+  {
+    "id":121,
+    "nombre":"Tamarindo",
+    "municipioId":13,
+    "distritoId":24.0
+  },
+  {
+    "id":122,
+    "nombre":"Tamayo (Zona urbana)",
+    "municipioId":14,
+    "distritoId":null
+  },
+  {
+    "id":123,
+    "nombre":"Barranca",
+    "municipioId":14,
+    "distritoId":null
+  },
+  {
+    "id":124,
+    "nombre":"Uvilla (Zona urbana)",
+    "municipioId":14,
+    "distritoId":25.0
+  },
+  {
+    "id":125,
+    "nombre":"El Jobo",
+    "municipioId":14,
+    "distritoId":25.0
+  },
+  {
+    "id":126,
+    "nombre":"Santana (Zona urbana)",
+    "municipioId":14,
+    "distritoId":26.0
+  },
+  {
+    "id":127,
+    "nombre":"Bayahonda",
+    "municipioId":14,
+    "distritoId":26.0
+  },
+  {
+    "id":128,
+    "nombre":"Monserrate o Montserrat (Zona urbana)",
+    "municipioId":14,
+    "distritoId":27.0
+  },
+  {
+    "id":129,
+    "nombre":"Santa María",
+    "municipioId":14,
+    "distritoId":27.0
+  },
+  {
+    "id":130,
+    "nombre":"Valle Encantado",
+    "municipioId":14,
+    "distritoId":27.0
+  },
+  {
+    "id":131,
+    "nombre":"Cabeza de Toro (Zona urbana)",
+    "municipioId":14,
+    "distritoId":28.0
+  },
+  {
+    "id":132,
+    "nombre":"El Granado",
+    "municipioId":14,
+    "distritoId":28.0
+  },
+  {
+    "id":133,
+    "nombre":"Guanarate",
+    "municipioId":14,
+    "distritoId":28.0
+  },
+  {
+    "id":134,
+    "nombre":"Mena (Zona urbana)",
+    "municipioId":14,
+    "distritoId":29.0
+  },
+  {
+    "id":135,
+    "nombre":"Los Blocks de Mena",
+    "municipioId":14,
+    "distritoId":29.0
+  },
+  {
+    "id":136,
+    "nombre":"Santa Bárbara El 6 (Zona urbana)",
+    "municipioId":14,
+    "distritoId":30.0
+  },
+  {
+    "id":137,
+    "nombre":"La Casita",
+    "municipioId":14,
+    "distritoId":30.0
+  },
+  {
+    "id":138,
+    "nombre":"Los Robles",
+    "municipioId":14,
+    "distritoId":30.0
+  },
+  {
+    "id":139,
+    "nombre":"Villa Jaragua (Zona urbana)",
+    "municipioId":15,
+    "distritoId":null
+  },
+  {
+    "id":140,
+    "nombre":"El Barro",
+    "municipioId":15,
+    "distritoId":null
+  },
+  {
+    "id":141,
+    "nombre":"Las Cañitas",
+    "municipioId":15,
+    "distritoId":null
+  },
+  {
+    "id":142,
+    "nombre":"Pie de Loma",
+    "municipioId":15,
+    "distritoId":null
+  },
+  {
+    "id":143,
+    "nombre":"Mata de Naranja",
+    "municipioId":15,
+    "distritoId":null
+  },
+  {
+    "id":144,
+    "nombre":"Los Ríos (Zona urbana)",
+    "municipioId":16,
+    "distritoId":null
+  },
+  {
+    "id":145,
+    "nombre":"Higo de la Cruz",
+    "municipioId":16,
+    "distritoId":null
+  },
+  {
+    "id":146,
+    "nombre":"Los Mosquitos",
+    "municipioId":16,
+    "distritoId":null
+  },
+  {
+    "id":147,
+    "nombre":"Las Clavellinas (Zona urbana)",
+    "municipioId":16,
+    "distritoId":31.0
+  },
+  {
+    "id":148,
+    "nombre":"Cañada Vieja",
+    "municipioId":16,
+    "distritoId":31.0
+  },
+  {
+    "id":149,
+    "nombre":"Arroyo Salado",
+    "municipioId":16,
+    "distritoId":31.0
+  },
+  {
+    "id":150,
+    "nombre":"Santa Cruz de Barahona (Zona urbana)",
+    "municipioId":17,
+    "distritoId":null
+  },
+  {
+    "id":151,
+    "nombre":"Manuel Díaz",
+    "municipioId":17,
+    "distritoId":null
+  },
+  {
+    "id":152,
+    "nombre":"Payaso",
+    "municipioId":17,
+    "distritoId":null
+  },
+  {
+    "id":153,
+    "nombre":"El Cachón (Zona urbana)",
+    "municipioId":17,
+    "distritoId":32.0
+  },
+  {
+    "id":154,
+    "nombre":"Los Callejones",
+    "municipioId":17,
+    "distritoId":32.0
+  },
+  {
+    "id":155,
+    "nombre":"La Guázara (Zona urbana)",
+    "municipioId":17,
+    "distritoId":33.0
+  },
+  {
+    "id":156,
+    "nombre":"La Guázara",
+    "municipioId":17,
+    "distritoId":33.0
+  },
+  {
+    "id":157,
+    "nombre":"Villa Central (Zona urbana)",
+    "municipioId":17,
+    "distritoId":34.0
+  },
+  {
+    "id":158,
+    "nombre":"Cabral (Zona urbana)",
+    "municipioId":18,
+    "distritoId":null
+  },
+  {
+    "id":159,
+    "nombre":"Tierra Blanca",
+    "municipioId":18,
+    "distritoId":null
+  },
+  {
+    "id":160,
+    "nombre":"Enriquillo (Zona urbana)",
+    "municipioId":19,
+    "distritoId":null
+  },
+  {
+    "id":161,
+    "nombre":"Buena Vista",
+    "municipioId":19,
+    "distritoId":null
+  },
+  {
+    "id":162,
+    "nombre":"Caletón",
+    "municipioId":19,
+    "distritoId":null
+  },
+  {
+    "id":163,
+    "nombre":"El Pino",
+    "municipioId":19,
+    "distritoId":null
+  },
+  {
+    "id":164,
+    "nombre":"Arroyo Dulce (Zona urbana)",
+    "municipioId":19,
+    "distritoId":35.0
+  },
+  {
+    "id":165,
+    "nombre":"Arroyo Dulce",
+    "municipioId":19,
+    "distritoId":35.0
+  },
+  {
+    "id":166,
+    "nombre":"El Higüero",
+    "municipioId":19,
+    "distritoId":35.0
+  },
+  {
+    "id":167,
+    "nombre":"El Pino",
+    "municipioId":19,
+    "distritoId":35.0
+  },
+  {
+    "id":168,
+    "nombre":"El Naranjal",
+    "municipioId":19,
+    "distritoId":35.0
+  },
+  {
+    "id":169,
+    "nombre":"Paraíso (Zona urbana)",
+    "municipioId":20,
+    "distritoId":null
+  },
+  {
+    "id":170,
+    "nombre":"El Platón",
+    "municipioId":20,
+    "distritoId":null
+  },
+  {
+    "id":171,
+    "nombre":"La Lanza Arriba",
+    "municipioId":20,
+    "distritoId":null
+  },
+  {
+    "id":172,
+    "nombre":"Leonardo",
+    "municipioId":20,
+    "distritoId":null
+  },
+  {
+    "id":173,
+    "nombre":"San Rafael",
+    "municipioId":20,
+    "distritoId":null
+  },
+  {
+    "id":174,
+    "nombre":"Los Patos (Zona urbana)",
+    "municipioId":20,
+    "distritoId":36.0
+  },
+  {
+    "id":175,
+    "nombre":"El Maniel",
+    "municipioId":20,
+    "distritoId":36.0
+  },
+  {
+    "id":176,
+    "nombre":"Ojeda",
+    "municipioId":20,
+    "distritoId":36.0
+  },
+  {
+    "id":177,
+    "nombre":"Vicente Noble (Zona urbana)",
+    "municipioId":21,
+    "distritoId":null
+  },
+  {
+    "id":178,
+    "nombre":"Canoa (Zona urbana)",
+    "municipioId":21,
+    "distritoId":37.0
+  },
+  {
+    "id":179,
+    "nombre":"Bombita",
+    "municipioId":21,
+    "distritoId":37.0
+  },
+  {
+    "id":180,
+    "nombre":"Quita Coraza (Zona urbana)",
+    "municipioId":21,
+    "distritoId":38.0
+  },
+  {
+    "id":181,
+    "nombre":"El Higuito",
+    "municipioId":21,
+    "distritoId":38.0
+  },
+  {
+    "id":182,
+    "nombre":"Las Minas ",
+    "municipioId":21,
+    "distritoId":38.0
+  },
+  {
+    "id":183,
+    "nombre":"Fondo Negro (Zona urbana)",
+    "municipioId":21,
+    "distritoId":39.0
+  },
+  {
+    "id":184,
+    "nombre":"La Cu",
+    "municipioId":21,
+    "distritoId":39.0
+  },
+  {
+    "id":185,
+    "nombre":"Arroyo Grande",
+    "municipioId":21,
+    "distritoId":39.0
+  },
+  {
+    "id":186,
+    "nombre":"El Peñón (Zona urbana)",
+    "municipioId":22,
+    "distritoId":null
+  },
+  {
+    "id":187,
+    "nombre":"El Peñón",
+    "municipioId":22,
+    "distritoId":null
+  },
+  {
+    "id":188,
+    "nombre":"Peñón Arriba",
+    "municipioId":22,
+    "distritoId":null
+  },
+  {
+    "id":189,
+    "nombre":"La Ciénaga (Zona urbana)",
+    "municipioId":23,
+    "distritoId":null
+  },
+  {
+    "id":190,
+    "nombre":"Guayuyal",
+    "municipioId":23,
+    "distritoId":null
+  },
+  {
+    "id":191,
+    "nombre":"Baoruco (Zona urbana)",
+    "municipioId":23,
+    "distritoId":40.0
+  },
+  {
+    "id":192,
+    "nombre":"El Arroyo",
+    "municipioId":23,
+    "distritoId":40.0
+  },
+  {
+    "id":193,
+    "nombre":"La Filipina",
+    "municipioId":23,
+    "distritoId":40.0
+  },
+  {
+    "id":194,
+    "nombre":"Baoruco",
+    "municipioId":23,
+    "distritoId":40.0
+  },
+  {
+    "id":195,
+    "nombre":"Juan Esteban",
+    "municipioId":23,
+    "distritoId":40.0
+  },
+  {
+    "id":196,
+    "nombre":"Fundación (Zona urbana)",
+    "municipioId":24,
+    "distritoId":null
+  },
+  {
+    "id":197,
+    "nombre":"Fundación",
+    "municipioId":24,
+    "distritoId":null
+  },
+  {
+    "id":198,
+    "nombre":"La Altagracia",
+    "municipioId":24,
+    "distritoId":null
+  },
+  {
+    "id":199,
+    "nombre":"Pescadería (Zona urbana)",
+    "municipioId":24,
+    "distritoId":41.0
+  },
+  {
+    "id":200,
+    "nombre":"La Hoya",
+    "municipioId":24,
+    "distritoId":41.0
+  },
+  {
+    "id":201,
+    "nombre":"Hato Viejo",
+    "municipioId":24,
+    "distritoId":41.0
+  },
+  {
+    "id":202,
+    "nombre":"Habanero",
+    "municipioId":24,
+    "distritoId":41.0
+  },
+  {
+    "id":203,
+    "nombre":"Las Salinas (Zona urbana)",
+    "municipioId":25,
+    "distritoId":null
+  },
+  {
+    "id":204,
+    "nombre":"Lemba",
+    "municipioId":25,
+    "distritoId":null
+  },
+  {
+    "id":205,
+    "nombre":"Los Saladillos",
+    "municipioId":25,
+    "distritoId":null
+  },
+  {
+    "id":206,
+    "nombre":"La Cu",
+    "municipioId":25,
+    "distritoId":null
+  },
+  {
+    "id":207,
+    "nombre":"Polo (Zona urbana)",
+    "municipioId":26,
+    "distritoId":null
+  },
+  {
+    "id":208,
+    "nombre":"Las Auyamas",
+    "municipioId":26,
+    "distritoId":null
+  },
+  {
+    "id":209,
+    "nombre":"Los Charquitos",
+    "municipioId":26,
+    "distritoId":null
+  },
+  {
+    "id":210,
+    "nombre":"Los Arroyos",
+    "municipioId":26,
+    "distritoId":null
+  },
+  {
+    "id":211,
+    "nombre":"Fondo de Agustín",
+    "municipioId":26,
+    "distritoId":null
+  },
+  {
+    "id":212,
+    "nombre":"Jaquimeyes (Zona urbana)",
+    "municipioId":27,
+    "distritoId":null
+  },
+  {
+    "id":213,
+    "nombre":"Jaquimeyes",
+    "municipioId":27,
+    "distritoId":null
+  },
+  {
+    "id":214,
+    "nombre":"Palo Alto (Zona urbana)",
+    "municipioId":27,
+    "distritoId":42.0
+  },
+  {
+    "id":215,
+    "nombre":"Las Palmas",
+    "municipioId":27,
+    "distritoId":42.0
+  },
+  {
+    "id":216,
+    "nombre":"Dajabón (Zona urbana)",
+    "municipioId":28,
+    "distritoId":null
+  },
+  {
+    "id":217,
+    "nombre":"Cañongo",
+    "municipioId":28,
+    "distritoId":null
+  },
+  {
+    "id":218,
+    "nombre":"Cayuco",
+    "municipioId":28,
+    "distritoId":null
+  },
+  {
+    "id":219,
+    "nombre":"Sabana Larga",
+    "municipioId":28,
+    "distritoId":null
+  },
+  {
+    "id":220,
+    "nombre":"Clavellina",
+    "municipioId":28,
+    "distritoId":null
+  },
+  {
+    "id":221,
+    "nombre":"Chacuey",
+    "municipioId":28,
+    "distritoId":null
+  },
+  {
+    "id":222,
+    "nombre":"Cañongo (Zona urbana)",
+    "municipioId":28,
+    "distritoId":43.0
+  },
+  {
+    "id":223,
+    "nombre":"La Vigía",
+    "municipioId":28,
+    "distritoId":43.0
+  },
+  {
+    "id":224,
+    "nombre":"Loma de Cabrera (Zona urbana)",
+    "municipioId":29,
+    "distritoId":null
+  },
+  {
+    "id":225,
+    "nombre":"El Aguacate",
+    "municipioId":29,
+    "distritoId":null
+  },
+  {
+    "id":226,
+    "nombre":"El Cajuil",
+    "municipioId":29,
+    "distritoId":null
+  },
+  {
+    "id":227,
+    "nombre":"La Ceiba",
+    "municipioId":29,
+    "distritoId":null
+  },
+  {
+    "id":228,
+    "nombre":"Monte Grande",
+    "municipioId":29,
+    "distritoId":null
+  },
+  {
+    "id":229,
+    "nombre":"Capotillo (Zona urbana)",
+    "municipioId":29,
+    "distritoId":44.0
+  },
+  {
+    "id":230,
+    "nombre":"Hipólito Billini",
+    "municipioId":29,
+    "distritoId":44.0
+  },
+  {
+    "id":231,
+    "nombre":"La Peñita Abajo",
+    "municipioId":29,
+    "distritoId":44.0
+  },
+  {
+    "id":232,
+    "nombre":"Santiago de La Cruz (Zona urbana)",
+    "municipioId":29,
+    "distritoId":45.0
+  },
+  {
+    "id":233,
+    "nombre":"Pinar Claro",
+    "municipioId":29,
+    "distritoId":45.0
+  },
+  {
+    "id":234,
+    "nombre":"El Plan",
+    "municipioId":29,
+    "distritoId":45.0
+  },
+  {
+    "id":235,
+    "nombre":"La Piña",
+    "municipioId":29,
+    "distritoId":45.0
+  },
+  {
+    "id":236,
+    "nombre":"Partido (Zona urbana)",
+    "municipioId":30,
+    "distritoId":null
+  },
+  {
+    "id":237,
+    "nombre":"Partido Arriba",
+    "municipioId":30,
+    "distritoId":null
+  },
+  {
+    "id":238,
+    "nombre":"Vaca Gorda",
+    "municipioId":30,
+    "distritoId":null
+  },
+  {
+    "id":239,
+    "nombre":"La Gorra",
+    "municipioId":30,
+    "distritoId":null
+  },
+  {
+    "id":240,
+    "nombre":"Restauración (Zona urbana)",
+    "municipioId":31,
+    "distritoId":null
+  },
+  {
+    "id":241,
+    "nombre":"Cruz de Cabrera",
+    "municipioId":31,
+    "distritoId":null
+  },
+  {
+    "id":242,
+    "nombre":"El Carrizal",
+    "municipioId":31,
+    "distritoId":null
+  },
+  {
+    "id":243,
+    "nombre":"La Pocilga",
+    "municipioId":31,
+    "distritoId":null
+  },
+  {
+    "id":244,
+    "nombre":"Los Cerezos",
+    "municipioId":31,
+    "distritoId":null
+  },
+  {
+    "id":245,
+    "nombre":"El Pino (Zona urbana)",
+    "municipioId":32,
+    "distritoId":null
+  },
+  {
+    "id":246,
+    "nombre":"Plan I",
+    "municipioId":32,
+    "distritoId":null
+  },
+  {
+    "id":247,
+    "nombre":"El Rodeo",
+    "municipioId":32,
+    "distritoId":null
+  },
+  {
+    "id":248,
+    "nombre":"Manuel Bueno (Zona urbana)",
+    "municipioId":32,
+    "distritoId":46.0
+  },
+  {
+    "id":249,
+    "nombre":"Manuel Bueno",
+    "municipioId":32,
+    "distritoId":46.0
+  },
+  {
+    "id":250,
+    "nombre":"La Luisa",
+    "municipioId":32,
+    "distritoId":46.0
+  },
+  {
+    "id":251,
+    "nombre":"La Jagua Abajo",
+    "municipioId":32,
+    "distritoId":46.0
+  },
+  {
+    "id":252,
+    "nombre":"San Francisco de Macorís (Zona urbana)",
+    "municipioId":33,
+    "distritoId":null
+  },
+  {
+    "id":253,
+    "nombre":"Colón",
+    "municipioId":33,
+    "distritoId":null
+  },
+  {
+    "id":254,
+    "nombre":"Güiza",
+    "municipioId":33,
+    "distritoId":null
+  },
+  {
+    "id":255,
+    "nombre":"La Joya",
+    "municipioId":33,
+    "distritoId":null
+  },
+  {
+    "id":256,
+    "nombre":"Los Bejucos",
+    "municipioId":33,
+    "distritoId":null
+  },
+  {
+    "id":257,
+    "nombre":"Las Guázumas",
+    "municipioId":33,
+    "distritoId":null
+  },
+  {
+    "id":258,
+    "nombre":"La Malena",
+    "municipioId":33,
+    "distritoId":null
+  },
+  {
+    "id":259,
+    "nombre":"La Peña (Zona urbana)",
+    "municipioId":33,
+    "distritoId":47.0
+  },
+  {
+    "id":260,
+    "nombre":"La Bajada",
+    "municipioId":33,
+    "distritoId":47.0
+  },
+  {
+    "id":261,
+    "nombre":"Demajagual",
+    "municipioId":33,
+    "distritoId":47.0
+  },
+  {
+    "id":262,
+    "nombre":"Dichoso",
+    "municipioId":33,
+    "distritoId":47.0
+  },
+  {
+    "id":263,
+    "nombre":"Laguna de Coto",
+    "municipioId":33,
+    "distritoId":47.0
+  },
+  {
+    "id":264,
+    "nombre":"La Mesa",
+    "municipioId":33,
+    "distritoId":47.0
+  },
+  {
+    "id":265,
+    "nombre":"Patao",
+    "municipioId":33,
+    "distritoId":47.0
+  },
+  {
+    "id":266,
+    "nombre":"La Peña",
+    "municipioId":33,
+    "distritoId":47.0
+  },
+  {
+    "id":267,
+    "nombre":"Pontón",
+    "municipioId":33,
+    "distritoId":47.0
+  },
+  {
+    "id":268,
+    "nombre":"Ramonal",
+    "municipioId":33,
+    "distritoId":47.0
+  },
+  {
+    "id":269,
+    "nombre":"Cenoví (Zona urbana)",
+    "municipioId":33,
+    "distritoId":48.0
+  },
+  {
+    "id":270,
+    "nombre":"Bomba de Cenoví",
+    "municipioId":33,
+    "distritoId":48.0
+  },
+  {
+    "id":271,
+    "nombre":"Los Indios",
+    "municipioId":33,
+    "distritoId":48.0
+  },
+  {
+    "id":272,
+    "nombre":"Cruz de Cenoví",
+    "municipioId":33,
+    "distritoId":48.0
+  },
+  {
+    "id":273,
+    "nombre":"Porquero",
+    "municipioId":33,
+    "distritoId":48.0
+  },
+  {
+    "id":274,
+    "nombre":"El Caimito",
+    "municipioId":33,
+    "distritoId":48.0
+  },
+  {
+    "id":275,
+    "nombre":"Colón",
+    "municipioId":33,
+    "distritoId":48.0
+  },
+  {
+    "id":276,
+    "nombre":"Hoyo Jaya (Zona urbana)",
+    "municipioId":33,
+    "distritoId":49.0
+  },
+  {
+    "id":277,
+    "nombre":"La Piña",
+    "municipioId":33,
+    "distritoId":49.0
+  },
+  {
+    "id":278,
+    "nombre":"Hoyo de Jaya",
+    "municipioId":33,
+    "distritoId":49.0
+  },
+  {
+    "id":279,
+    "nombre":"Los Bacilios",
+    "municipioId":33,
+    "distritoId":49.0
+  },
+  {
+    "id":280,
+    "nombre":"Naranjo Dulce",
+    "municipioId":33,
+    "distritoId":49.0
+  },
+  {
+    "id":281,
+    "nombre":"Loma de Jaya",
+    "municipioId":33,
+    "distritoId":49.0
+  },
+  {
+    "id":282,
+    "nombre":"Jaya",
+    "municipioId":33,
+    "distritoId":49.0
+  },
+  {
+    "id":283,
+    "nombre":"Presidente Don Antonio Guzmán Fernández (Zona urbana)",
+    "municipioId":33,
+    "distritoId":50.0
+  },
+  {
+    "id":284,
+    "nombre":"La Guama",
+    "municipioId":33,
+    "distritoId":50.0
+  },
+  {
+    "id":285,
+    "nombre":"Génimo",
+    "municipioId":33,
+    "distritoId":50.0
+  },
+  {
+    "id":286,
+    "nombre":"Arenoso (Zona urbana)",
+    "municipioId":34,
+    "distritoId":null
+  },
+  {
+    "id":287,
+    "nombre":"Los Platanitos",
+    "municipioId":34,
+    "distritoId":null
+  },
+  {
+    "id":288,
+    "nombre":"Las Coles (Zona urbana)",
+    "municipioId":34,
+    "distritoId":51.0
+  },
+  {
+    "id":289,
+    "nombre":"Las Carreras",
+    "municipioId":34,
+    "distritoId":51.0
+  },
+  {
+    "id":290,
+    "nombre":"La Jagua",
+    "municipioId":34,
+    "distritoId":51.0
+  },
+  {
+    "id":291,
+    "nombre":"La Garza",
+    "municipioId":34,
+    "distritoId":51.0
+  },
+  {
+    "id":292,
+    "nombre":"El Aguacate (Zona urbana)",
+    "municipioId":34,
+    "distritoId":52.0
+  },
+  {
+    "id":293,
+    "nombre":"El Aguacate",
+    "municipioId":34,
+    "distritoId":52.0
+  },
+  {
+    "id":294,
+    "nombre":"Yabacoa",
+    "municipioId":34,
+    "distritoId":52.0
+  },
+  {
+    "id":295,
+    "nombre":"Ciénaga Vieja",
+    "municipioId":34,
+    "distritoId":52.0
+  },
+  {
+    "id":296,
+    "nombre":"Los Haitiles",
+    "municipioId":34,
+    "distritoId":52.0
+  },
+  {
+    "id":297,
+    "nombre":"Castillo (Zona urbana)",
+    "municipioId":35,
+    "distritoId":null
+  },
+  {
+    "id":298,
+    "nombre":"Jina Clara",
+    "municipioId":35,
+    "distritoId":null
+  },
+  {
+    "id":299,
+    "nombre":"Juana Díaz",
+    "municipioId":35,
+    "distritoId":null
+  },
+  {
+    "id":300,
+    "nombre":"Los Cachones",
+    "municipioId":35,
+    "distritoId":null
+  },
+  {
+    "id":301,
+    "nombre":"Los Lanos",
+    "municipioId":35,
+    "distritoId":null
+  },
+  {
+    "id":302,
+    "nombre":"Rincón Hondo",
+    "municipioId":35,
+    "distritoId":null
+  },
+  {
+    "id":303,
+    "nombre":"Yaiba Abajo",
+    "municipioId":35,
+    "distritoId":null
+  },
+  {
+    "id":304,
+    "nombre":"Pimentel (Zona urbana)",
+    "municipioId":36,
+    "distritoId":null
+  },
+  {
+    "id":305,
+    "nombre":"Buena Vista",
+    "municipioId":36,
+    "distritoId":null
+  },
+  {
+    "id":306,
+    "nombre":"Caobete",
+    "municipioId":36,
+    "distritoId":null
+  },
+  {
+    "id":307,
+    "nombre":"Cuaba Abajo",
+    "municipioId":36,
+    "distritoId":null
+  },
+  {
+    "id":308,
+    "nombre":"San Felipe Arriba",
+    "municipioId":36,
+    "distritoId":null
+  },
+  {
+    "id":309,
+    "nombre":"Villa Riva (Zona urbana)",
+    "municipioId":37,
+    "distritoId":null
+  },
+  {
+    "id":310,
+    "nombre":"Ceiba de Los Pájaros",
+    "municipioId":37,
+    "distritoId":null
+  },
+  {
+    "id":311,
+    "nombre":"Chiringo",
+    "municipioId":37,
+    "distritoId":null
+  },
+  {
+    "id":312,
+    "nombre":"Agua Santa del Yuna (Zona urbana)",
+    "municipioId":37,
+    "distritoId":53.0
+  },
+  {
+    "id":313,
+    "nombre":"Callejón de Tilo",
+    "municipioId":37,
+    "distritoId":53.0
+  },
+  {
+    "id":314,
+    "nombre":"Paraguay",
+    "municipioId":37,
+    "distritoId":53.0
+  },
+  {
+    "id":315,
+    "nombre":"La Reforma",
+    "municipioId":37,
+    "distritoId":53.0
+  },
+  {
+    "id":316,
+    "nombre":"Cristo Rey de Guaraguao (Zona urbana)",
+    "municipioId":37,
+    "distritoId":54.0
+  },
+  {
+    "id":317,
+    "nombre":"Guaraguao",
+    "municipioId":37,
+    "distritoId":54.0
+  },
+  {
+    "id":318,
+    "nombre":"Los Peynado",
+    "municipioId":37,
+    "distritoId":54.0
+  },
+  {
+    "id":319,
+    "nombre":"Las Taranas (Zona urbana)",
+    "municipioId":37,
+    "distritoId":55.0
+  },
+  {
+    "id":320,
+    "nombre":"El Abanico",
+    "municipioId":37,
+    "distritoId":55.0
+  },
+  {
+    "id":321,
+    "nombre":"Bomba de Yaiba",
+    "municipioId":37,
+    "distritoId":55.0
+  },
+  {
+    "id":322,
+    "nombre":"Jobobán",
+    "municipioId":37,
+    "distritoId":55.0
+  },
+  {
+    "id":323,
+    "nombre":"Barraquito (Zona Urbana)",
+    "municipioId":37,
+    "distritoId":56.0
+  },
+  {
+    "id":324,
+    "nombre":"Barraquito",
+    "municipioId":37,
+    "distritoId":56.0
+  },
+  {
+    "id":325,
+    "nombre":"El Venao",
+    "municipioId":37,
+    "distritoId":56.0
+  },
+  {
+    "id":326,
+    "nombre":"La Pista",
+    "municipioId":37,
+    "distritoId":56.0
+  },
+  {
+    "id":327,
+    "nombre":"Las Guáranas (Zona urbana)",
+    "municipioId":38,
+    "distritoId":null
+  },
+  {
+    "id":328,
+    "nombre":"La Enea",
+    "municipioId":38,
+    "distritoId":null
+  },
+  {
+    "id":329,
+    "nombre":"El Hato",
+    "municipioId":38,
+    "distritoId":null
+  },
+  {
+    "id":330,
+    "nombre":"Rincón de los Genao",
+    "municipioId":38,
+    "distritoId":null
+  },
+  {
+    "id":331,
+    "nombre":"Los Rivera",
+    "municipioId":38,
+    "distritoId":null
+  },
+  {
+    "id":332,
+    "nombre":"Eugenio María de Hostos (Zona urbana)",
+    "municipioId":39,
+    "distritoId":null
+  },
+  {
+    "id":333,
+    "nombre":"Acicate",
+    "municipioId":39,
+    "distritoId":null
+  },
+  {
+    "id":334,
+    "nombre":"Cerrejón",
+    "municipioId":39,
+    "distritoId":null
+  },
+  {
+    "id":335,
+    "nombre":"La Isleta",
+    "municipioId":39,
+    "distritoId":null
+  },
+  {
+    "id":336,
+    "nombre":"Sabana Grande (Zona urbana)",
+    "municipioId":39,
+    "distritoId":57.0
+  },
+  {
+    "id":337,
+    "nombre":"Culata Abajo",
+    "municipioId":39,
+    "distritoId":57.0
+  },
+  {
+    "id":338,
+    "nombre":"La Culata",
+    "municipioId":39,
+    "distritoId":57.0
+  },
+  {
+    "id":339,
+    "nombre":"María Fernández",
+    "municipioId":39,
+    "distritoId":57.0
+  },
+  {
+    "id":340,
+    "nombre":"Comendador (Zona urbana)",
+    "municipioId":40,
+    "distritoId":null
+  },
+  {
+    "id":341,
+    "nombre":"Los Rinconcitos",
+    "municipioId":40,
+    "distritoId":null
+  },
+  {
+    "id":342,
+    "nombre":"Puello",
+    "municipioId":40,
+    "distritoId":null
+  },
+  {
+    "id":343,
+    "nombre":"La Jagua",
+    "municipioId":40,
+    "distritoId":null
+  },
+  {
+    "id":344,
+    "nombre":"Juan Felipe",
+    "municipioId":40,
+    "distritoId":null
+  },
+  {
+    "id":345,
+    "nombre":"Macasía",
+    "municipioId":40,
+    "distritoId":null
+  },
+  {
+    "id":346,
+    "nombre":"Las Patillas",
+    "municipioId":40,
+    "distritoId":null
+  },
+  {
+    "id":347,
+    "nombre":"El Pino",
+    "municipioId":40,
+    "distritoId":null
+  },
+  {
+    "id":348,
+    "nombre":"Pinzón",
+    "municipioId":40,
+    "distritoId":null
+  },
+  {
+    "id":349,
+    "nombre":"Sabana Larga (Zona urbana)",
+    "municipioId":40,
+    "distritoId":58.0
+  },
+  {
+    "id":350,
+    "nombre":"Sabana Larga",
+    "municipioId":40,
+    "distritoId":58.0
+  },
+  {
+    "id":351,
+    "nombre":"Angostura",
+    "municipioId":40,
+    "distritoId":58.0
+  },
+  {
+    "id":352,
+    "nombre":"Hato Viejo",
+    "municipioId":40,
+    "distritoId":58.0
+  },
+  {
+    "id":353,
+    "nombre":"Potroso",
+    "municipioId":40,
+    "distritoId":58.0
+  },
+  {
+    "id":354,
+    "nombre":"Potro Blanco",
+    "municipioId":40,
+    "distritoId":58.0
+  },
+  {
+    "id":355,
+    "nombre":"Guayabo (Zona urbana)",
+    "municipioId":40,
+    "distritoId":59.0
+  },
+  {
+    "id":356,
+    "nombre":"Guazumal",
+    "municipioId":40,
+    "distritoId":59.0
+  },
+  {
+    "id":357,
+    "nombre":"Isidro Martínez",
+    "municipioId":40,
+    "distritoId":59.0
+  },
+  {
+    "id":358,
+    "nombre":"La Meseta",
+    "municipioId":40,
+    "distritoId":59.0
+  },
+  {
+    "id":359,
+    "nombre":"Bánica (Zona urbana)",
+    "municipioId":41,
+    "distritoId":null
+  },
+  {
+    "id":360,
+    "nombre":"Las Cañitas",
+    "municipioId":41,
+    "distritoId":null
+  },
+  {
+    "id":361,
+    "nombre":"Tabacal",
+    "municipioId":41,
+    "distritoId":null
+  },
+  {
+    "id":362,
+    "nombre":"Rastrillo",
+    "municipioId":41,
+    "distritoId":null
+  },
+  {
+    "id":363,
+    "nombre":"Sabana Cruz (Zona urbana)",
+    "municipioId":41,
+    "distritoId":60.0
+  },
+  {
+    "id":364,
+    "nombre":"Sabana  Cruz",
+    "municipioId":41,
+    "distritoId":60.0
+  },
+  {
+    "id":365,
+    "nombre":"Guayabal",
+    "municipioId":41,
+    "distritoId":60.0
+  },
+  {
+    "id":366,
+    "nombre":"Guaroa",
+    "municipioId":41,
+    "distritoId":60.0
+  },
+  {
+    "id":367,
+    "nombre":"El Fondo",
+    "municipioId":41,
+    "distritoId":60.0
+  },
+  {
+    "id":368,
+    "nombre":"Sabana Higüero (Zona urbana)",
+    "municipioId":41,
+    "distritoId":61.0
+  },
+  {
+    "id":369,
+    "nombre":"Higüerito",
+    "municipioId":41,
+    "distritoId":61.0
+  },
+  {
+    "id":370,
+    "nombre":"Los Yareyes",
+    "municipioId":41,
+    "distritoId":61.0
+  },
+  {
+    "id":371,
+    "nombre":"El Cantón",
+    "municipioId":41,
+    "distritoId":61.0
+  },
+  {
+    "id":372,
+    "nombre":"Cabeza de la Sabana",
+    "municipioId":41,
+    "distritoId":61.0
+  },
+  {
+    "id":373,
+    "nombre":"El Llano (Zona urbana)",
+    "municipioId":42,
+    "distritoId":null
+  },
+  {
+    "id":374,
+    "nombre":"Reboso",
+    "municipioId":42,
+    "distritoId":null
+  },
+  {
+    "id":375,
+    "nombre":"Guanito (Zona urbana)",
+    "municipioId":42,
+    "distritoId":62.0
+  },
+  {
+    "id":376,
+    "nombre":"Guanito",
+    "municipioId":42,
+    "distritoId":62.0
+  },
+  {
+    "id":377,
+    "nombre":"Las Lagunas",
+    "municipioId":42,
+    "distritoId":62.0
+  },
+  {
+    "id":378,
+    "nombre":"Blanco",
+    "municipioId":42,
+    "distritoId":62.0
+  },
+  {
+    "id":379,
+    "nombre":"Hondo Valle (Zona urbana)",
+    "municipioId":43,
+    "distritoId":null
+  },
+  {
+    "id":380,
+    "nombre":"Aniceto Martínez",
+    "municipioId":43,
+    "distritoId":null
+  },
+  {
+    "id":381,
+    "nombre":"Rancho de Pedro",
+    "municipioId":43,
+    "distritoId":null
+  },
+  {
+    "id":382,
+    "nombre":"Rancho de La Guardia (Zona urbana)",
+    "municipioId":43,
+    "distritoId":63.0
+  },
+  {
+    "id":383,
+    "nombre":"Los Guineos",
+    "municipioId":43,
+    "distritoId":63.0
+  },
+  {
+    "id":384,
+    "nombre":"La Sahonada",
+    "municipioId":43,
+    "distritoId":63.0
+  },
+  {
+    "id":385,
+    "nombre":"Rancho de la Guardia",
+    "municipioId":43,
+    "distritoId":63.0
+  },
+  {
+    "id":386,
+    "nombre":"Pedro Santana (Zona urbana)",
+    "municipioId":44,
+    "distritoId":null
+  },
+  {
+    "id":387,
+    "nombre":"La Palma",
+    "municipioId":44,
+    "distritoId":null
+  },
+  {
+    "id":388,
+    "nombre":"El Hoyo",
+    "municipioId":44,
+    "distritoId":null
+  },
+  {
+    "id":389,
+    "nombre":"Guayajayuco",
+    "municipioId":44,
+    "distritoId":null
+  },
+  {
+    "id":390,
+    "nombre":"Nicolás (Joca)",
+    "municipioId":44,
+    "distritoId":null
+  },
+  {
+    "id":391,
+    "nombre":"Río Limpio (Zona urbana)",
+    "municipioId":44,
+    "distritoId":64.0
+  },
+  {
+    "id":392,
+    "nombre":"Río Limpio",
+    "municipioId":44,
+    "distritoId":64.0
+  },
+  {
+    "id":393,
+    "nombre":"La Sierrecita",
+    "municipioId":44,
+    "distritoId":64.0
+  },
+  {
+    "id":394,
+    "nombre":"Billiguín",
+    "municipioId":44,
+    "distritoId":64.0
+  },
+  {
+    "id":395,
+    "nombre":"Juan Santiago (Zona urbana)",
+    "municipioId":45,
+    "distritoId":null
+  },
+  {
+    "id":396,
+    "nombre":"Juan Santiago",
+    "municipioId":45,
+    "distritoId":null
+  },
+  {
+    "id":397,
+    "nombre":"Juan de La Cruz",
+    "municipioId":45,
+    "distritoId":null
+  },
+  {
+    "id":398,
+    "nombre":"Sabana de la Loma",
+    "municipioId":45,
+    "distritoId":null
+  },
+  {
+    "id":399,
+    "nombre":"Monte Mayor",
+    "municipioId":45,
+    "distritoId":null
+  },
+  {
+    "id":400,
+    "nombre":"Santa Cruz de El Seibo (Zona urbana)",
+    "municipioId":46,
+    "distritoId":null
+  },
+  {
+    "id":401,
+    "nombre":"Arroyo Grande",
+    "municipioId":46,
+    "distritoId":null
+  },
+  {
+    "id":402,
+    "nombre":"Campiña",
+    "municipioId":46,
+    "distritoId":null
+  },
+  {
+    "id":403,
+    "nombre":"Candelaria",
+    "municipioId":46,
+    "distritoId":null
+  },
+  {
+    "id":404,
+    "nombre":"Las Cuchillas",
+    "municipioId":46,
+    "distritoId":null
+  },
+  {
+    "id":405,
+    "nombre":"El Cuey",
+    "municipioId":46,
+    "distritoId":null
+  },
+  {
+    "id":406,
+    "nombre":"Magarín",
+    "municipioId":46,
+    "distritoId":null
+  },
+  {
+    "id":407,
+    "nombre":"Mata de Palma",
+    "municipioId":46,
+    "distritoId":null
+  },
+  {
+    "id":408,
+    "nombre":"Anamá",
+    "municipioId":46,
+    "distritoId":null
+  },
+  {
+    "id":409,
+    "nombre":"Pedro Sánchez (Zona urbana)",
+    "municipioId":46,
+    "distritoId":65.0
+  },
+  {
+    "id":410,
+    "nombre":"Isabelita",
+    "municipioId":46,
+    "distritoId":65.0
+  },
+  {
+    "id":411,
+    "nombre":"Pedro Sánchez",
+    "municipioId":46,
+    "distritoId":65.0
+  },
+  {
+    "id":412,
+    "nombre":"Vicentillo (Zona urbana)",
+    "municipioId":46,
+    "distritoId":66.0
+  },
+  {
+    "id":413,
+    "nombre":"Yabón",
+    "municipioId":46,
+    "distritoId":66.0
+  },
+  {
+    "id":414,
+    "nombre":"El Cercado",
+    "municipioId":46,
+    "distritoId":66.0
+  },
+  {
+    "id":415,
+    "nombre":"Santa Lucía (Zona urbana)",
+    "municipioId":46,
+    "distritoId":67.0
+  },
+  {
+    "id":416,
+    "nombre":"El Pintado",
+    "municipioId":46,
+    "distritoId":67.0
+  },
+  {
+    "id":417,
+    "nombre":"La Higuera",
+    "municipioId":46,
+    "distritoId":67.0
+  },
+  {
+    "id":418,
+    "nombre":"Santa Lucía",
+    "municipioId":46,
+    "distritoId":67.0
+  },
+  {
+    "id":419,
+    "nombre":"Miches (Zona urbana)",
+    "municipioId":47,
+    "distritoId":null
+  },
+  {
+    "id":420,
+    "nombre":"El Morro",
+    "municipioId":47,
+    "distritoId":null
+  },
+  {
+    "id":421,
+    "nombre":"El Cedro (Zona urbana)",
+    "municipioId":47,
+    "distritoId":68.0
+  },
+  {
+    "id":422,
+    "nombre":"Las Lisas",
+    "municipioId":47,
+    "distritoId":68.0
+  },
+  {
+    "id":423,
+    "nombre":"Guaraguao",
+    "municipioId":47,
+    "distritoId":68.0
+  },
+  {
+    "id":424,
+    "nombre":"La Gina (Zona urbana)",
+    "municipioId":47,
+    "distritoId":69.0
+  },
+  {
+    "id":425,
+    "nombre":"La Culebra",
+    "municipioId":47,
+    "distritoId":69.0
+  },
+  {
+    "id":426,
+    "nombre":"Moca (Zona urbana)",
+    "municipioId":48,
+    "distritoId":null
+  },
+  {
+    "id":427,
+    "nombre":"Zafarraya",
+    "municipioId":48,
+    "distritoId":null
+  },
+  {
+    "id":428,
+    "nombre":"El Algarrobo",
+    "municipioId":48,
+    "distritoId":null
+  },
+  {
+    "id":429,
+    "nombre":"Llenas",
+    "municipioId":48,
+    "distritoId":null
+  },
+  {
+    "id":430,
+    "nombre":"Paso de Moca",
+    "municipioId":48,
+    "distritoId":null
+  },
+  {
+    "id":431,
+    "nombre":"San Luis",
+    "municipioId":48,
+    "distritoId":null
+  },
+  {
+    "id":432,
+    "nombre":"Santa Rosa",
+    "municipioId":48,
+    "distritoId":null
+  },
+  {
+    "id":433,
+    "nombre":"José Contreras (Zona urbana)",
+    "municipioId":48,
+    "distritoId":70.0
+  },
+  {
+    "id":434,
+    "nombre":"Camarones",
+    "municipioId":48,
+    "distritoId":70.0
+  },
+  {
+    "id":435,
+    "nombre":"Palma Herrada",
+    "municipioId":48,
+    "distritoId":70.0
+  },
+  {
+    "id":436,
+    "nombre":"Rancho de los Plátanos",
+    "municipioId":48,
+    "distritoId":70.0
+  },
+  {
+    "id":437,
+    "nombre":"Juan López (Zona urbana)",
+    "municipioId":48,
+    "distritoId":71.0
+  },
+  {
+    "id":438,
+    "nombre":"Juan López Abajo",
+    "municipioId":48,
+    "distritoId":71.0
+  },
+  {
+    "id":439,
+    "nombre":"Los Robles",
+    "municipioId":48,
+    "distritoId":71.0
+  },
+  {
+    "id":440,
+    "nombre":"Juan López Arriba",
+    "municipioId":48,
+    "distritoId":71.0
+  },
+  {
+    "id":441,
+    "nombre":"El Salitre",
+    "municipioId":48,
+    "distritoId":71.0
+  },
+  {
+    "id":442,
+    "nombre":"Las Lagunas (Zona urbana)",
+    "municipioId":48,
+    "distritoId":72.0
+  },
+  {
+    "id":443,
+    "nombre":"Las Lagunas Abajo",
+    "municipioId":48,
+    "distritoId":72.0
+  },
+  {
+    "id":444,
+    "nombre":"El Aguacate Arriba",
+    "municipioId":48,
+    "distritoId":72.0
+  },
+  {
+    "id":445,
+    "nombre":"Boca Férrea Abajo",
+    "municipioId":48,
+    "distritoId":72.0
+  },
+  {
+    "id":446,
+    "nombre":"Canca la Reyna (Zona urbana)",
+    "municipioId":48,
+    "distritoId":73.0
+  },
+  {
+    "id":447,
+    "nombre":"Canca Reparación",
+    "municipioId":48,
+    "distritoId":73.0
+  },
+  {
+    "id":448,
+    "nombre":"San Francisco Abajo",
+    "municipioId":48,
+    "distritoId":73.0
+  },
+  {
+    "id":449,
+    "nombre":"San José (Antiguo Licey al Medio)",
+    "municipioId":48,
+    "distritoId":73.0
+  },
+  {
+    "id":450,
+    "nombre":"El Higüerito (Zona urbana)",
+    "municipioId":48,
+    "distritoId":74.0
+  },
+  {
+    "id":451,
+    "nombre":"Las Guázumas",
+    "municipioId":48,
+    "distritoId":74.0
+  },
+  {
+    "id":452,
+    "nombre":"Reparadero",
+    "municipioId":48,
+    "distritoId":74.0
+  },
+  {
+    "id":453,
+    "nombre":"Bonagua Arriba",
+    "municipioId":48,
+    "distritoId":74.0
+  },
+  {
+    "id":454,
+    "nombre":"Monte de la Jagua (Zona urbana)",
+    "municipioId":48,
+    "distritoId":75.0
+  },
+  {
+    "id":455,
+    "nombre":"El Pico",
+    "municipioId":48,
+    "distritoId":75.0
+  },
+  {
+    "id":456,
+    "nombre":"Los Vargas",
+    "municipioId":48,
+    "distritoId":75.0
+  },
+  {
+    "id":457,
+    "nombre":"Sarambamba",
+    "municipioId":48,
+    "distritoId":75.0
+  },
+  {
+    "id":458,
+    "nombre":"La Ortega (Zona urbana)",
+    "municipioId":48,
+    "distritoId":76.0
+  },
+  {
+    "id":459,
+    "nombre":"La Gran Canaria",
+    "municipioId":48,
+    "distritoId":76.0
+  },
+  {
+    "id":460,
+    "nombre":"Santa Cruz de Tenerife",
+    "municipioId":48,
+    "distritoId":76.0
+  },
+  {
+    "id":461,
+    "nombre":"Cayetano Germosén o Guanábano (Zona urbana)",
+    "municipioId":49,
+    "distritoId":null
+  },
+  {
+    "id":462,
+    "nombre":"La Guama (De Guanábano)",
+    "municipioId":49,
+    "distritoId":null
+  },
+  {
+    "id":463,
+    "nombre":"Hato Viejo",
+    "municipioId":49,
+    "distritoId":null
+  },
+  {
+    "id":464,
+    "nombre":"Gaspar Hernández (Zona urbana)",
+    "municipioId":50,
+    "distritoId":null
+  },
+  {
+    "id":465,
+    "nombre":"Bejuco Blanco",
+    "municipioId":50,
+    "distritoId":null
+  },
+  {
+    "id":466,
+    "nombre":"El Jobo",
+    "municipioId":50,
+    "distritoId":null
+  },
+  {
+    "id":467,
+    "nombre":"Ojo de Agua",
+    "municipioId":50,
+    "distritoId":null
+  },
+  {
+    "id":468,
+    "nombre":"Joba Arriba (Zona urbana)",
+    "municipioId":50,
+    "distritoId":77.0
+  },
+  {
+    "id":469,
+    "nombre":"El Higüero",
+    "municipioId":50,
+    "distritoId":77.0
+  },
+  {
+    "id":470,
+    "nombre":"Jagua Clara",
+    "municipioId":50,
+    "distritoId":77.0
+  },
+  {
+    "id":471,
+    "nombre":"La Piragua",
+    "municipioId":50,
+    "distritoId":77.0
+  },
+  {
+    "id":472,
+    "nombre":"Veragua (Zona urbana)",
+    "municipioId":50,
+    "distritoId":78.0
+  },
+  {
+    "id":473,
+    "nombre":"Batey Ginebra",
+    "municipioId":50,
+    "distritoId":78.0
+  },
+  {
+    "id":474,
+    "nombre":"Rincón de Veragua",
+    "municipioId":50,
+    "distritoId":78.0
+  },
+  {
+    "id":475,
+    "nombre":"Caño Dulce",
+    "municipioId":50,
+    "distritoId":78.0
+  },
+  {
+    "id":476,
+    "nombre":"Villa Magante (Zona urbana)",
+    "municipioId":50,
+    "distritoId":79.0
+  },
+  {
+    "id":477,
+    "nombre":"Vereda al Medio",
+    "municipioId":50,
+    "distritoId":79.0
+  },
+  {
+    "id":478,
+    "nombre":"La Cantera",
+    "municipioId":50,
+    "distritoId":79.0
+  },
+  {
+    "id":479,
+    "nombre":"Las Tres Ceibas",
+    "municipioId":50,
+    "distritoId":79.0
+  },
+  {
+    "id":480,
+    "nombre":"Magante",
+    "municipioId":50,
+    "distritoId":79.0
+  },
+  {
+    "id":481,
+    "nombre":"Jamao Al Norte (Zona urbana)",
+    "municipioId":51,
+    "distritoId":null
+  },
+  {
+    "id":482,
+    "nombre":"Jamao al Sur",
+    "municipioId":51,
+    "distritoId":null
+  },
+  {
+    "id":483,
+    "nombre":"Los Brazos",
+    "municipioId":51,
+    "distritoId":null
+  },
+  {
+    "id":484,
+    "nombre":"La Filipina",
+    "municipioId":51,
+    "distritoId":null
+  },
+  {
+    "id":485,
+    "nombre":"Las Caobas",
+    "municipioId":51,
+    "distritoId":null
+  },
+  {
+    "id":486,
+    "nombre":"San Víctor (Zona Urbana)",
+    "municipioId":52,
+    "distritoId":null
+  },
+  {
+    "id":487,
+    "nombre":"El Caimito",
+    "municipioId":52,
+    "distritoId":null
+  },
+  {
+    "id":488,
+    "nombre":"Alto de Los Pozos (Villa Cafetalera)",
+    "municipioId":52,
+    "distritoId":null
+  },
+  {
+    "id":489,
+    "nombre":"Puesto Grande",
+    "municipioId":52,
+    "distritoId":null
+  },
+  {
+    "id":490,
+    "nombre":"Los Amaceyes Arriba",
+    "municipioId":52,
+    "distritoId":null
+  },
+  {
+    "id":491,
+    "nombre":"La Ceiba de Madera",
+    "municipioId":52,
+    "distritoId":null
+  },
+  {
+    "id":492,
+    "nombre":"Cuero Duro",
+    "municipioId":52,
+    "distritoId":null
+  },
+  {
+    "id":493,
+    "nombre":"San Víctor Arriba",
+    "municipioId":52,
+    "distritoId":null
+  },
+  {
+    "id":494,
+    "nombre":"Jimaní (Zona urbana)",
+    "municipioId":53,
+    "distritoId":null
+  },
+  {
+    "id":495,
+    "nombre":"Arroyo Blanco",
+    "municipioId":53,
+    "distritoId":null
+  },
+  {
+    "id":496,
+    "nombre":"El Limón (Zona urbana)",
+    "municipioId":53,
+    "distritoId":80.0
+  },
+  {
+    "id":497,
+    "nombre":"Mortero",
+    "municipioId":53,
+    "distritoId":80.0
+  },
+  {
+    "id":498,
+    "nombre":"La Florida",
+    "municipioId":53,
+    "distritoId":80.0
+  },
+  {
+    "id":499,
+    "nombre":"Boca de Cachón (Zona urbana)",
+    "municipioId":53,
+    "distritoId":81.0
+  },
+  {
+    "id":500,
+    "nombre":"Tierra Nueva",
+    "municipioId":53,
+    "distritoId":81.0
+  },
+  {
+    "id":501,
+    "nombre":"Duvergé (Zona urbana)",
+    "municipioId":54,
+    "distritoId":null
+  },
+  {
+    "id":502,
+    "nombre":"Puerto Escondido",
+    "municipioId":54,
+    "distritoId":null
+  },
+  {
+    "id":503,
+    "nombre":"Vengan a Ver (Zona urbana)",
+    "municipioId":54,
+    "distritoId":82.0
+  },
+  {
+    "id":504,
+    "nombre":"Las Baitoas",
+    "municipioId":54,
+    "distritoId":82.0
+  },
+  {
+    "id":505,
+    "nombre":"La Descubierta (Zona urbana)",
+    "municipioId":55,
+    "distritoId":null
+  },
+  {
+    "id":506,
+    "nombre":"Ángel Félix",
+    "municipioId":55,
+    "distritoId":null
+  },
+  {
+    "id":507,
+    "nombre":"Los Pinos",
+    "municipioId":55,
+    "distritoId":null
+  },
+  {
+    "id":508,
+    "nombre":"Bartolomé",
+    "municipioId":55,
+    "distritoId":null
+  },
+  {
+    "id":509,
+    "nombre":"Postrer Río (Zona urbana)",
+    "municipioId":56,
+    "distritoId":null
+  },
+  {
+    "id":510,
+    "nombre":"Los Bolos",
+    "municipioId":56,
+    "distritoId":null
+  },
+  {
+    "id":511,
+    "nombre":"Guayabal (Zona urbana)",
+    "municipioId":56,
+    "distritoId":83.0
+  },
+  {
+    "id":512,
+    "nombre":"Cabeza de Río",
+    "municipioId":56,
+    "distritoId":83.0
+  },
+  {
+    "id":513,
+    "nombre":"El Maniel",
+    "municipioId":56,
+    "distritoId":83.0
+  },
+  {
+    "id":514,
+    "nombre":"Raíz Picada",
+    "municipioId":56,
+    "distritoId":83.0
+  },
+  {
+    "id":515,
+    "nombre":"Guayabal",
+    "municipioId":56,
+    "distritoId":83.0
+  },
+  {
+    "id":516,
+    "nombre":"Cristóbal (Zona urbana)",
+    "municipioId":57,
+    "distritoId":null
+  },
+  {
+    "id":517,
+    "nombre":"Batey 8 (Zona urbana)",
+    "municipioId":57,
+    "distritoId":84.0
+  },
+  {
+    "id":518,
+    "nombre":"Batey 7",
+    "municipioId":57,
+    "distritoId":84.0
+  },
+  {
+    "id":519,
+    "nombre":"Batey 9",
+    "municipioId":57,
+    "distritoId":84.0
+  },
+  {
+    "id":520,
+    "nombre":"Batey 10",
+    "municipioId":57,
+    "distritoId":84.0
+  },
+  {
+    "id":521,
+    "nombre":"Mella (Zona urbana)",
+    "municipioId":58,
+    "distritoId":null
+  },
+  {
+    "id":522,
+    "nombre":"Angostura",
+    "municipioId":58,
+    "distritoId":null
+  },
+  {
+    "id":523,
+    "nombre":"La Colonia (Zona urbana)",
+    "municipioId":58,
+    "distritoId":85.0
+  },
+  {
+    "id":524,
+    "nombre":"Colonia Japón",
+    "municipioId":58,
+    "distritoId":85.0
+  },
+  {
+    "id":525,
+    "nombre":"Salvaleón de Higüey (Zona urbana)",
+    "municipioId":59,
+    "distritoId":null
+  },
+  {
+    "id":526,
+    "nombre":"Bejucal",
+    "municipioId":59,
+    "distritoId":null
+  },
+  {
+    "id":527,
+    "nombre":"Santana",
+    "municipioId":59,
+    "distritoId":null
+  },
+  {
+    "id":528,
+    "nombre":"Jina Jaragua",
+    "municipioId":59,
+    "distritoId":null
+  },
+  {
+    "id":529,
+    "nombre":"Los Ríos",
+    "municipioId":59,
+    "distritoId":null
+  },
+  {
+    "id":530,
+    "nombre":"Mata Chalupe",
+    "municipioId":59,
+    "distritoId":null
+  },
+  {
+    "id":531,
+    "nombre":"Las Lagunas de Nisibón (Zona urbana)",
+    "municipioId":59,
+    "distritoId":86.0
+  },
+  {
+    "id":532,
+    "nombre":"Cañada Honda",
+    "municipioId":59,
+    "distritoId":86.0
+  },
+  {
+    "id":533,
+    "nombre":"El Barrero",
+    "municipioId":59,
+    "distritoId":86.0
+  },
+  {
+    "id":534,
+    "nombre":"Las Guamas",
+    "municipioId":59,
+    "distritoId":86.0
+  },
+  {
+    "id":535,
+    "nombre":"La Otra Banda (Zona urbana)",
+    "municipioId":59,
+    "distritoId":87.0
+  },
+  {
+    "id":536,
+    "nombre":"El Bonao",
+    "municipioId":59,
+    "distritoId":87.0
+  },
+  {
+    "id":537,
+    "nombre":"Duyey",
+    "municipioId":59,
+    "distritoId":87.0
+  },
+  {
+    "id":538,
+    "nombre":"Cruz de Isleño",
+    "municipioId":59,
+    "distritoId":87.0
+  },
+  {
+    "id":539,
+    "nombre":"Verón (Zona urbana)",
+    "municipioId":59,
+    "distritoId":88.0
+  },
+  {
+    "id":540,
+    "nombre":"Juanillo",
+    "municipioId":59,
+    "distritoId":88.0
+  },
+  {
+    "id":541,
+    "nombre":"El Salado",
+    "municipioId":59,
+    "distritoId":88.0
+  },
+  {
+    "id":542,
+    "nombre":"San Rafael del Yuma (Zona urbana)",
+    "municipioId":60,
+    "distritoId":null
+  },
+  {
+    "id":543,
+    "nombre":"Boca de Yuma",
+    "municipioId":60,
+    "distritoId":null
+  },
+  {
+    "id":544,
+    "nombre":"Gato",
+    "municipioId":60,
+    "distritoId":null
+  },
+  {
+    "id":545,
+    "nombre":"La Piñita",
+    "municipioId":60,
+    "distritoId":null
+  },
+  {
+    "id":546,
+    "nombre":"Boca de Yuma (Zona urbana)",
+    "municipioId":60,
+    "distritoId":89.0
+  },
+  {
+    "id":547,
+    "nombre":"Boca de Yuma",
+    "municipioId":60,
+    "distritoId":89.0
+  },
+  {
+    "id":548,
+    "nombre":"Bayahíbe (Zona urbana)",
+    "municipioId":60,
+    "distritoId":90.0
+  },
+  {
+    "id":549,
+    "nombre":"Bayahíbe",
+    "municipioId":60,
+    "distritoId":90.0
+  },
+  {
+    "id":550,
+    "nombre":"La Romana (Zona urbana)",
+    "municipioId":61,
+    "distritoId":null
+  },
+  {
+    "id":551,
+    "nombre":"Aletón",
+    "municipioId":61,
+    "distritoId":null
+  },
+  {
+    "id":552,
+    "nombre":"Isla Saona",
+    "municipioId":61,
+    "distritoId":null
+  },
+  {
+    "id":553,
+    "nombre":"Caleta (Zona urbana)",
+    "municipioId":61,
+    "distritoId":91.0
+  },
+  {
+    "id":554,
+    "nombre":"Guaymate (Zona urbana)",
+    "municipioId":62,
+    "distritoId":null
+  },
+  {
+    "id":555,
+    "nombre":"Higüeral",
+    "municipioId":62,
+    "distritoId":null
+  },
+  {
+    "id":556,
+    "nombre":"Sabana",
+    "municipioId":62,
+    "distritoId":null
+  },
+  {
+    "id":557,
+    "nombre":"Villa Hermosa (Zona urbana)",
+    "municipioId":63,
+    "distritoId":null
+  },
+  {
+    "id":558,
+    "nombre":"Cumayasa (Zona urbana)",
+    "municipioId":63,
+    "distritoId":92.0
+  },
+  {
+    "id":559,
+    "nombre":"Cumayasa",
+    "municipioId":63,
+    "distritoId":92.0
+  },
+  {
+    "id":560,
+    "nombre":"Concepción de La Vega (Zona urbana)",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":561,
+    "nombre":"Bacuí Arriba",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":562,
+    "nombre":"Bayacanes",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":563,
+    "nombre":"Burende",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":564,
+    "nombre":"La Cabirmota",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":565,
+    "nombre":"Guarey",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":566,
+    "nombre":"Jamo",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":567,
+    "nombre":"La Penda",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":568,
+    "nombre":"Las Cabuyas",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":569,
+    "nombre":"Licey",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":570,
+    "nombre":"Pontón",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":571,
+    "nombre":"Sabaneta",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":572,
+    "nombre":"Las Canas",
+    "municipioId":64,
+    "distritoId":null
+  },
+  {
+    "id":573,
+    "nombre":"Cutupú (Zona urbana)",
+    "municipioId":64,
+    "distritoId":93.0
+  },
+  {
+    "id":574,
+    "nombre":"Arroyo Hondo Arriba",
+    "municipioId":64,
+    "distritoId":93.0
+  },
+  {
+    "id":575,
+    "nombre":"Bonagua",
+    "municipioId":64,
+    "distritoId":93.0
+  },
+  {
+    "id":576,
+    "nombre":"Mirador",
+    "municipioId":64,
+    "distritoId":93.0
+  },
+  {
+    "id":577,
+    "nombre":"El Naranjal",
+    "municipioId":64,
+    "distritoId":93.0
+  },
+  {
+    "id":578,
+    "nombre":"Pueblo Viejo",
+    "municipioId":64,
+    "distritoId":93.0
+  },
+  {
+    "id":579,
+    "nombre":"Río Verde Abajo",
+    "municipioId":64,
+    "distritoId":93.0
+  },
+  {
+    "id":580,
+    "nombre":"Río Verde Arriba",
+    "municipioId":64,
+    "distritoId":93.0
+  },
+  {
+    "id":581,
+    "nombre":"El Ranchito (Zona urbana)",
+    "municipioId":64,
+    "distritoId":94.0
+  },
+  {
+    "id":582,
+    "nombre":"Sabana Rey",
+    "municipioId":64,
+    "distritoId":94.0
+  },
+  {
+    "id":583,
+    "nombre":"El Badén",
+    "municipioId":64,
+    "distritoId":94.0
+  },
+  {
+    "id":584,
+    "nombre":"La Rosa",
+    "municipioId":64,
+    "distritoId":94.0
+  },
+  {
+    "id":585,
+    "nombre":"La Jina Hueca (Zona urbana)",
+    "municipioId":64,
+    "distritoId":95.0
+  },
+  {
+    "id":586,
+    "nombre":"La Jina Hueca",
+    "municipioId":64,
+    "distritoId":95.0
+  },
+  {
+    "id":587,
+    "nombre":"La Llanada",
+    "municipioId":64,
+    "distritoId":95.0
+  },
+  {
+    "id":588,
+    "nombre":"Jagua Gorda",
+    "municipioId":64,
+    "distritoId":95.0
+  },
+  {
+    "id":589,
+    "nombre":"El Mamey",
+    "municipioId":64,
+    "distritoId":95.0
+  },
+  {
+    "id":590,
+    "nombre":"Cruce de Barranca (Zona Urbana)",
+    "municipioId":64,
+    "distritoId":96.0
+  },
+  {
+    "id":591,
+    "nombre":"Barranca",
+    "municipioId":64,
+    "distritoId":96.0
+  },
+  {
+    "id":592,
+    "nombre":"Las Yerbas",
+    "municipioId":64,
+    "distritoId":96.0
+  },
+  {
+    "id":593,
+    "nombre":"Bacui",
+    "municipioId":64,
+    "distritoId":96.0
+  },
+  {
+    "id":594,
+    "nombre":"Berruguete",
+    "municipioId":64,
+    "distritoId":96.0
+  },
+  {
+    "id":595,
+    "nombre":"Los Hoyos",
+    "municipioId":64,
+    "distritoId":96.0
+  },
+  {
+    "id":596,
+    "nombre":"Constanza (Zona urbana)",
+    "municipioId":65,
+    "distritoId":null
+  },
+  {
+    "id":597,
+    "nombre":"Maldonado",
+    "municipioId":65,
+    "distritoId":null
+  },
+  {
+    "id":598,
+    "nombre":"Palero",
+    "municipioId":65,
+    "distritoId":null
+  },
+  {
+    "id":599,
+    "nombre":"Tireo (Zona urbana)",
+    "municipioId":65,
+    "distritoId":97.0
+  },
+  {
+    "id":600,
+    "nombre":"La Altagracia",
+    "municipioId":65,
+    "distritoId":97.0
+  },
+  {
+    "id":601,
+    "nombre":"Arroyo Frío",
+    "municipioId":65,
+    "distritoId":97.0
+  },
+  {
+    "id":602,
+    "nombre":"La Descubierta",
+    "municipioId":65,
+    "distritoId":97.0
+  },
+  {
+    "id":603,
+    "nombre":"Las Palomas",
+    "municipioId":65,
+    "distritoId":97.0
+  },
+  {
+    "id":604,
+    "nombre":"El Río",
+    "municipioId":65,
+    "distritoId":97.0
+  },
+  {
+    "id":605,
+    "nombre":"Tireo Abajo",
+    "municipioId":65,
+    "distritoId":97.0
+  },
+  {
+    "id":606,
+    "nombre":"La Sabina (Zona urbana)",
+    "municipioId":65,
+    "distritoId":98.0
+  },
+  {
+    "id":607,
+    "nombre":"Los Cerros",
+    "municipioId":65,
+    "distritoId":98.0
+  },
+  {
+    "id":608,
+    "nombre":"Palero",
+    "municipioId":65,
+    "distritoId":98.0
+  },
+  {
+    "id":609,
+    "nombre":"Villa Sabina",
+    "municipioId":65,
+    "distritoId":98.0
+  },
+  {
+    "id":610,
+    "nombre":"El Convento",
+    "municipioId":65,
+    "distritoId":98.0
+  },
+  {
+    "id":611,
+    "nombre":"Jarabacoa (Zona urbana)",
+    "municipioId":66,
+    "distritoId":null
+  },
+  {
+    "id":612,
+    "nombre":"Pinar Quemado",
+    "municipioId":66,
+    "distritoId":null
+  },
+  {
+    "id":613,
+    "nombre":"Corocito",
+    "municipioId":66,
+    "distritoId":null
+  },
+  {
+    "id":614,
+    "nombre":"Estancita",
+    "municipioId":66,
+    "distritoId":null
+  },
+  {
+    "id":615,
+    "nombre":"Pedregal",
+    "municipioId":66,
+    "distritoId":null
+  },
+  {
+    "id":616,
+    "nombre":"Jumunuco ",
+    "municipioId":66,
+    "distritoId":null
+  },
+  {
+    "id":617,
+    "nombre":"Los Corozos",
+    "municipioId":66,
+    "distritoId":null
+  },
+  {
+    "id":618,
+    "nombre":"Paso Bajito",
+    "municipioId":66,
+    "distritoId":null
+  },
+  {
+    "id":619,
+    "nombre":"Buena Vista (Zona urbana)",
+    "municipioId":66,
+    "distritoId":99.0
+  },
+  {
+    "id":620,
+    "nombre":"Buena Vista",
+    "municipioId":66,
+    "distritoId":99.0
+  },
+  {
+    "id":621,
+    "nombre":"Hato Viejo",
+    "municipioId":66,
+    "distritoId":99.0
+  },
+  {
+    "id":622,
+    "nombre":"Hatillo",
+    "municipioId":66,
+    "distritoId":99.0
+  },
+  {
+    "id":623,
+    "nombre":"Piedra Blanca",
+    "municipioId":66,
+    "distritoId":99.0
+  },
+  {
+    "id":624,
+    "nombre":"Piedra Blanca del Salto",
+    "municipioId":66,
+    "distritoId":99.0
+  },
+  {
+    "id":625,
+    "nombre":"Manabao (Zona urbana)",
+    "municipioId":66,
+    "distritoId":100.0
+  },
+  {
+    "id":626,
+    "nombre":"Los Dajaos",
+    "municipioId":66,
+    "distritoId":100.0
+  },
+  {
+    "id":627,
+    "nombre":"La Ciénaga",
+    "municipioId":66,
+    "distritoId":100.0
+  },
+  {
+    "id":628,
+    "nombre":"Manabao",
+    "municipioId":66,
+    "distritoId":100.0
+  },
+  {
+    "id":629,
+    "nombre":"Jima Abajo (Zona urbana)",
+    "municipioId":67,
+    "distritoId":null
+  },
+  {
+    "id":630,
+    "nombre":"La Frontera",
+    "municipioId":67,
+    "distritoId":null
+  },
+  {
+    "id":631,
+    "nombre":"Jima Arriba",
+    "municipioId":67,
+    "distritoId":null
+  },
+  {
+    "id":632,
+    "nombre":"San Bartolo",
+    "municipioId":67,
+    "distritoId":null
+  },
+  {
+    "id":633,
+    "nombre":"Rincón (Zona urbana)",
+    "municipioId":67,
+    "distritoId":101.0
+  },
+  {
+    "id":634,
+    "nombre":"La Ceibita",
+    "municipioId":67,
+    "distritoId":101.0
+  },
+  {
+    "id":635,
+    "nombre":"Rincón",
+    "municipioId":67,
+    "distritoId":101.0
+  },
+  {
+    "id":636,
+    "nombre":"Junumucú",
+    "municipioId":67,
+    "distritoId":101.0
+  },
+  {
+    "id":637,
+    "nombre":"Nagua (Zona urbana)",
+    "municipioId":68,
+    "distritoId":null
+  },
+  {
+    "id":638,
+    "nombre":"Nagua Rural",
+    "municipioId":68,
+    "distritoId":null
+  },
+  {
+    "id":639,
+    "nombre":"San José de Matanzas (Zona urbana)",
+    "municipioId":68,
+    "distritoId":102.0
+  },
+  {
+    "id":640,
+    "nombre":"Ceja del Jobo",
+    "municipioId":68,
+    "distritoId":102.0
+  },
+  {
+    "id":641,
+    "nombre":"Cruce de Rincón",
+    "municipioId":68,
+    "distritoId":102.0
+  },
+  {
+    "id":642,
+    "nombre":"Los Yayales",
+    "municipioId":68,
+    "distritoId":102.0
+  },
+  {
+    "id":643,
+    "nombre":"Las Gordas (Zona urbana)",
+    "municipioId":68,
+    "distritoId":103.0
+  },
+  {
+    "id":644,
+    "nombre":"Las Gordas",
+    "municipioId":68,
+    "distritoId":103.0
+  },
+  {
+    "id":645,
+    "nombre":"Boba",
+    "municipioId":68,
+    "distritoId":103.0
+  },
+  {
+    "id":646,
+    "nombre":"Los Jengibres",
+    "municipioId":68,
+    "distritoId":103.0
+  },
+  {
+    "id":647,
+    "nombre":"Mata Bonita",
+    "municipioId":68,
+    "distritoId":103.0
+  },
+  {
+    "id":648,
+    "nombre":"Caño de los Naranjos",
+    "municipioId":68,
+    "distritoId":103.0
+  },
+  {
+    "id":649,
+    "nombre":"Arroyo al Medio (Zona urbana)",
+    "municipioId":68,
+    "distritoId":104.0
+  },
+  {
+    "id":650,
+    "nombre":"El Guayabo",
+    "municipioId":68,
+    "distritoId":104.0
+  },
+  {
+    "id":651,
+    "nombre":"Río Jagua",
+    "municipioId":68,
+    "distritoId":104.0
+  },
+  {
+    "id":652,
+    "nombre":"El Yayal",
+    "municipioId":68,
+    "distritoId":104.0
+  },
+  {
+    "id":653,
+    "nombre":"Las Córcobas",
+    "municipioId":68,
+    "distritoId":104.0
+  },
+  {
+    "id":654,
+    "nombre":"Cabrera (Zona urbana)",
+    "municipioId":69,
+    "distritoId":null
+  },
+  {
+    "id":655,
+    "nombre":"Abreu",
+    "municipioId":69,
+    "distritoId":null
+  },
+  {
+    "id":656,
+    "nombre":"La Jagüita",
+    "municipioId":69,
+    "distritoId":null
+  },
+  {
+    "id":657,
+    "nombre":"El Jamo",
+    "municipioId":69,
+    "distritoId":null
+  },
+  {
+    "id":658,
+    "nombre":"Arroyo Salado (Zona urbana)",
+    "municipioId":69,
+    "distritoId":105.0
+  },
+  {
+    "id":659,
+    "nombre":"Baoba del Piñal",
+    "municipioId":69,
+    "distritoId":105.0
+  },
+  {
+    "id":660,
+    "nombre":"San Isidro",
+    "municipioId":69,
+    "distritoId":105.0
+  },
+  {
+    "id":661,
+    "nombre":"Payita",
+    "municipioId":69,
+    "distritoId":105.0
+  },
+  {
+    "id":662,
+    "nombre":"San Rafael",
+    "municipioId":69,
+    "distritoId":105.0
+  },
+  {
+    "id":663,
+    "nombre":"La Entrada (Zona urbana)",
+    "municipioId":69,
+    "distritoId":106.0
+  },
+  {
+    "id":664,
+    "nombre":"Caño Azul Colorado",
+    "municipioId":69,
+    "distritoId":106.0
+  },
+  {
+    "id":665,
+    "nombre":"La Capilla",
+    "municipioId":69,
+    "distritoId":106.0
+  },
+  {
+    "id":666,
+    "nombre":"El Factor (Zona urbana)",
+    "municipioId":70,
+    "distritoId":null
+  },
+  {
+    "id":667,
+    "nombre":"El Papayo",
+    "municipioId":70,
+    "distritoId":null
+  },
+  {
+    "id":668,
+    "nombre":"Los Pajones",
+    "municipioId":70,
+    "distritoId":null
+  },
+  {
+    "id":669,
+    "nombre":"Telanza",
+    "municipioId":70,
+    "distritoId":null
+  },
+  {
+    "id":670,
+    "nombre":"Los Indios",
+    "municipioId":70,
+    "distritoId":null
+  },
+  {
+    "id":671,
+    "nombre":"El Pozo (Zona urbana)",
+    "municipioId":70,
+    "distritoId":107.0
+  },
+  {
+    "id":672,
+    "nombre":"Los Limones",
+    "municipioId":70,
+    "distritoId":107.0
+  },
+  {
+    "id":673,
+    "nombre":"Madre Vieja",
+    "municipioId":70,
+    "distritoId":107.0
+  },
+  {
+    "id":674,
+    "nombre":"Río San Juan (Zona urbana)",
+    "municipioId":71,
+    "distritoId":null
+  },
+  {
+    "id":675,
+    "nombre":"Los Cacaos",
+    "municipioId":71,
+    "distritoId":null
+  },
+  {
+    "id":676,
+    "nombre":"Mata Puerco",
+    "municipioId":71,
+    "distritoId":null
+  },
+  {
+    "id":677,
+    "nombre":"San Fernando de Monte Cristi (Zona urbana)",
+    "municipioId":72,
+    "distritoId":null
+  },
+  {
+    "id":678,
+    "nombre":"El Rincón",
+    "municipioId":72,
+    "distritoId":null
+  },
+  {
+    "id":679,
+    "nombre":"Las Aguas",
+    "municipioId":72,
+    "distritoId":null
+  },
+  {
+    "id":680,
+    "nombre":"Las Peñas",
+    "municipioId":72,
+    "distritoId":null
+  },
+  {
+    "id":681,
+    "nombre":"El Duro",
+    "municipioId":72,
+    "distritoId":null
+  },
+  {
+    "id":682,
+    "nombre":"Baitoal",
+    "municipioId":72,
+    "distritoId":null
+  },
+  {
+    "id":683,
+    "nombre":"Castañuelas (Zona urbana)",
+    "municipioId":73,
+    "distritoId":null
+  },
+  {
+    "id":684,
+    "nombre":"Loma de Castañuelas",
+    "municipioId":73,
+    "distritoId":null
+  },
+  {
+    "id":685,
+    "nombre":"Castañuelas (Lozano)",
+    "municipioId":73,
+    "distritoId":null
+  },
+  {
+    "id":686,
+    "nombre":"Palo Verde (Zona Urbana)",
+    "municipioId":73,
+    "distritoId":108.0
+  },
+  {
+    "id":687,
+    "nombre":"El Vigiador",
+    "municipioId":73,
+    "distritoId":108.0
+  },
+  {
+    "id":688,
+    "nombre":"Magdalena",
+    "municipioId":73,
+    "distritoId":108.0
+  },
+  {
+    "id":689,
+    "nombre":"Hato Viejo",
+    "municipioId":73,
+    "distritoId":108.0
+  },
+  {
+    "id":690,
+    "nombre":"El Ahogado",
+    "municipioId":73,
+    "distritoId":108.0
+  },
+  {
+    "id":691,
+    "nombre":"Guayubín (Zona urbana)",
+    "municipioId":74,
+    "distritoId":null
+  },
+  {
+    "id":692,
+    "nombre":"Juan Gómez",
+    "municipioId":74,
+    "distritoId":null
+  },
+  {
+    "id":693,
+    "nombre":"Martín García",
+    "municipioId":74,
+    "distritoId":null
+  },
+  {
+    "id":694,
+    "nombre":"Sabana Cruz",
+    "municipioId":74,
+    "distritoId":null
+  },
+  {
+    "id":695,
+    "nombre":"Villa Elisa (Zona urbana)",
+    "municipioId":74,
+    "distritoId":109.0
+  },
+  {
+    "id":696,
+    "nombre":"El Copey",
+    "municipioId":74,
+    "distritoId":109.0
+  },
+  {
+    "id":697,
+    "nombre":"La Guajaca",
+    "municipioId":74,
+    "distritoId":109.0
+  },
+  {
+    "id":698,
+    "nombre":"Hato del Medio Arriba",
+    "municipioId":74,
+    "distritoId":109.0
+  },
+  {
+    "id":699,
+    "nombre":"El Papayo",
+    "municipioId":74,
+    "distritoId":109.0
+  },
+  {
+    "id":700,
+    "nombre":"Hatillo Palma (Zona urbana)",
+    "municipioId":74,
+    "distritoId":110.0
+  },
+  {
+    "id":701,
+    "nombre":"Hatillo Palma",
+    "municipioId":74,
+    "distritoId":110.0
+  },
+  {
+    "id":702,
+    "nombre":"Los Derramaderos",
+    "municipioId":74,
+    "distritoId":110.0
+  },
+  {
+    "id":703,
+    "nombre":"Doña Antonia",
+    "municipioId":74,
+    "distritoId":110.0
+  },
+  {
+    "id":704,
+    "nombre":"Cana Chapetón (Zona urbana)",
+    "municipioId":74,
+    "distritoId":111.0
+  },
+  {
+    "id":705,
+    "nombre":"Cana Chapetón",
+    "municipioId":74,
+    "distritoId":111.0
+  },
+  {
+    "id":706,
+    "nombre":"Cerro Gordo",
+    "municipioId":74,
+    "distritoId":111.0
+  },
+  {
+    "id":707,
+    "nombre":"Piloto",
+    "municipioId":74,
+    "distritoId":111.0
+  },
+  {
+    "id":708,
+    "nombre":"La Caída",
+    "municipioId":74,
+    "distritoId":111.0
+  },
+  {
+    "id":709,
+    "nombre":"Las Matas de Santa Cruz (Zona urbana)",
+    "municipioId":75,
+    "distritoId":null
+  },
+  {
+    "id":710,
+    "nombre":"Los Amaceyes",
+    "municipioId":75,
+    "distritoId":null
+  },
+  {
+    "id":711,
+    "nombre":"La Horca",
+    "municipioId":75,
+    "distritoId":null
+  },
+  {
+    "id":712,
+    "nombre":"Santa Cruz",
+    "municipioId":75,
+    "distritoId":null
+  },
+  {
+    "id":713,
+    "nombre":"Pepillo Salcedo o Manzanillo (Zona urbana)",
+    "municipioId":76,
+    "distritoId":null
+  },
+  {
+    "id":714,
+    "nombre":"Carbonera",
+    "municipioId":76,
+    "distritoId":null
+  },
+  {
+    "id":715,
+    "nombre":"Copey",
+    "municipioId":76,
+    "distritoId":null
+  },
+  {
+    "id":716,
+    "nombre":"Santa María (Zona Urbana)",
+    "municipioId":76,
+    "distritoId":112.0
+  },
+  {
+    "id":717,
+    "nombre":"Gozuela",
+    "municipioId":76,
+    "distritoId":112.0
+  },
+  {
+    "id":718,
+    "nombre":"Carnero",
+    "municipioId":76,
+    "distritoId":112.0
+  },
+  {
+    "id":719,
+    "nombre":"Clavellina",
+    "municipioId":76,
+    "distritoId":112.0
+  },
+  {
+    "id":720,
+    "nombre":"La Pinta",
+    "municipioId":76,
+    "distritoId":112.0
+  },
+  {
+    "id":721,
+    "nombre":"La Recta de Sanita",
+    "municipioId":76,
+    "distritoId":112.0
+  },
+  {
+    "id":722,
+    "nombre":"Santa María",
+    "municipioId":76,
+    "distritoId":112.0
+  },
+  {
+    "id":723,
+    "nombre":"Villa Vásquez (Zona urbana)",
+    "municipioId":77,
+    "distritoId":null
+  },
+  {
+    "id":724,
+    "nombre":"Botoncillo",
+    "municipioId":77,
+    "distritoId":null
+  },
+  {
+    "id":725,
+    "nombre":"Los Conucos",
+    "municipioId":77,
+    "distritoId":null
+  },
+  {
+    "id":726,
+    "nombre":"Villa García",
+    "municipioId":77,
+    "distritoId":null
+  },
+  {
+    "id":727,
+    "nombre":"Pedernales (Zona urbana)",
+    "municipioId":78,
+    "distritoId":null
+  },
+  {
+    "id":728,
+    "nombre":"Cabo Rojo",
+    "municipioId":78,
+    "distritoId":null
+  },
+  {
+    "id":729,
+    "nombre":"Las Mercedes",
+    "municipioId":78,
+    "distritoId":null
+  },
+  {
+    "id":730,
+    "nombre":"La Altagracia (Zona urbana)",
+    "municipioId":78,
+    "distritoId":113.0
+  },
+  {
+    "id":731,
+    "nombre":"Aguas Negras",
+    "municipioId":78,
+    "distritoId":113.0
+  },
+  {
+    "id":732,
+    "nombre":"Mencía",
+    "municipioId":78,
+    "distritoId":113.0
+  },
+  {
+    "id":733,
+    "nombre":"Altagracia",
+    "municipioId":78,
+    "distritoId":113.0
+  },
+  {
+    "id":734,
+    "nombre":"Los Arroyos",
+    "municipioId":78,
+    "distritoId":113.0
+  },
+  {
+    "id":735,
+    "nombre":"Ávila",
+    "municipioId":78,
+    "distritoId":113.0
+  },
+  {
+    "id":736,
+    "nombre":"Oviedo (Zona urbana)",
+    "municipioId":79,
+    "distritoId":null
+  },
+  {
+    "id":737,
+    "nombre":"Los Tres Charcos",
+    "municipioId":79,
+    "distritoId":null
+  },
+  {
+    "id":738,
+    "nombre":"Juancho (Zona urbana)",
+    "municipioId":79,
+    "distritoId":114.0
+  },
+  {
+    "id":739,
+    "nombre":"La Colonia Villa Esperanza",
+    "municipioId":79,
+    "distritoId":114.0
+  },
+  {
+    "id":740,
+    "nombre":"Baní (Zona urbana)",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":741,
+    "nombre":"Boca Canasta",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":742,
+    "nombre":"Las Calderas",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":743,
+    "nombre":"El Cañafístol",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":744,
+    "nombre":"Los Cateyes",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":745,
+    "nombre":"Fundación de Peravia",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":746,
+    "nombre":"Honduras",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":747,
+    "nombre":"Río Arriba",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":748,
+    "nombre":"El Llano",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":749,
+    "nombre":"La Montería",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":750,
+    "nombre":"Monte Llano",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":751,
+    "nombre":"El Recodo",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":752,
+    "nombre":"Valdesia",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":753,
+    "nombre":"Villa Güera",
+    "municipioId":80,
+    "distritoId":null
+  },
+  {
+    "id":754,
+    "nombre":"Villa Fundación (Zona urbana)",
+    "municipioId":80,
+    "distritoId":115.0
+  },
+  {
+    "id":755,
+    "nombre":"Las Carreras",
+    "municipioId":80,
+    "distritoId":115.0
+  },
+  {
+    "id":756,
+    "nombre":"Los Ranchitos",
+    "municipioId":80,
+    "distritoId":115.0
+  },
+  {
+    "id":757,
+    "nombre":"Sabana Buey (Zona urbana)",
+    "municipioId":80,
+    "distritoId":116.0
+  },
+  {
+    "id":758,
+    "nombre":"El Palmarito",
+    "municipioId":80,
+    "distritoId":116.0
+  },
+  {
+    "id":759,
+    "nombre":"Sabana Buey",
+    "municipioId":80,
+    "distritoId":116.0
+  },
+  {
+    "id":760,
+    "nombre":"Paya (Zona urbana)",
+    "municipioId":80,
+    "distritoId":117.0
+  },
+  {
+    "id":761,
+    "nombre":"Escondido",
+    "municipioId":80,
+    "distritoId":117.0
+  },
+  {
+    "id":762,
+    "nombre":"Mata Gorda",
+    "municipioId":80,
+    "distritoId":117.0
+  },
+  {
+    "id":763,
+    "nombre":"Paya Rural",
+    "municipioId":80,
+    "distritoId":117.0
+  },
+  {
+    "id":764,
+    "nombre":"Villa Sombrero (Zona urbana)",
+    "municipioId":80,
+    "distritoId":118.0
+  },
+  {
+    "id":765,
+    "nombre":"Villa Sombrero Rural",
+    "municipioId":80,
+    "distritoId":118.0
+  },
+  {
+    "id":766,
+    "nombre":"El Carretón (Zona urbana)",
+    "municipioId":80,
+    "distritoId":119.0
+  },
+  {
+    "id":767,
+    "nombre":"El Carretón",
+    "municipioId":80,
+    "distritoId":119.0
+  },
+  {
+    "id":768,
+    "nombre":"Catalina (Zona urbana)",
+    "municipioId":80,
+    "distritoId":120.0
+  },
+  {
+    "id":769,
+    "nombre":"Catalina",
+    "municipioId":80,
+    "distritoId":120.0
+  },
+  {
+    "id":770,
+    "nombre":"El Limonal (Zona urbana)",
+    "municipioId":80,
+    "distritoId":121.0
+  },
+  {
+    "id":771,
+    "nombre":"La Iguana",
+    "municipioId":80,
+    "distritoId":121.0
+  },
+  {
+    "id":772,
+    "nombre":"La Cabria",
+    "municipioId":80,
+    "distritoId":121.0
+  },
+  {
+    "id":773,
+    "nombre":"Arroyo Salado",
+    "municipioId":80,
+    "distritoId":121.0
+  },
+  {
+    "id":774,
+    "nombre":"Los Jobitos",
+    "municipioId":80,
+    "distritoId":121.0
+  },
+  {
+    "id":775,
+    "nombre":"Las Barías (Zona urbana)",
+    "municipioId":80,
+    "distritoId":122.0
+  },
+  {
+    "id":776,
+    "nombre":"El Roblegar",
+    "municipioId":80,
+    "distritoId":122.0
+  },
+  {
+    "id":777,
+    "nombre":"Nizao (Zona urbana)",
+    "municipioId":81,
+    "distritoId":null
+  },
+  {
+    "id":778,
+    "nombre":"Don Gregorio",
+    "municipioId":81,
+    "distritoId":null
+  },
+  {
+    "id":779,
+    "nombre":"Pizarrete (Zona urbana)",
+    "municipioId":81,
+    "distritoId":123.0
+  },
+  {
+    "id":780,
+    "nombre":"Gualey",
+    "municipioId":81,
+    "distritoId":123.0
+  },
+  {
+    "id":781,
+    "nombre":"Santana (Zona urbana)",
+    "municipioId":81,
+    "distritoId":124.0
+  },
+  {
+    "id":782,
+    "nombre":"Lucas Díaz",
+    "municipioId":81,
+    "distritoId":124.0
+  },
+  {
+    "id":783,
+    "nombre":"Yiyo Gómez",
+    "municipioId":81,
+    "distritoId":124.0
+  },
+  {
+    "id":784,
+    "nombre":"Matanzas (Zona Urbana)",
+    "municipioId":82,
+    "distritoId":null
+  },
+  {
+    "id":785,
+    "nombre":"Arroyo Hondo",
+    "municipioId":82,
+    "distritoId":null
+  },
+  {
+    "id":786,
+    "nombre":"Quijá Quieta",
+    "municipioId":82,
+    "distritoId":null
+  },
+  {
+    "id":787,
+    "nombre":"Las Tablas",
+    "municipioId":82,
+    "distritoId":null
+  },
+  {
+    "id":788,
+    "nombre":"Galión (Galeón)",
+    "municipioId":82,
+    "distritoId":null
+  },
+  {
+    "id":789,
+    "nombre":"San José",
+    "municipioId":82,
+    "distritoId":null
+  },
+  {
+    "id":790,
+    "nombre":"Los Tumbaos",
+    "municipioId":82,
+    "distritoId":null
+  },
+  {
+    "id":791,
+    "nombre":"San Felipe de Puerto Plata (Zona urbana)",
+    "municipioId":83,
+    "distritoId":null
+  },
+  {
+    "id":792,
+    "nombre":"El Cupey",
+    "municipioId":83,
+    "distritoId":null
+  },
+  {
+    "id":793,
+    "nombre":"Los Mameyes",
+    "municipioId":83,
+    "distritoId":null
+  },
+  {
+    "id":794,
+    "nombre":"Sabana Grande",
+    "municipioId":83,
+    "distritoId":null
+  },
+  {
+    "id":795,
+    "nombre":"Tubagua",
+    "municipioId":83,
+    "distritoId":null
+  },
+  {
+    "id":796,
+    "nombre":"Maggiolo",
+    "municipioId":83,
+    "distritoId":null
+  },
+  {
+    "id":797,
+    "nombre":"Yásica Arriba (Zona urbana)",
+    "municipioId":83,
+    "distritoId":125.0
+  },
+  {
+    "id":798,
+    "nombre":"Yásica Abajo",
+    "municipioId":83,
+    "distritoId":125.0
+  },
+  {
+    "id":799,
+    "nombre":"Gurabito de Yaroa",
+    "municipioId":83,
+    "distritoId":125.0
+  },
+  {
+    "id":800,
+    "nombre":"Villa General Benito Martínez",
+    "municipioId":83,
+    "distritoId":125.0
+  },
+  {
+    "id":801,
+    "nombre":"Yásica Arriba",
+    "municipioId":83,
+    "distritoId":125.0
+  },
+  {
+    "id":802,
+    "nombre":"Maimón (Zona urbana)",
+    "municipioId":83,
+    "distritoId":126.0
+  },
+  {
+    "id":803,
+    "nombre":"Maimón ",
+    "municipioId":83,
+    "distritoId":126.0
+  },
+  {
+    "id":804,
+    "nombre":"San Cristóbal",
+    "municipioId":83,
+    "distritoId":126.0
+  },
+  {
+    "id":805,
+    "nombre":"Don Gregorio",
+    "municipioId":83,
+    "distritoId":126.0
+  },
+  {
+    "id":806,
+    "nombre":"Los Tejada",
+    "municipioId":83,
+    "distritoId":126.0
+  },
+  {
+    "id":807,
+    "nombre":"Las Avispas",
+    "municipioId":83,
+    "distritoId":126.0
+  },
+  {
+    "id":808,
+    "nombre":"Guzmancito",
+    "municipioId":83,
+    "distritoId":126.0
+  },
+  {
+    "id":809,
+    "nombre":"Cambiaso",
+    "municipioId":83,
+    "distritoId":126.0
+  },
+  {
+    "id":810,
+    "nombre":"Altamira (Zona urbana)",
+    "municipioId":84,
+    "distritoId":null
+  },
+  {
+    "id":811,
+    "nombre":"El Mamey",
+    "municipioId":84,
+    "distritoId":null
+  },
+  {
+    "id":812,
+    "nombre":"Escalera",
+    "municipioId":84,
+    "distritoId":null
+  },
+  {
+    "id":813,
+    "nombre":"Higüero",
+    "municipioId":84,
+    "distritoId":null
+  },
+  {
+    "id":814,
+    "nombre":"Los Llanos",
+    "municipioId":84,
+    "distritoId":null
+  },
+  {
+    "id":815,
+    "nombre":"Palmar Grande",
+    "municipioId":84,
+    "distritoId":null
+  },
+  {
+    "id":816,
+    "nombre":"Quebrada Honda",
+    "municipioId":84,
+    "distritoId":null
+  },
+  {
+    "id":817,
+    "nombre":"Río Grande (Zona urbana)",
+    "municipioId":84,
+    "distritoId":127.0
+  },
+  {
+    "id":818,
+    "nombre":"Río Grande Abajo",
+    "municipioId":84,
+    "distritoId":127.0
+  },
+  {
+    "id":819,
+    "nombre":"Río Grande Al Medio",
+    "municipioId":84,
+    "distritoId":127.0
+  },
+  {
+    "id":820,
+    "nombre":"Río Grande Arriba",
+    "municipioId":84,
+    "distritoId":127.0
+  },
+  {
+    "id":821,
+    "nombre":"Rancho Arriba",
+    "municipioId":84,
+    "distritoId":127.0
+  },
+  {
+    "id":822,
+    "nombre":"Pescado Bobo Arriba",
+    "municipioId":84,
+    "distritoId":127.0
+  },
+  {
+    "id":823,
+    "nombre":"Guananico (Zona urbana)",
+    "municipioId":85,
+    "distritoId":null
+  },
+  {
+    "id":824,
+    "nombre":"Fundación",
+    "municipioId":85,
+    "distritoId":null
+  },
+  {
+    "id":825,
+    "nombre":"La Altagracia",
+    "municipioId":85,
+    "distritoId":null
+  },
+  {
+    "id":826,
+    "nombre":"La Cabirma",
+    "municipioId":85,
+    "distritoId":null
+  },
+  {
+    "id":827,
+    "nombre":"Hoya Grande",
+    "municipioId":85,
+    "distritoId":null
+  },
+  {
+    "id":828,
+    "nombre":"Paradero",
+    "municipioId":85,
+    "distritoId":null
+  },
+  {
+    "id":829,
+    "nombre":"Rancho Viejo",
+    "municipioId":85,
+    "distritoId":null
+  },
+  {
+    "id":830,
+    "nombre":"Imbert (Zona urbana)",
+    "municipioId":86,
+    "distritoId":null
+  },
+  {
+    "id":831,
+    "nombre":"Cabia",
+    "municipioId":86,
+    "distritoId":null
+  },
+  {
+    "id":832,
+    "nombre":"Caonao",
+    "municipioId":86,
+    "distritoId":null
+  },
+  {
+    "id":833,
+    "nombre":"Las Canas",
+    "municipioId":86,
+    "distritoId":null
+  },
+  {
+    "id":834,
+    "nombre":"Pérez",
+    "municipioId":86,
+    "distritoId":null
+  },
+  {
+    "id":835,
+    "nombre":"Saballo",
+    "municipioId":86,
+    "distritoId":null
+  },
+  {
+    "id":836,
+    "nombre":"Los Hidalgos (Zona urbana)",
+    "municipioId":87,
+    "distritoId":null
+  },
+  {
+    "id":837,
+    "nombre":"El Mamey",
+    "municipioId":87,
+    "distritoId":null
+  },
+  {
+    "id":838,
+    "nombre":"Marmolejos",
+    "municipioId":87,
+    "distritoId":null
+  },
+  {
+    "id":839,
+    "nombre":"Unijica",
+    "municipioId":87,
+    "distritoId":null
+  },
+  {
+    "id":840,
+    "nombre":"Navas (Zona urbana)",
+    "municipioId":87,
+    "distritoId":128.0
+  },
+  {
+    "id":841,
+    "nombre":"Vista Alegre",
+    "municipioId":87,
+    "distritoId":128.0
+  },
+  {
+    "id":842,
+    "nombre":"Luperón (Zona urbana)",
+    "municipioId":88,
+    "distritoId":null
+  },
+  {
+    "id":843,
+    "nombre":"Barrancón",
+    "municipioId":88,
+    "distritoId":null
+  },
+  {
+    "id":844,
+    "nombre":"Cambiaso",
+    "municipioId":88,
+    "distritoId":null
+  },
+  {
+    "id":845,
+    "nombre":"El Higo",
+    "municipioId":88,
+    "distritoId":null
+  },
+  {
+    "id":846,
+    "nombre":"La Sabana",
+    "municipioId":88,
+    "distritoId":null
+  },
+  {
+    "id":847,
+    "nombre":"Ranchito de los Vargas",
+    "municipioId":88,
+    "distritoId":null
+  },
+  {
+    "id":848,
+    "nombre":"La Isabela (Zona urbana)",
+    "municipioId":88,
+    "distritoId":129.0
+  },
+  {
+    "id":849,
+    "nombre":"Candelón",
+    "municipioId":88,
+    "distritoId":129.0
+  },
+  {
+    "id":850,
+    "nombre":"La Isabela",
+    "municipioId":88,
+    "distritoId":129.0
+  },
+  {
+    "id":851,
+    "nombre":"Belloso (Zona Urbana)",
+    "municipioId":88,
+    "distritoId":130.0
+  },
+  {
+    "id":852,
+    "nombre":"Belloso",
+    "municipioId":88,
+    "distritoId":130.0
+  },
+  {
+    "id":853,
+    "nombre":"Cerro de Navas",
+    "municipioId":88,
+    "distritoId":130.0
+  },
+  {
+    "id":854,
+    "nombre":"El Estrecho de Luperón Omar Bross (Zona urbana)",
+    "municipioId":88,
+    "distritoId":131.0
+  },
+  {
+    "id":855,
+    "nombre":"El Estrecho Abajo",
+    "municipioId":88,
+    "distritoId":131.0
+  },
+  {
+    "id":856,
+    "nombre":"Arroyo Amargo",
+    "municipioId":88,
+    "distritoId":131.0
+  },
+  {
+    "id":857,
+    "nombre":"Martín Alonzo",
+    "municipioId":88,
+    "distritoId":131.0
+  },
+  {
+    "id":858,
+    "nombre":"Sosúa (Zona urbana)",
+    "municipioId":89,
+    "distritoId":null
+  },
+  {
+    "id":859,
+    "nombre":"Madre Vieja",
+    "municipioId":89,
+    "distritoId":null
+  },
+  {
+    "id":860,
+    "nombre":"Sabaneta de Cangrejos",
+    "municipioId":89,
+    "distritoId":null
+  },
+  {
+    "id":861,
+    "nombre":"Cabarete (Zona urbana)",
+    "municipioId":89,
+    "distritoId":132.0
+  },
+  {
+    "id":862,
+    "nombre":"La Catalina",
+    "municipioId":89,
+    "distritoId":132.0
+  },
+  {
+    "id":863,
+    "nombre":"La Goleta",
+    "municipioId":89,
+    "distritoId":132.0
+  },
+  {
+    "id":864,
+    "nombre":"Sabaneta de Yásica (Zona urbana)",
+    "municipioId":89,
+    "distritoId":133.0
+  },
+  {
+    "id":865,
+    "nombre":"Sabaneta de Yásica",
+    "municipioId":89,
+    "distritoId":133.0
+  },
+  {
+    "id":866,
+    "nombre":"Los Cantabillos",
+    "municipioId":89,
+    "distritoId":133.0
+  },
+  {
+    "id":867,
+    "nombre":"Villa Isabela (Zona urbana)",
+    "municipioId":90,
+    "distritoId":null
+  },
+  {
+    "id":868,
+    "nombre":"Laguna Grande",
+    "municipioId":90,
+    "distritoId":null
+  },
+  {
+    "id":869,
+    "nombre":"La Balsa",
+    "municipioId":90,
+    "distritoId":null
+  },
+  {
+    "id":870,
+    "nombre":"Estero Hondo (Zona urbana)",
+    "municipioId":90,
+    "distritoId":134.0
+  },
+  {
+    "id":871,
+    "nombre":"Los Pilones",
+    "municipioId":90,
+    "distritoId":134.0
+  },
+  {
+    "id":872,
+    "nombre":"Rancho Manuel",
+    "municipioId":90,
+    "distritoId":134.0
+  },
+  {
+    "id":873,
+    "nombre":"La Jaiba (Zona urbana)",
+    "municipioId":90,
+    "distritoId":135.0
+  },
+  {
+    "id":874,
+    "nombre":"La Jaiba",
+    "municipioId":90,
+    "distritoId":135.0
+  },
+  {
+    "id":875,
+    "nombre":"Gualete (Zona urbana)",
+    "municipioId":90,
+    "distritoId":136.0
+  },
+  {
+    "id":876,
+    "nombre":"Gualete",
+    "municipioId":90,
+    "distritoId":136.0
+  },
+  {
+    "id":877,
+    "nombre":"Villa Montellano (Zona urbana)",
+    "municipioId":91,
+    "distritoId":null
+  },
+  {
+    "id":878,
+    "nombre":"Arroyo de Leche",
+    "municipioId":91,
+    "distritoId":null
+  },
+  {
+    "id":879,
+    "nombre":"Boca Nueva",
+    "municipioId":91,
+    "distritoId":null
+  },
+  {
+    "id":880,
+    "nombre":"Cangrejo",
+    "municipioId":91,
+    "distritoId":null
+  },
+  {
+    "id":881,
+    "nombre":"Caraballo",
+    "municipioId":91,
+    "distritoId":null
+  },
+  {
+    "id":882,
+    "nombre":"Los Ciruelos",
+    "municipioId":91,
+    "distritoId":null
+  },
+  {
+    "id":883,
+    "nombre":"Mozaví",
+    "municipioId":91,
+    "distritoId":null
+  },
+  {
+    "id":884,
+    "nombre":"Salcedo (Zona urbana)",
+    "municipioId":92,
+    "distritoId":null
+  },
+  {
+    "id":885,
+    "nombre":"Jayabo Afuera",
+    "municipioId":92,
+    "distritoId":null
+  },
+  {
+    "id":886,
+    "nombre":"Los Cacaos",
+    "municipioId":92,
+    "distritoId":null
+  },
+  {
+    "id":887,
+    "nombre":"Palmarito",
+    "municipioId":92,
+    "distritoId":null
+  },
+  {
+    "id":888,
+    "nombre":"Jamao Afuera (Zona urbana)",
+    "municipioId":92,
+    "distritoId":137.0
+  },
+  {
+    "id":889,
+    "nombre":"Montellano",
+    "municipioId":92,
+    "distritoId":137.0
+  },
+  {
+    "id":890,
+    "nombre":"Jamao Adentro",
+    "municipioId":92,
+    "distritoId":137.0
+  },
+  {
+    "id":891,
+    "nombre":"Tenares (Zona urbana)",
+    "municipioId":93,
+    "distritoId":null
+  },
+  {
+    "id":892,
+    "nombre":"Boba Arriba",
+    "municipioId":93,
+    "distritoId":null
+  },
+  {
+    "id":893,
+    "nombre":"Canete",
+    "municipioId":93,
+    "distritoId":null
+  },
+  {
+    "id":894,
+    "nombre":"Gran Parada",
+    "municipioId":93,
+    "distritoId":null
+  },
+  {
+    "id":895,
+    "nombre":"Paso Hondo",
+    "municipioId":93,
+    "distritoId":null
+  },
+  {
+    "id":896,
+    "nombre":"El Placer",
+    "municipioId":93,
+    "distritoId":null
+  },
+  {
+    "id":897,
+    "nombre":"Blanco (Zona urbana)",
+    "municipioId":93,
+    "distritoId":138.0
+  },
+  {
+    "id":898,
+    "nombre":"Blanco Arriba",
+    "municipioId":93,
+    "distritoId":138.0
+  },
+  {
+    "id":899,
+    "nombre":"Villa Tapia (Zona urbana)",
+    "municipioId":94,
+    "distritoId":null
+  },
+  {
+    "id":900,
+    "nombre":"La Ceiba",
+    "municipioId":94,
+    "distritoId":null
+  },
+  {
+    "id":901,
+    "nombre":"Los Limones",
+    "municipioId":94,
+    "distritoId":null
+  },
+  {
+    "id":902,
+    "nombre":"San José",
+    "municipioId":94,
+    "distritoId":null
+  },
+  {
+    "id":903,
+    "nombre":"Santa Ana",
+    "municipioId":94,
+    "distritoId":null
+  },
+  {
+    "id":904,
+    "nombre":"Santa Bárbara de Samaná (Zona urbana)",
+    "municipioId":95,
+    "distritoId":null
+  },
+  {
+    "id":905,
+    "nombre":"Acosta",
+    "municipioId":95,
+    "distritoId":null
+  },
+  {
+    "id":906,
+    "nombre":"Los Cacaos",
+    "municipioId":95,
+    "distritoId":null
+  },
+  {
+    "id":907,
+    "nombre":"Honduras",
+    "municipioId":95,
+    "distritoId":null
+  },
+  {
+    "id":908,
+    "nombre":"Juana Vicenta",
+    "municipioId":95,
+    "distritoId":null
+  },
+  {
+    "id":909,
+    "nombre":"El Limón (Zona urbana)",
+    "municipioId":95,
+    "distritoId":139.0
+  },
+  {
+    "id":910,
+    "nombre":"La Barbacoa",
+    "municipioId":95,
+    "distritoId":139.0
+  },
+  {
+    "id":911,
+    "nombre":"Agua Sabrosa",
+    "municipioId":95,
+    "distritoId":139.0
+  },
+  {
+    "id":912,
+    "nombre":"Morón",
+    "municipioId":95,
+    "distritoId":139.0
+  },
+  {
+    "id":913,
+    "nombre":"Arroyo Barril (Zona urbana)",
+    "municipioId":95,
+    "distritoId":140.0
+  },
+  {
+    "id":914,
+    "nombre":"La Pascuala",
+    "municipioId":95,
+    "distritoId":140.0
+  },
+  {
+    "id":915,
+    "nombre":"El Botao",
+    "municipioId":95,
+    "distritoId":140.0
+  },
+  {
+    "id":916,
+    "nombre":"Las Galeras (Zona urbana)",
+    "municipioId":95,
+    "distritoId":141.0
+  },
+  {
+    "id":917,
+    "nombre":"La Guásuma",
+    "municipioId":95,
+    "distritoId":141.0
+  },
+  {
+    "id":918,
+    "nombre":"Los Tocones",
+    "municipioId":95,
+    "distritoId":141.0
+  },
+  {
+    "id":919,
+    "nombre":"Rincón",
+    "municipioId":95,
+    "distritoId":141.0
+  },
+  {
+    "id":920,
+    "nombre":"Sánchez (Zona urbana)",
+    "municipioId":96,
+    "distritoId":null
+  },
+  {
+    "id":921,
+    "nombre":"La Majagua",
+    "municipioId":96,
+    "distritoId":null
+  },
+  {
+    "id":922,
+    "nombre":"Las Garitas",
+    "municipioId":96,
+    "distritoId":null
+  },
+  {
+    "id":923,
+    "nombre":"Agua Santa del Yuna",
+    "municipioId":96,
+    "distritoId":null
+  },
+  {
+    "id":924,
+    "nombre":"Majagual",
+    "municipioId":96,
+    "distritoId":null
+  },
+  {
+    "id":925,
+    "nombre":"El Catey",
+    "municipioId":96,
+    "distritoId":null
+  },
+  {
+    "id":926,
+    "nombre":"Las Terrenas (Zona urbana)",
+    "municipioId":97,
+    "distritoId":null
+  },
+  {
+    "id":927,
+    "nombre":"El Jamito",
+    "municipioId":97,
+    "distritoId":null
+  },
+  {
+    "id":928,
+    "nombre":"El Cosón",
+    "municipioId":97,
+    "distritoId":null
+  },
+  {
+    "id":929,
+    "nombre":"La Barbacoa",
+    "municipioId":97,
+    "distritoId":null
+  },
+  {
+    "id":930,
+    "nombre":"El Naranjito",
+    "municipioId":97,
+    "distritoId":null
+  },
+  {
+    "id":931,
+    "nombre":"San Cristóbal (Zona urbana)",
+    "municipioId":98,
+    "distritoId":null
+  },
+  {
+    "id":932,
+    "nombre":"Borbón",
+    "municipioId":98,
+    "distritoId":null
+  },
+  {
+    "id":933,
+    "nombre":"Ingenio Nuevo",
+    "municipioId":98,
+    "distritoId":null
+  },
+  {
+    "id":934,
+    "nombre":"Najayo Arriba",
+    "municipioId":98,
+    "distritoId":null
+  },
+  {
+    "id":935,
+    "nombre":"Sainaguá",
+    "municipioId":98,
+    "distritoId":null
+  },
+  {
+    "id":936,
+    "nombre":"Santa María",
+    "municipioId":98,
+    "distritoId":null
+  },
+  {
+    "id":937,
+    "nombre":"Cambita Sterling",
+    "municipioId":98,
+    "distritoId":null
+  },
+  {
+    "id":938,
+    "nombre":"Hato Damas (Zona urbana)",
+    "municipioId":98,
+    "distritoId":142.0
+  },
+  {
+    "id":939,
+    "nombre":"Los Montones",
+    "municipioId":98,
+    "distritoId":142.0
+  },
+  {
+    "id":940,
+    "nombre":"Dasa",
+    "municipioId":98,
+    "distritoId":142.0
+  },
+  {
+    "id":941,
+    "nombre":"San Francisco",
+    "municipioId":98,
+    "distritoId":142.0
+  },
+  {
+    "id":942,
+    "nombre":"Jamey",
+    "municipioId":98,
+    "distritoId":142.0
+  },
+  {
+    "id":943,
+    "nombre":"Hatillo (Zona Urbana)",
+    "municipioId":98,
+    "distritoId":143.0
+  },
+  {
+    "id":944,
+    "nombre":"La Sabana",
+    "municipioId":98,
+    "distritoId":143.0
+  },
+  {
+    "id":945,
+    "nombre":"Hojas Anchas",
+    "municipioId":98,
+    "distritoId":143.0
+  },
+  {
+    "id":946,
+    "nombre":"Mata Naranjo",
+    "municipioId":98,
+    "distritoId":143.0
+  },
+  {
+    "id":947,
+    "nombre":"Sabana Crande de Palenque (Zona urbana)",
+    "municipioId":99,
+    "distritoId":null
+  },
+  {
+    "id":948,
+    "nombre":"Juan Barón",
+    "municipioId":99,
+    "distritoId":null
+  },
+  {
+    "id":949,
+    "nombre":"Sabana Palenque",
+    "municipioId":99,
+    "distritoId":null
+  },
+  {
+    "id":950,
+    "nombre":"Bajos de Haina (Zona urbana)",
+    "municipioId":100,
+    "distritoId":null
+  },
+  {
+    "id":951,
+    "nombre":"Haina",
+    "municipioId":100,
+    "distritoId":null
+  },
+  {
+    "id":952,
+    "nombre":"El Carril (Zona urbana)",
+    "municipioId":100,
+    "distritoId":144.0
+  },
+  {
+    "id":953,
+    "nombre":"El Cajuilito",
+    "municipioId":100,
+    "distritoId":144.0
+  },
+  {
+    "id":954,
+    "nombre":"La Pared",
+    "municipioId":100,
+    "distritoId":144.0
+  },
+  {
+    "id":955,
+    "nombre":"Quita Sueño (Zona urbana)",
+    "municipioId":100,
+    "distritoId":145.0
+  },
+  {
+    "id":956,
+    "nombre":"Piedra Blanca Norte",
+    "municipioId":100,
+    "distritoId":145.0
+  },
+  {
+    "id":957,
+    "nombre":"La Cerca ",
+    "municipioId":100,
+    "distritoId":145.0
+  },
+  {
+    "id":958,
+    "nombre":"Villa María",
+    "municipioId":100,
+    "distritoId":145.0
+  },
+  {
+    "id":959,
+    "nombre":"Los Barrancones los Frías",
+    "municipioId":100,
+    "distritoId":145.0
+  },
+  {
+    "id":960,
+    "nombre":"Barcequillo Industrial",
+    "municipioId":100,
+    "distritoId":145.0
+  },
+  {
+    "id":961,
+    "nombre":"Cambita Garabitos (Zona urbana)",
+    "municipioId":101,
+    "distritoId":null
+  },
+  {
+    "id":962,
+    "nombre":"Cambita Garabitos",
+    "municipioId":101,
+    "distritoId":null
+  },
+  {
+    "id":963,
+    "nombre":"Humachón",
+    "municipioId":101,
+    "distritoId":null
+  },
+  {
+    "id":964,
+    "nombre":"La Colonia",
+    "municipioId":101,
+    "distritoId":null
+  },
+  {
+    "id":965,
+    "nombre":"Los Manantiales",
+    "municipioId":101,
+    "distritoId":null
+  },
+  {
+    "id":966,
+    "nombre":"El Tablazo",
+    "municipioId":101,
+    "distritoId":null
+  },
+  {
+    "id":967,
+    "nombre":"Cambita El Pueblecito (Zona urbana)",
+    "municipioId":101,
+    "distritoId":146.0
+  },
+  {
+    "id":968,
+    "nombre":"Llanada Grande",
+    "municipioId":101,
+    "distritoId":146.0
+  },
+  {
+    "id":969,
+    "nombre":"Pueblo Nuevo",
+    "municipioId":101,
+    "distritoId":146.0
+  },
+  {
+    "id":970,
+    "nombre":"El Toro",
+    "municipioId":101,
+    "distritoId":146.0
+  },
+  {
+    "id":971,
+    "nombre":"Villa Altagracia (Zona urbana)",
+    "municipioId":102,
+    "distritoId":null
+  },
+  {
+    "id":972,
+    "nombre":"Catarey",
+    "municipioId":102,
+    "distritoId":null
+  },
+  {
+    "id":973,
+    "nombre":"Maná de Haina",
+    "municipioId":102,
+    "distritoId":null
+  },
+  {
+    "id":974,
+    "nombre":"San José del Puerto (Zona urbana)",
+    "municipioId":102,
+    "distritoId":147.0
+  },
+  {
+    "id":975,
+    "nombre":"Básima",
+    "municipioId":102,
+    "distritoId":147.0
+  },
+  {
+    "id":976,
+    "nombre":"Los Mogotes",
+    "municipioId":102,
+    "distritoId":147.0
+  },
+  {
+    "id":977,
+    "nombre":"Pino Herrado",
+    "municipioId":102,
+    "distritoId":147.0
+  },
+  {
+    "id":978,
+    "nombre":"Medina (Zona urbana)",
+    "municipioId":102,
+    "distritoId":148.0
+  },
+  {
+    "id":979,
+    "nombre":"Loma Verde",
+    "municipioId":102,
+    "distritoId":148.0
+  },
+  {
+    "id":980,
+    "nombre":"El Pedrero",
+    "municipioId":102,
+    "distritoId":148.0
+  },
+  {
+    "id":981,
+    "nombre":"Castaño",
+    "municipioId":102,
+    "distritoId":148.0
+  },
+  {
+    "id":982,
+    "nombre":"Medina",
+    "municipioId":102,
+    "distritoId":148.0
+  },
+  {
+    "id":983,
+    "nombre":"La Cuchilla (Zona urbana)",
+    "municipioId":102,
+    "distritoId":149.0
+  },
+  {
+    "id":984,
+    "nombre":"La Cuchilla",
+    "municipioId":102,
+    "distritoId":149.0
+  },
+  {
+    "id":985,
+    "nombre":"El Aguacero",
+    "municipioId":102,
+    "distritoId":149.0
+  },
+  {
+    "id":986,
+    "nombre":"El Caobal",
+    "municipioId":102,
+    "distritoId":149.0
+  },
+  {
+    "id":987,
+    "nombre":"El Cidral",
+    "municipioId":102,
+    "distritoId":149.0
+  },
+  {
+    "id":988,
+    "nombre":"El Cidral (La Represa)",
+    "municipioId":102,
+    "distritoId":149.0
+  },
+  {
+    "id":989,
+    "nombre":"Yaguate (Zona urbana)",
+    "municipioId":103,
+    "distritoId":null
+  },
+  {
+    "id":990,
+    "nombre":"Las Gallardas",
+    "municipioId":103,
+    "distritoId":null
+  },
+  {
+    "id":991,
+    "nombre":"Najayo en Medio",
+    "municipioId":103,
+    "distritoId":null
+  },
+  {
+    "id":992,
+    "nombre":"Maná de Yaguate",
+    "municipioId":103,
+    "distritoId":null
+  },
+  {
+    "id":993,
+    "nombre":"Doña Ana (Zona urbana)",
+    "municipioId":103,
+    "distritoId":150.0
+  },
+  {
+    "id":994,
+    "nombre":"Los Brujanes",
+    "municipioId":103,
+    "distritoId":150.0
+  },
+  {
+    "id":995,
+    "nombre":"La Sierra",
+    "municipioId":103,
+    "distritoId":150.0
+  },
+  {
+    "id":996,
+    "nombre":"San Gregorio de Nigua (Zona urbana)",
+    "municipioId":104,
+    "distritoId":null
+  },
+  {
+    "id":997,
+    "nombre":"Boca de Nigua",
+    "municipioId":104,
+    "distritoId":null
+  },
+  {
+    "id":998,
+    "nombre":"Najayo Abajo",
+    "municipioId":104,
+    "distritoId":null
+  },
+  {
+    "id":999,
+    "nombre":"Malpáez",
+    "municipioId":104,
+    "distritoId":null
+  },
+  {
+    "id":1000,
+    "nombre":"Los Cacaos (Zona urbana)",
+    "municipioId":105,
+    "distritoId":null
+  },
+  {
+    "id":1001,
+    "nombre":"El Guineo",
+    "municipioId":105,
+    "distritoId":null
+  },
+  {
+    "id":1002,
+    "nombre":"Los Naranjos",
+    "municipioId":105,
+    "distritoId":null
+  },
+  {
+    "id":1003,
+    "nombre":"Calderón",
+    "municipioId":105,
+    "distritoId":null
+  },
+  {
+    "id":1004,
+    "nombre":"San Juan de La Maguana (Zona urbana)",
+    "municipioId":106,
+    "distritoId":null
+  },
+  {
+    "id":1005,
+    "nombre":"Chalona",
+    "municipioId":106,
+    "distritoId":null
+  },
+  {
+    "id":1006,
+    "nombre":"Cañafístol",
+    "municipioId":106,
+    "distritoId":null
+  },
+  {
+    "id":1007,
+    "nombre":"Mogollón",
+    "municipioId":106,
+    "distritoId":null
+  },
+  {
+    "id":1008,
+    "nombre":"Guazumal",
+    "municipioId":106,
+    "distritoId":null
+  },
+  {
+    "id":1009,
+    "nombre":"Pedro Corto (Zona urbana)",
+    "municipioId":106,
+    "distritoId":151.0
+  },
+  {
+    "id":1010,
+    "nombre":"Mabrígida",
+    "municipioId":106,
+    "distritoId":151.0
+  },
+  {
+    "id":1011,
+    "nombre":"Pedro Corto",
+    "municipioId":106,
+    "distritoId":151.0
+  },
+  {
+    "id":1012,
+    "nombre":"Punta Caña",
+    "municipioId":106,
+    "distritoId":151.0
+  },
+  {
+    "id":1013,
+    "nombre":"La Ceiba",
+    "municipioId":106,
+    "distritoId":151.0
+  },
+  {
+    "id":1014,
+    "nombre":"Sabaneta (Zona urbana)",
+    "municipioId":106,
+    "distritoId":152.0
+  },
+  {
+    "id":1015,
+    "nombre":"Carpintero",
+    "municipioId":106,
+    "distritoId":152.0
+  },
+  {
+    "id":1016,
+    "nombre":"Río Arriba del Norte",
+    "municipioId":106,
+    "distritoId":152.0
+  },
+  {
+    "id":1017,
+    "nombre":"Los Gajitos",
+    "municipioId":106,
+    "distritoId":152.0
+  },
+  {
+    "id":1018,
+    "nombre":"La Ciénaga",
+    "municipioId":106,
+    "distritoId":152.0
+  },
+  {
+    "id":1019,
+    "nombre":"La Lometa",
+    "municipioId":106,
+    "distritoId":152.0
+  },
+  {
+    "id":1020,
+    "nombre":"Los Arroyos",
+    "municipioId":106,
+    "distritoId":152.0
+  },
+  {
+    "id":1021,
+    "nombre":"Sabana Alta (Zona urbana)",
+    "municipioId":106,
+    "distritoId":153.0
+  },
+  {
+    "id":1022,
+    "nombre":"Juan Álvarez",
+    "municipioId":106,
+    "distritoId":153.0
+  },
+  {
+    "id":1023,
+    "nombre":"Los Vallaondito (Los Bayahondito)",
+    "municipioId":106,
+    "distritoId":153.0
+  },
+  {
+    "id":1024,
+    "nombre":"El Rosario (Zona urbana)",
+    "municipioId":106,
+    "distritoId":154.0
+  },
+  {
+    "id":1025,
+    "nombre":"Pueblo Nuevo",
+    "municipioId":106,
+    "distritoId":154.0
+  },
+  {
+    "id":1026,
+    "nombre":"Cardón",
+    "municipioId":106,
+    "distritoId":154.0
+  },
+  {
+    "id":1027,
+    "nombre":"El Capá",
+    "municipioId":106,
+    "distritoId":154.0
+  },
+  {
+    "id":1028,
+    "nombre":"Hato del Padre (Zona urbana)",
+    "municipioId":106,
+    "distritoId":155.0
+  },
+  {
+    "id":1029,
+    "nombre":"El Cajuil",
+    "municipioId":106,
+    "distritoId":155.0
+  },
+  {
+    "id":1030,
+    "nombre":"La Higüera",
+    "municipioId":106,
+    "distritoId":155.0
+  },
+  {
+    "id":1031,
+    "nombre":"Arroyo Loro",
+    "municipioId":106,
+    "distritoId":155.0
+  },
+  {
+    "id":1032,
+    "nombre":"Guanito (Zona urbana)",
+    "municipioId":106,
+    "distritoId":156.0
+  },
+  {
+    "id":1033,
+    "nombre":"Guanito",
+    "municipioId":106,
+    "distritoId":156.0
+  },
+  {
+    "id":1034,
+    "nombre":"Los Bancos",
+    "municipioId":106,
+    "distritoId":156.0
+  },
+  {
+    "id":1035,
+    "nombre":"La Jagua (Zona urbana)",
+    "municipioId":106,
+    "distritoId":157.0
+  },
+  {
+    "id":1036,
+    "nombre":"La Jagua",
+    "municipioId":106,
+    "distritoId":157.0
+  },
+  {
+    "id":1037,
+    "nombre":"El Hatico",
+    "municipioId":106,
+    "distritoId":157.0
+  },
+  {
+    "id":1038,
+    "nombre":"El Cerrito",
+    "municipioId":106,
+    "distritoId":157.0
+  },
+  {
+    "id":1039,
+    "nombre":"Guayabal",
+    "municipioId":106,
+    "distritoId":157.0
+  },
+  {
+    "id":1040,
+    "nombre":"Las Maguanas-Hato Nuevo (Zona urbana)",
+    "municipioId":106,
+    "distritoId":158.0
+  },
+  {
+    "id":1041,
+    "nombre":"Pasatiempo",
+    "municipioId":106,
+    "distritoId":158.0
+  },
+  {
+    "id":1042,
+    "nombre":"Higüerito",
+    "municipioId":106,
+    "distritoId":158.0
+  },
+  {
+    "id":1043,
+    "nombre":"Dormidero",
+    "municipioId":106,
+    "distritoId":158.0
+  },
+  {
+    "id":1044,
+    "nombre":"Hato Nuevo",
+    "municipioId":106,
+    "distritoId":158.0
+  },
+  {
+    "id":1045,
+    "nombre":"Las Charcas de María Nova (Zona urbana)",
+    "municipioId":106,
+    "distritoId":159.0
+  },
+  {
+    "id":1046,
+    "nombre":"Loma de Babor",
+    "municipioId":106,
+    "distritoId":159.0
+  },
+  {
+    "id":1047,
+    "nombre":"Las Charcas Viejas",
+    "municipioId":106,
+    "distritoId":159.0
+  },
+  {
+    "id":1048,
+    "nombre":"Babor Abajo",
+    "municipioId":106,
+    "distritoId":159.0
+  },
+  {
+    "id":1049,
+    "nombre":"Las Zanjas (Zona urbana)",
+    "municipioId":106,
+    "distritoId":160.0
+  },
+  {
+    "id":1050,
+    "nombre":"El Cacheo",
+    "municipioId":106,
+    "distritoId":160.0
+  },
+  {
+    "id":1051,
+    "nombre":"La Florida",
+    "municipioId":106,
+    "distritoId":160.0
+  },
+  {
+    "id":1052,
+    "nombre":"Las Zanjas",
+    "municipioId":106,
+    "distritoId":160.0
+  },
+  {
+    "id":1053,
+    "nombre":"Las Charcas de Garabito",
+    "municipioId":106,
+    "distritoId":160.0
+  },
+  {
+    "id":1054,
+    "nombre":"El Batey",
+    "municipioId":106,
+    "distritoId":160.0
+  },
+  {
+    "id":1055,
+    "nombre":"El Kilómetro 9",
+    "municipioId":106,
+    "distritoId":160.0
+  },
+  {
+    "id":1056,
+    "nombre":"Bohechío (Zona urbana)",
+    "municipioId":107,
+    "distritoId":null
+  },
+  {
+    "id":1057,
+    "nombre":"Arroyo Cano (Zona urbana)",
+    "municipioId":107,
+    "distritoId":161.0
+  },
+  {
+    "id":1058,
+    "nombre":"Arroyo Cano",
+    "municipioId":107,
+    "distritoId":161.0
+  },
+  {
+    "id":1059,
+    "nombre":"Los Montasitos",
+    "municipioId":107,
+    "distritoId":161.0
+  },
+  {
+    "id":1060,
+    "nombre":"Buena Vista (Zona urbana)",
+    "municipioId":107,
+    "distritoId":162.0
+  },
+  {
+    "id":1061,
+    "nombre":"La Loma",
+    "municipioId":107,
+    "distritoId":162.0
+  },
+  {
+    "id":1062,
+    "nombre":"Buena Vista",
+    "municipioId":107,
+    "distritoId":162.0
+  },
+  {
+    "id":1063,
+    "nombre":"El Palmar",
+    "municipioId":107,
+    "distritoId":162.0
+  },
+  {
+    "id":1064,
+    "nombre":"La Guama",
+    "municipioId":107,
+    "distritoId":162.0
+  },
+  {
+    "id":1065,
+    "nombre":"El Cercado (Zona urbana)",
+    "municipioId":108,
+    "distritoId":null
+  },
+  {
+    "id":1066,
+    "nombre":"El Pinar",
+    "municipioId":108,
+    "distritoId":null
+  },
+  {
+    "id":1067,
+    "nombre":"La Ciénaga",
+    "municipioId":108,
+    "distritoId":null
+  },
+  {
+    "id":1068,
+    "nombre":"Derrumbadero (Zona urbana)",
+    "municipioId":108,
+    "distritoId":163.0
+  },
+  {
+    "id":1069,
+    "nombre":"Derrumbadero",
+    "municipioId":108,
+    "distritoId":163.0
+  },
+  {
+    "id":1070,
+    "nombre":"Damián",
+    "municipioId":108,
+    "distritoId":163.0
+  },
+  {
+    "id":1071,
+    "nombre":"El Centro",
+    "municipioId":108,
+    "distritoId":163.0
+  },
+  {
+    "id":1072,
+    "nombre":"Gajo de Pedro",
+    "municipioId":108,
+    "distritoId":163.0
+  },
+  {
+    "id":1073,
+    "nombre":"Vallecito",
+    "municipioId":108,
+    "distritoId":163.0
+  },
+  {
+    "id":1074,
+    "nombre":"Batista (Zona urbana)",
+    "municipioId":108,
+    "distritoId":164.0
+  },
+  {
+    "id":1075,
+    "nombre":"Pinar de la Cana",
+    "municipioId":108,
+    "distritoId":164.0
+  },
+  {
+    "id":1076,
+    "nombre":"Abras las Yayas",
+    "municipioId":108,
+    "distritoId":164.0
+  },
+  {
+    "id":1077,
+    "nombre":"Batista",
+    "municipioId":108,
+    "distritoId":164.0
+  },
+  {
+    "id":1078,
+    "nombre":"Juan de Herrera (Zona urbana)",
+    "municipioId":109,
+    "distritoId":null
+  },
+  {
+    "id":1079,
+    "nombre":"Los Montones",
+    "municipioId":109,
+    "distritoId":null
+  },
+  {
+    "id":1080,
+    "nombre":"Juan de Herrera",
+    "municipioId":109,
+    "distritoId":null
+  },
+  {
+    "id":1081,
+    "nombre":"Jínova (Zona urbana)",
+    "municipioId":109,
+    "distritoId":165.0
+  },
+  {
+    "id":1082,
+    "nombre":"Jínova",
+    "municipioId":109,
+    "distritoId":165.0
+  },
+  {
+    "id":1083,
+    "nombre":"Sosa",
+    "municipioId":109,
+    "distritoId":165.0
+  },
+  {
+    "id":1084,
+    "nombre":"Jaquimeyes",
+    "municipioId":109,
+    "distritoId":165.0
+  },
+  {
+    "id":1085,
+    "nombre":"Corbanal",
+    "municipioId":109,
+    "distritoId":165.0
+  },
+  {
+    "id":1086,
+    "nombre":"Las Matas de Farfán (Zona urbana)",
+    "municipioId":110,
+    "distritoId":null
+  },
+  {
+    "id":1087,
+    "nombre":"La Estancia",
+    "municipioId":110,
+    "distritoId":null
+  },
+  {
+    "id":1088,
+    "nombre":"Yabonico",
+    "municipioId":110,
+    "distritoId":null
+  },
+  {
+    "id":1089,
+    "nombre":"Las Carreras",
+    "municipioId":110,
+    "distritoId":null
+  },
+  {
+    "id":1090,
+    "nombre":"Matayaya (Zona urbana)",
+    "municipioId":110,
+    "distritoId":166.0
+  },
+  {
+    "id":1091,
+    "nombre":"Las Carreras",
+    "municipioId":110,
+    "distritoId":166.0
+  },
+  {
+    "id":1092,
+    "nombre":"Cocinera",
+    "municipioId":110,
+    "distritoId":166.0
+  },
+  {
+    "id":1093,
+    "nombre":"Los Jobos",
+    "municipioId":110,
+    "distritoId":166.0
+  },
+  {
+    "id":1094,
+    "nombre":"Olivero",
+    "municipioId":110,
+    "distritoId":166.0
+  },
+  {
+    "id":1095,
+    "nombre":"Matayaya",
+    "municipioId":110,
+    "distritoId":166.0
+  },
+  {
+    "id":1096,
+    "nombre":"Carrera de Yeguas (Zona urbana)",
+    "municipioId":110,
+    "distritoId":167.0
+  },
+  {
+    "id":1097,
+    "nombre":"Carrera de Yeguas",
+    "municipioId":110,
+    "distritoId":167.0
+  },
+  {
+    "id":1098,
+    "nombre":"Caña Segura",
+    "municipioId":110,
+    "distritoId":167.0
+  },
+  {
+    "id":1099,
+    "nombre":"Pozo Hondo",
+    "municipioId":110,
+    "distritoId":167.0
+  },
+  {
+    "id":1100,
+    "nombre":"Ranchito",
+    "municipioId":110,
+    "distritoId":167.0
+  },
+  {
+    "id":1101,
+    "nombre":"Escondido",
+    "municipioId":110,
+    "distritoId":167.0
+  },
+  {
+    "id":1102,
+    "nombre":"Yacahueque",
+    "municipioId":110,
+    "distritoId":167.0
+  },
+  {
+    "id":1103,
+    "nombre":"Vallejuelo (Zona urbana)",
+    "municipioId":111,
+    "distritoId":null
+  },
+  {
+    "id":1104,
+    "nombre":"Río Arriba del Sur",
+    "municipioId":111,
+    "distritoId":null
+  },
+  {
+    "id":1105,
+    "nombre":"Jorjillo (Zona urbana)",
+    "municipioId":111,
+    "distritoId":168.0
+  },
+  {
+    "id":1106,
+    "nombre":"Jorjillo",
+    "municipioId":111,
+    "distritoId":168.0
+  },
+  {
+    "id":1107,
+    "nombre":"Cañada del Café",
+    "municipioId":111,
+    "distritoId":168.0
+  },
+  {
+    "id":1108,
+    "nombre":"Carrera de Puerta",
+    "municipioId":111,
+    "distritoId":168.0
+  },
+  {
+    "id":1109,
+    "nombre":"San Pedro de Macorís (Zona urbana)",
+    "municipioId":112,
+    "distritoId":null
+  },
+  {
+    "id":1110,
+    "nombre":"Boca del Soco",
+    "municipioId":112,
+    "distritoId":null
+  },
+  {
+    "id":1111,
+    "nombre":"San José de Los Llanos (Zona urbana)",
+    "municipioId":113,
+    "distritoId":null
+  },
+  {
+    "id":1112,
+    "nombre":"Cayacoa",
+    "municipioId":113,
+    "distritoId":null
+  },
+  {
+    "id":1113,
+    "nombre":"El Guayabal",
+    "municipioId":113,
+    "distritoId":null
+  },
+  {
+    "id":1114,
+    "nombre":"Los Jíbaros",
+    "municipioId":113,
+    "distritoId":null
+  },
+  {
+    "id":1115,
+    "nombre":"El Puerto (Zona urbana)",
+    "municipioId":113,
+    "distritoId":169.0
+  },
+  {
+    "id":1116,
+    "nombre":"Plumita",
+    "municipioId":113,
+    "distritoId":169.0
+  },
+  {
+    "id":1117,
+    "nombre":"Gautier (Zona urbana)",
+    "municipioId":113,
+    "distritoId":170.0
+  },
+  {
+    "id":1118,
+    "nombre":"San José",
+    "municipioId":113,
+    "distritoId":170.0
+  },
+  {
+    "id":1119,
+    "nombre":"Ramón Santana (Zona urbana)",
+    "municipioId":114,
+    "distritoId":null
+  },
+  {
+    "id":1120,
+    "nombre":"Jagual",
+    "municipioId":114,
+    "distritoId":null
+  },
+  {
+    "id":1121,
+    "nombre":"Los Lerenes",
+    "municipioId":114,
+    "distritoId":null
+  },
+  {
+    "id":1122,
+    "nombre":"Magarín",
+    "municipioId":114,
+    "distritoId":null
+  },
+  {
+    "id":1123,
+    "nombre":"Consuelo (Zona urbana)",
+    "municipioId":115,
+    "distritoId":null
+  },
+  {
+    "id":1124,
+    "nombre":"Alejandro Bass",
+    "municipioId":115,
+    "distritoId":null
+  },
+  {
+    "id":1125,
+    "nombre":"Las Callas",
+    "municipioId":115,
+    "distritoId":null
+  },
+  {
+    "id":1126,
+    "nombre":"Quisqueya (Zona urbana)",
+    "municipioId":116,
+    "distritoId":null
+  },
+  {
+    "id":1127,
+    "nombre":"Pajarito",
+    "municipioId":116,
+    "distritoId":null
+  },
+  {
+    "id":1128,
+    "nombre":"Los Montes",
+    "municipioId":116,
+    "distritoId":null
+  },
+  {
+    "id":1129,
+    "nombre":"Zorra Buena",
+    "municipioId":116,
+    "distritoId":null
+  },
+  {
+    "id":1130,
+    "nombre":"Caonabo (Batey Siria)",
+    "municipioId":116,
+    "distritoId":null
+  },
+  {
+    "id":1131,
+    "nombre":"Malulani",
+    "municipioId":116,
+    "distritoId":null
+  },
+  {
+    "id":1132,
+    "nombre":"Los Montones",
+    "municipioId":116,
+    "distritoId":null
+  },
+  {
+    "id":1133,
+    "nombre":"Guayacanes (Zona urbana)",
+    "municipioId":117,
+    "distritoId":null
+  },
+  {
+    "id":1134,
+    "nombre":"El Conuco",
+    "municipioId":117,
+    "distritoId":null
+  },
+  {
+    "id":1135,
+    "nombre":"La Punta",
+    "municipioId":117,
+    "distritoId":null
+  },
+  {
+    "id":1136,
+    "nombre":"Cotuí (Zona urbana)",
+    "municipioId":118,
+    "distritoId":null
+  },
+  {
+    "id":1137,
+    "nombre":"Hatillo",
+    "municipioId":118,
+    "distritoId":null
+  },
+  {
+    "id":1138,
+    "nombre":"Los Cerros",
+    "municipioId":118,
+    "distritoId":null
+  },
+  {
+    "id":1139,
+    "nombre":"Sabana Grande Abajo",
+    "municipioId":118,
+    "distritoId":null
+  },
+  {
+    "id":1140,
+    "nombre":"Quita Sueño (Zona urbana)",
+    "municipioId":118,
+    "distritoId":171.0
+  },
+  {
+    "id":1141,
+    "nombre":"Las Cruces",
+    "municipioId":118,
+    "distritoId":171.0
+  },
+  {
+    "id":1142,
+    "nombre":"La Estancia",
+    "municipioId":118,
+    "distritoId":171.0
+  },
+  {
+    "id":1143,
+    "nombre":"Los Transformadores",
+    "municipioId":118,
+    "distritoId":171.0
+  },
+  {
+    "id":1144,
+    "nombre":"Caballero (Zona urbana)",
+    "municipioId":118,
+    "distritoId":172.0
+  },
+  {
+    "id":1145,
+    "nombre":"Sabana de Caballero",
+    "municipioId":118,
+    "distritoId":172.0
+  },
+  {
+    "id":1146,
+    "nombre":"Los Palmaritos",
+    "municipioId":118,
+    "distritoId":172.0
+  },
+  {
+    "id":1147,
+    "nombre":"Atalaya",
+    "municipioId":118,
+    "distritoId":172.0
+  },
+  {
+    "id":1148,
+    "nombre":"La Sabana de Comedero (Zona urbana)",
+    "municipioId":118,
+    "distritoId":173.0
+  },
+  {
+    "id":1149,
+    "nombre":"Los Barraquitos",
+    "municipioId":118,
+    "distritoId":173.0
+  },
+  {
+    "id":1150,
+    "nombre":"Los Pinos",
+    "municipioId":118,
+    "distritoId":173.0
+  },
+  {
+    "id":1151,
+    "nombre":"Los Caboríes",
+    "municipioId":118,
+    "distritoId":173.0
+  },
+  {
+    "id":1152,
+    "nombre":"Platanal (Zona urbana)",
+    "municipioId":118,
+    "distritoId":174.0
+  },
+  {
+    "id":1153,
+    "nombre":"Platanal",
+    "municipioId":118,
+    "distritoId":174.0
+  },
+  {
+    "id":1154,
+    "nombre":"Alto de Casiano",
+    "municipioId":118,
+    "distritoId":174.0
+  },
+  {
+    "id":1155,
+    "nombre":"Chacuey",
+    "municipioId":118,
+    "distritoId":174.0
+  },
+  {
+    "id":1156,
+    "nombre":"Babarí",
+    "municipioId":118,
+    "distritoId":174.0
+  },
+  {
+    "id":1157,
+    "nombre":"Zambrana Abajo (Zona urbana)",
+    "municipioId":118,
+    "distritoId":175.0
+  },
+  {
+    "id":1158,
+    "nombre":"El Limpio",
+    "municipioId":118,
+    "distritoId":175.0
+  },
+  {
+    "id":1159,
+    "nombre":"Zambrana Arriba",
+    "municipioId":118,
+    "distritoId":175.0
+  },
+  {
+    "id":1160,
+    "nombre":"Sabana Larga",
+    "municipioId":118,
+    "distritoId":175.0
+  },
+  {
+    "id":1161,
+    "nombre":"Chacuey Maldonado Arriba",
+    "municipioId":118,
+    "distritoId":175.0
+  },
+  {
+    "id":1162,
+    "nombre":"Las Lagunas",
+    "municipioId":118,
+    "distritoId":175.0
+  },
+  {
+    "id":1163,
+    "nombre":"Tocoa",
+    "municipioId":118,
+    "distritoId":175.0
+  },
+  {
+    "id":1164,
+    "nombre":"Cevicos (Zona urbana)",
+    "municipioId":119,
+    "distritoId":null
+  },
+  {
+    "id":1165,
+    "nombre":"Abadesa",
+    "municipioId":119,
+    "distritoId":null
+  },
+  {
+    "id":1166,
+    "nombre":"Batero",
+    "municipioId":119,
+    "distritoId":null
+  },
+  {
+    "id":1167,
+    "nombre":"La Cueva (Zona urbana)",
+    "municipioId":119,
+    "distritoId":176.0
+  },
+  {
+    "id":1168,
+    "nombre":"La Cueva",
+    "municipioId":119,
+    "distritoId":176.0
+  },
+  {
+    "id":1169,
+    "nombre":"Sabana Grande",
+    "municipioId":119,
+    "distritoId":176.0
+  },
+  {
+    "id":1170,
+    "nombre":"Fantino (Zona urbana)",
+    "municipioId":120,
+    "distritoId":null
+  },
+  {
+    "id":1171,
+    "nombre":"San Miguel",
+    "municipioId":120,
+    "distritoId":null
+  },
+  {
+    "id":1172,
+    "nombre":"Sierra Prieta",
+    "municipioId":120,
+    "distritoId":null
+  },
+  {
+    "id":1173,
+    "nombre":"Villa La Mata (Zona urbana)",
+    "municipioId":121,
+    "distritoId":null
+  },
+  {
+    "id":1174,
+    "nombre":"Los Corozos",
+    "municipioId":121,
+    "distritoId":null
+  },
+  {
+    "id":1175,
+    "nombre":"La Bija (Zona urbana)",
+    "municipioId":121,
+    "distritoId":177.0
+  },
+  {
+    "id":1176,
+    "nombre":"La Soledad",
+    "municipioId":121,
+    "distritoId":177.0
+  },
+  {
+    "id":1177,
+    "nombre":"La Piedra",
+    "municipioId":121,
+    "distritoId":177.0
+  },
+  {
+    "id":1178,
+    "nombre":"El Canal Mayor",
+    "municipioId":121,
+    "distritoId":177.0
+  },
+  {
+    "id":1179,
+    "nombre":"Angelina (Zona urbana)",
+    "municipioId":121,
+    "distritoId":178.0
+  },
+  {
+    "id":1180,
+    "nombre":"Cruce de Angelina",
+    "municipioId":121,
+    "distritoId":178.0
+  },
+  {
+    "id":1181,
+    "nombre":"Padre Fantino",
+    "municipioId":121,
+    "distritoId":178.0
+  },
+  {
+    "id":1182,
+    "nombre":"La Cruz de Angelina",
+    "municipioId":121,
+    "distritoId":178.0
+  },
+  {
+    "id":1183,
+    "nombre":"El Limoncito",
+    "municipioId":121,
+    "distritoId":178.0
+  },
+  {
+    "id":1184,
+    "nombre":"Hernando Alonzo (Zona urbana)",
+    "municipioId":121,
+    "distritoId":179.0
+  },
+  {
+    "id":1185,
+    "nombre":"La Guamita",
+    "municipioId":121,
+    "distritoId":179.0
+  },
+  {
+    "id":1186,
+    "nombre":"La Cana",
+    "municipioId":121,
+    "distritoId":179.0
+  },
+  {
+    "id":1187,
+    "nombre":"Hernando Alonzo",
+    "municipioId":121,
+    "distritoId":179.0
+  },
+  {
+    "id":1188,
+    "nombre":"Santiago de los Caballeros (Zona urbana)",
+    "municipioId":122,
+    "distritoId":null
+  },
+  {
+    "id":1189,
+    "nombre":"El Ingenio Abajo",
+    "municipioId":122,
+    "distritoId":null
+  },
+  {
+    "id":1190,
+    "nombre":"El Papayo",
+    "municipioId":122,
+    "distritoId":null
+  },
+  {
+    "id":1191,
+    "nombre":"Gurabo Abajo",
+    "municipioId":122,
+    "distritoId":null
+  },
+  {
+    "id":1192,
+    "nombre":"La Herradura",
+    "municipioId":122,
+    "distritoId":null
+  },
+  {
+    "id":1193,
+    "nombre":"Las Charcas",
+    "municipioId":122,
+    "distritoId":null
+  },
+  {
+    "id":1194,
+    "nombre":"Monte Adentro Abajo",
+    "municipioId":122,
+    "distritoId":null
+  },
+  {
+    "id":1195,
+    "nombre":"Palo Quemado",
+    "municipioId":122,
+    "distritoId":null
+  },
+  {
+    "id":1196,
+    "nombre":"Pontezuela al Medio",
+    "municipioId":122,
+    "distritoId":null
+  },
+  {
+    "id":1197,
+    "nombre":"Pedro García (Zona urbana)",
+    "municipioId":122,
+    "distritoId":180.0
+  },
+  {
+    "id":1198,
+    "nombre":"La Auyama",
+    "municipioId":122,
+    "distritoId":180.0
+  },
+  {
+    "id":1199,
+    "nombre":"La Canela (Zona urbana)",
+    "municipioId":122,
+    "distritoId":181.0
+  },
+  {
+    "id":1200,
+    "nombre":"Hatillo San Lorenzo",
+    "municipioId":122,
+    "distritoId":181.0
+  },
+  {
+    "id":1201,
+    "nombre":"Sabana Grande de Batey I",
+    "municipioId":122,
+    "distritoId":181.0
+  },
+  {
+    "id":1202,
+    "nombre":"San Francisco de Jacagua (Zona urbana)",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1203,
+    "nombre":"Jacagua Adentro",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1204,
+    "nombre":"Jacagua al Medio",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1205,
+    "nombre":"La Ciénaga",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1206,
+    "nombre":"El Ranchito Piche",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1207,
+    "nombre":"Las Tres Cruces",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1208,
+    "nombre":"El Aguacate",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1209,
+    "nombre":"Palo Alto",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1210,
+    "nombre":"Los Guineos",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1211,
+    "nombre":"La Delgada",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1212,
+    "nombre":"Salamanca",
+    "municipioId":122,
+    "distritoId":182.0
+  },
+  {
+    "id":1213,
+    "nombre":"Hato del Yaque (Zona urbana)",
+    "municipioId":122,
+    "distritoId":183.0
+  },
+  {
+    "id":1214,
+    "nombre":"Hato del Yaque",
+    "municipioId":122,
+    "distritoId":183.0
+  },
+  {
+    "id":1215,
+    "nombre":"Villa Bao",
+    "municipioId":122,
+    "distritoId":183.0
+  },
+  {
+    "id":1216,
+    "nombre":"El Flúmer",
+    "municipioId":122,
+    "distritoId":183.0
+  },
+  {
+    "id":1217,
+    "nombre":"Guayacanal",
+    "municipioId":122,
+    "distritoId":183.0
+  },
+  {
+    "id":1218,
+    "nombre":"Santiago Oeste (Zona urbana)",
+    "municipioId":122,
+    "distritoId":184.0
+  },
+  {
+    "id":1219,
+    "nombre":"Parada 7",
+    "municipioId":122,
+    "distritoId":184.0
+  },
+  {
+    "id":1220,
+    "nombre":"Bisonó (Zona urbana)",
+    "municipioId":123,
+    "distritoId":null
+  },
+  {
+    "id":1221,
+    "nombre":"Cañada Bonita",
+    "municipioId":123,
+    "distritoId":null
+  },
+  {
+    "id":1222,
+    "nombre":"Estancia del Yaque",
+    "municipioId":123,
+    "distritoId":null
+  },
+  {
+    "id":1223,
+    "nombre":"La Lomota",
+    "municipioId":123,
+    "distritoId":null
+  },
+  {
+    "id":1224,
+    "nombre":"La Villa Nueva",
+    "municipioId":123,
+    "distritoId":null
+  },
+  {
+    "id":1225,
+    "nombre":"Mejía de Navarrete",
+    "municipioId":123,
+    "distritoId":null
+  },
+  {
+    "id":1226,
+    "nombre":"Pontoncito",
+    "municipioId":123,
+    "distritoId":null
+  },
+  {
+    "id":1227,
+    "nombre":"Vuelta Larga",
+    "municipioId":123,
+    "distritoId":null
+  },
+  {
+    "id":1228,
+    "nombre":"Jánico (Zona urbana)",
+    "municipioId":124,
+    "distritoId":null
+  },
+  {
+    "id":1229,
+    "nombre":"Cagüeyes",
+    "municipioId":124,
+    "distritoId":null
+  },
+  {
+    "id":1230,
+    "nombre":"Cebú",
+    "municipioId":124,
+    "distritoId":null
+  },
+  {
+    "id":1231,
+    "nombre":"Dicayagua Abajo",
+    "municipioId":124,
+    "distritoId":null
+  },
+  {
+    "id":1232,
+    "nombre":"Jagua Abajo",
+    "municipioId":124,
+    "distritoId":null
+  },
+  {
+    "id":1233,
+    "nombre":"Loma del Corral",
+    "municipioId":124,
+    "distritoId":null
+  },
+  {
+    "id":1234,
+    "nombre":"Mesetas",
+    "municipioId":124,
+    "distritoId":null
+  },
+  {
+    "id":1235,
+    "nombre":"Juncalito (Zona urbana)",
+    "municipioId":124,
+    "distritoId":185.0
+  },
+  {
+    "id":1236,
+    "nombre":"Franco Bidó",
+    "municipioId":124,
+    "distritoId":185.0
+  },
+  {
+    "id":1237,
+    "nombre":"Janey",
+    "municipioId":124,
+    "distritoId":185.0
+  },
+  {
+    "id":1238,
+    "nombre":"Juncalito Abajo",
+    "municipioId":124,
+    "distritoId":185.0
+  },
+  {
+    "id":1239,
+    "nombre":"Rincón Largo",
+    "municipioId":124,
+    "distritoId":185.0
+  },
+  {
+    "id":1240,
+    "nombre":"Rincón Llano",
+    "municipioId":124,
+    "distritoId":185.0
+  },
+  {
+    "id":1241,
+    "nombre":"El Caimito (Zona urbana)",
+    "municipioId":124,
+    "distritoId":186.0
+  },
+  {
+    "id":1242,
+    "nombre":"Yaque Abajo",
+    "municipioId":124,
+    "distritoId":186.0
+  },
+  {
+    "id":1243,
+    "nombre":"El Caimito",
+    "municipioId":124,
+    "distritoId":186.0
+  },
+  {
+    "id":1244,
+    "nombre":"Pinalito",
+    "municipioId":124,
+    "distritoId":186.0
+  },
+  {
+    "id":1245,
+    "nombre":"Los Pilones",
+    "municipioId":124,
+    "distritoId":186.0
+  },
+  {
+    "id":1246,
+    "nombre":"La Guama",
+    "municipioId":124,
+    "distritoId":186.0
+  },
+  {
+    "id":1247,
+    "nombre":"Licey al Medio (Zona urbana)",
+    "municipioId":125,
+    "distritoId":null
+  },
+  {
+    "id":1248,
+    "nombre":"La Cruz de María Francisca",
+    "municipioId":125,
+    "distritoId":null
+  },
+  {
+    "id":1249,
+    "nombre":"Licey Arriba",
+    "municipioId":125,
+    "distritoId":null
+  },
+  {
+    "id":1250,
+    "nombre":"Licey Abajo",
+    "municipioId":125,
+    "distritoId":null
+  },
+  {
+    "id":1251,
+    "nombre":"Cruz de Isalguez",
+    "municipioId":125,
+    "distritoId":null
+  },
+  {
+    "id":1252,
+    "nombre":"Las Palomas (Zona urbana)",
+    "municipioId":125,
+    "distritoId":187.0
+  },
+  {
+    "id":1253,
+    "nombre":"Las Palomas Arriba",
+    "municipioId":125,
+    "distritoId":187.0
+  },
+  {
+    "id":1254,
+    "nombre":"San José de Las Matas (Zona urbana)",
+    "municipioId":126,
+    "distritoId":null
+  },
+  {
+    "id":1255,
+    "nombre":"Inoa",
+    "municipioId":126,
+    "distritoId":null
+  },
+  {
+    "id":1256,
+    "nombre":"Eugenio Perdomo",
+    "municipioId":126,
+    "distritoId":null
+  },
+  {
+    "id":1257,
+    "nombre":"Mata Grande",
+    "municipioId":126,
+    "distritoId":null
+  },
+  {
+    "id":1258,
+    "nombre":"Los Montones Abajo",
+    "municipioId":126,
+    "distritoId":null
+  },
+  {
+    "id":1259,
+    "nombre":"Pedregal",
+    "municipioId":126,
+    "distritoId":null
+  },
+  {
+    "id":1260,
+    "nombre":"Las Piedras",
+    "municipioId":126,
+    "distritoId":null
+  },
+  {
+    "id":1261,
+    "nombre":"Yerba Buena",
+    "municipioId":126,
+    "distritoId":null
+  },
+  {
+    "id":1262,
+    "nombre":"El Rubio (Zona urbana)",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1263,
+    "nombre":"Cañafístol",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1264,
+    "nombre":"Celestina",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1265,
+    "nombre":"Corocito",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1266,
+    "nombre":"Diferencia",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1267,
+    "nombre":"Jicomé",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1268,
+    "nombre":"Maguá",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1269,
+    "nombre":"Manacla",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1270,
+    "nombre":"Mata del Dajao",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1271,
+    "nombre":"Naranjo Bojón",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1272,
+    "nombre":"Pananao",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1273,
+    "nombre":"El Rubio",
+    "municipioId":126,
+    "distritoId":188.0
+  },
+  {
+    "id":1274,
+    "nombre":"La Cuesta (Zona urbana)",
+    "municipioId":126,
+    "distritoId":189.0
+  },
+  {
+    "id":1275,
+    "nombre":"Jaiqui Picado",
+    "municipioId":126,
+    "distritoId":189.0
+  },
+  {
+    "id":1276,
+    "nombre":"Eugenio Perdomo",
+    "municipioId":126,
+    "distritoId":189.0
+  },
+  {
+    "id":1277,
+    "nombre":"Guama",
+    "municipioId":126,
+    "distritoId":189.0
+  },
+  {
+    "id":1278,
+    "nombre":"Loma de los Palos",
+    "municipioId":126,
+    "distritoId":189.0
+  },
+  {
+    "id":1279,
+    "nombre":"Loma Quemada",
+    "municipioId":126,
+    "distritoId":189.0
+  },
+  {
+    "id":1280,
+    "nombre":"Cuesta Abajo",
+    "municipioId":126,
+    "distritoId":189.0
+  },
+  {
+    "id":1281,
+    "nombre":"Las Placetas (Zona urbana)",
+    "municipioId":126,
+    "distritoId":190.0
+  },
+  {
+    "id":1282,
+    "nombre":"Damajagua",
+    "municipioId":126,
+    "distritoId":190.0
+  },
+  {
+    "id":1283,
+    "nombre":"Los Limones",
+    "municipioId":126,
+    "distritoId":190.0
+  },
+  {
+    "id":1284,
+    "nombre":"Jamamú",
+    "municipioId":126,
+    "distritoId":190.0
+  },
+  {
+    "id":1285,
+    "nombre":"Las Lagunas",
+    "municipioId":126,
+    "distritoId":190.0
+  },
+  {
+    "id":1286,
+    "nombre":"Tamboril (Zona urbana)",
+    "municipioId":127,
+    "distritoId":null
+  },
+  {
+    "id":1287,
+    "nombre":"Boca de Maizal",
+    "municipioId":127,
+    "distritoId":null
+  },
+  {
+    "id":1288,
+    "nombre":"Guazumal Arriba",
+    "municipioId":127,
+    "distritoId":null
+  },
+  {
+    "id":1289,
+    "nombre":"Las Bocas del Licey",
+    "municipioId":127,
+    "distritoId":null
+  },
+  {
+    "id":1290,
+    "nombre":"Licey al Medio",
+    "municipioId":127,
+    "distritoId":null
+  },
+  {
+    "id":1291,
+    "nombre":"Pontezuela",
+    "municipioId":127,
+    "distritoId":null
+  },
+  {
+    "id":1292,
+    "nombre":"Canca La Piedra (Zona urbana)",
+    "municipioId":127,
+    "distritoId":191.0
+  },
+  {
+    "id":1293,
+    "nombre":"Canca Abajo",
+    "municipioId":127,
+    "distritoId":191.0
+  },
+  {
+    "id":1294,
+    "nombre":"Los Amaceyes Arriba",
+    "municipioId":127,
+    "distritoId":191.0
+  },
+  {
+    "id":1295,
+    "nombre":"Carlos Díaz",
+    "municipioId":127,
+    "distritoId":191.0
+  },
+  {
+    "id":1296,
+    "nombre":"Canca Las Aromas",
+    "municipioId":127,
+    "distritoId":191.0
+  },
+  {
+    "id":1297,
+    "nombre":"Villa González (Zona urbana)",
+    "municipioId":128,
+    "distritoId":null
+  },
+  {
+    "id":1298,
+    "nombre":"Las Lavas",
+    "municipioId":128,
+    "distritoId":null
+  },
+  {
+    "id":1299,
+    "nombre":"Palmar Abajo",
+    "municipioId":128,
+    "distritoId":null
+  },
+  {
+    "id":1300,
+    "nombre":"Quinigua",
+    "municipioId":128,
+    "distritoId":null
+  },
+  {
+    "id":1301,
+    "nombre":"Palmar Arriba (Zona urbana)",
+    "municipioId":128,
+    "distritoId":192.0
+  },
+  {
+    "id":1302,
+    "nombre":"Palmar Arriba",
+    "municipioId":128,
+    "distritoId":192.0
+  },
+  {
+    "id":1303,
+    "nombre":"El Limón (Zona urbana)",
+    "municipioId":128,
+    "distritoId":193.0
+  },
+  {
+    "id":1304,
+    "nombre":"Macorís del Limón",
+    "municipioId":128,
+    "distritoId":193.0
+  },
+  {
+    "id":1305,
+    "nombre":"El Aguacate",
+    "municipioId":128,
+    "distritoId":193.0
+  },
+  {
+    "id":1306,
+    "nombre":"Los Jardines del Limón",
+    "municipioId":128,
+    "distritoId":193.0
+  },
+  {
+    "id":1307,
+    "nombre":"El Limón",
+    "municipioId":128,
+    "distritoId":193.0
+  },
+  {
+    "id":1308,
+    "nombre":"Puñal (Zona urbana)",
+    "municipioId":129,
+    "distritoId":null
+  },
+  {
+    "id":1309,
+    "nombre":"Puñal",
+    "municipioId":129,
+    "distritoId":null
+  },
+  {
+    "id":1310,
+    "nombre":"Arenoso",
+    "municipioId":129,
+    "distritoId":null
+  },
+  {
+    "id":1311,
+    "nombre":"La Jabilla",
+    "municipioId":129,
+    "distritoId":null
+  },
+  {
+    "id":1312,
+    "nombre":"Matanzas",
+    "municipioId":129,
+    "distritoId":null
+  },
+  {
+    "id":1313,
+    "nombre":"Laguna Prieta",
+    "municipioId":129,
+    "distritoId":null
+  },
+  {
+    "id":1314,
+    "nombre":"Guayabal (Zona urbana)",
+    "municipioId":129,
+    "distritoId":194.0
+  },
+  {
+    "id":1315,
+    "nombre":"Estancia Nueva",
+    "municipioId":129,
+    "distritoId":194.0
+  },
+  {
+    "id":1316,
+    "nombre":"Palo Amarillo",
+    "municipioId":129,
+    "distritoId":194.0
+  },
+  {
+    "id":1317,
+    "nombre":"Guayabal",
+    "municipioId":129,
+    "distritoId":194.0
+  },
+  {
+    "id":1318,
+    "nombre":"Canabacoa (Zona urbana)",
+    "municipioId":129,
+    "distritoId":195.0
+  },
+  {
+    "id":1319,
+    "nombre":"Canabacoa",
+    "municipioId":129,
+    "distritoId":195.0
+  },
+  {
+    "id":1320,
+    "nombre":"Colorado",
+    "municipioId":129,
+    "distritoId":195.0
+  },
+  {
+    "id":1321,
+    "nombre":"Sabana Iglesia (Zona urbana)",
+    "municipioId":130,
+    "distritoId":null
+  },
+  {
+    "id":1322,
+    "nombre":"Sabana Iglesia",
+    "municipioId":130,
+    "distritoId":null
+  },
+  {
+    "id":1323,
+    "nombre":"Los Ranchos",
+    "municipioId":130,
+    "distritoId":null
+  },
+  {
+    "id":1324,
+    "nombre":"La Zanja",
+    "municipioId":130,
+    "distritoId":null
+  },
+  {
+    "id":1325,
+    "nombre":"Baitoa Centro (Zona Urbana)",
+    "municipioId":131,
+    "distritoId":null
+  },
+  {
+    "id":1326,
+    "nombre":"La Jagua",
+    "municipioId":131,
+    "distritoId":null
+  },
+  {
+    "id":1327,
+    "nombre":"López",
+    "municipioId":131,
+    "distritoId":null
+  },
+  {
+    "id":1328,
+    "nombre":"San José Adentro",
+    "municipioId":131,
+    "distritoId":null
+  },
+  {
+    "id":1329,
+    "nombre":"San José Afuera",
+    "municipioId":131,
+    "distritoId":null
+  },
+  {
+    "id":1330,
+    "nombre":"Los Ciruelos",
+    "municipioId":131,
+    "distritoId":null
+  },
+  {
+    "id":1331,
+    "nombre":"La Lima",
+    "municipioId":131,
+    "distritoId":null
+  },
+  {
+    "id":1332,
+    "nombre":"San Ignacio de Sabaneta (Zona urbana)",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1333,
+    "nombre":"Arroyo Blanco",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1334,
+    "nombre":"Las Caobas",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1335,
+    "nombre":"Los Cercadillos",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1336,
+    "nombre":"Clavijo",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1337,
+    "nombre":"Coqui",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1338,
+    "nombre":"Estancia Vieja",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1339,
+    "nombre":"Mata de Jobo",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1340,
+    "nombre":"Palmarejo",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1341,
+    "nombre":"San José",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1342,
+    "nombre":"Toma",
+    "municipioId":132,
+    "distritoId":null
+  },
+  {
+    "id":1343,
+    "nombre":"Villa Los Almácigos (Zona urbana)",
+    "municipioId":133,
+    "distritoId":null
+  },
+  {
+    "id":1344,
+    "nombre":"Ceiba de Bonet",
+    "municipioId":133,
+    "distritoId":null
+  },
+  {
+    "id":1345,
+    "nombre":"El Dajao",
+    "municipioId":133,
+    "distritoId":null
+  },
+  {
+    "id":1346,
+    "nombre":"El Fundo",
+    "municipioId":133,
+    "distritoId":null
+  },
+  {
+    "id":1347,
+    "nombre":"La Ginita",
+    "municipioId":133,
+    "distritoId":null
+  },
+  {
+    "id":1348,
+    "nombre":"Inaje",
+    "municipioId":133,
+    "distritoId":null
+  },
+  {
+    "id":1349,
+    "nombre":"La Lana",
+    "municipioId":133,
+    "distritoId":null
+  },
+  {
+    "id":1350,
+    "nombre":"Monción (Zona urbana)",
+    "municipioId":134,
+    "distritoId":null
+  },
+  {
+    "id":1351,
+    "nombre":"El Mamoncito",
+    "municipioId":134,
+    "distritoId":null
+  },
+  {
+    "id":1352,
+    "nombre":"Gurabo",
+    "municipioId":134,
+    "distritoId":null
+  },
+  {
+    "id":1353,
+    "nombre":"La Cacique",
+    "municipioId":134,
+    "distritoId":null
+  },
+  {
+    "id":1354,
+    "nombre":"Rodeo",
+    "municipioId":134,
+    "distritoId":null
+  },
+  {
+    "id":1355,
+    "nombre":"Mao (Zona urbana)",
+    "municipioId":135,
+    "distritoId":null
+  },
+  {
+    "id":1356,
+    "nombre":"Los Quemados",
+    "municipioId":135,
+    "distritoId":null
+  },
+  {
+    "id":1357,
+    "nombre":"Ámina (Zona urbana)",
+    "municipioId":135,
+    "distritoId":196.0
+  },
+  {
+    "id":1358,
+    "nombre":"Ámina",
+    "municipioId":135,
+    "distritoId":196.0
+  },
+  {
+    "id":1359,
+    "nombre":"Entrada de Mao",
+    "municipioId":135,
+    "distritoId":196.0
+  },
+  {
+    "id":1360,
+    "nombre":"Jaibón o Pueblo Nuevo (Zona urbana)",
+    "municipioId":135,
+    "distritoId":197.0
+  },
+  {
+    "id":1361,
+    "nombre":"Gurabo Afuera",
+    "municipioId":135,
+    "distritoId":197.0
+  },
+  {
+    "id":1362,
+    "nombre":"Prestiles",
+    "municipioId":135,
+    "distritoId":197.0
+  },
+  {
+    "id":1363,
+    "nombre":"Pueblo Nuevo",
+    "municipioId":135,
+    "distritoId":197.0
+  },
+  {
+    "id":1364,
+    "nombre":"Guatapanal (Zona urbana)",
+    "municipioId":135,
+    "distritoId":198.0
+  },
+  {
+    "id":1365,
+    "nombre":"Boruco",
+    "municipioId":135,
+    "distritoId":198.0
+  },
+  {
+    "id":1366,
+    "nombre":"Jinamagao",
+    "municipioId":135,
+    "distritoId":198.0
+  },
+  {
+    "id":1367,
+    "nombre":"Potrero",
+    "municipioId":135,
+    "distritoId":198.0
+  },
+  {
+    "id":1368,
+    "nombre":"Esperanza (Zona urbana)",
+    "municipioId":136,
+    "distritoId":null
+  },
+  {
+    "id":1369,
+    "nombre":"Peñuela",
+    "municipioId":136,
+    "distritoId":null
+  },
+  {
+    "id":1370,
+    "nombre":"Pontón (Villa Henequén)",
+    "municipioId":136,
+    "distritoId":null
+  },
+  {
+    "id":1371,
+    "nombre":"Maizal (Zona urbana)",
+    "municipioId":136,
+    "distritoId":199.0
+  },
+  {
+    "id":1372,
+    "nombre":"Damajagua",
+    "municipioId":136,
+    "distritoId":199.0
+  },
+  {
+    "id":1373,
+    "nombre":"Línea A",
+    "municipioId":136,
+    "distritoId":199.0
+  },
+  {
+    "id":1374,
+    "nombre":"Loma de Maimón",
+    "municipioId":136,
+    "distritoId":199.0
+  },
+  {
+    "id":1375,
+    "nombre":"Loma de Palma Picada",
+    "municipioId":136,
+    "distritoId":199.0
+  },
+  {
+    "id":1376,
+    "nombre":"Maimón",
+    "municipioId":136,
+    "distritoId":199.0
+  },
+  {
+    "id":1377,
+    "nombre":"Jicomé (Zona urbana)",
+    "municipioId":136,
+    "distritoId":200.0
+  },
+  {
+    "id":1378,
+    "nombre":"Kilómetro 7",
+    "municipioId":136,
+    "distritoId":200.0
+  },
+  {
+    "id":1379,
+    "nombre":"Jicomé",
+    "municipioId":136,
+    "distritoId":200.0
+  },
+  {
+    "id":1380,
+    "nombre":"Boca de Mao (Zona urbana)",
+    "municipioId":136,
+    "distritoId":201.0
+  },
+  {
+    "id":1381,
+    "nombre":"Boca de Mao",
+    "municipioId":136,
+    "distritoId":201.0
+  },
+  {
+    "id":1382,
+    "nombre":"Paradero (Zona urbana)",
+    "municipioId":136,
+    "distritoId":202.0
+  },
+  {
+    "id":1383,
+    "nombre":"La Cayota",
+    "municipioId":136,
+    "distritoId":202.0
+  },
+  {
+    "id":1384,
+    "nombre":"Loma de Aguacate",
+    "municipioId":136,
+    "distritoId":202.0
+  },
+  {
+    "id":1385,
+    "nombre":"La Cabirma",
+    "municipioId":136,
+    "distritoId":202.0
+  },
+  {
+    "id":1386,
+    "nombre":"Laguna Salada (Zona urbana)",
+    "municipioId":137,
+    "distritoId":null
+  },
+  {
+    "id":1387,
+    "nombre":"Ranchete",
+    "municipioId":137,
+    "distritoId":null
+  },
+  {
+    "id":1388,
+    "nombre":"Jaibón (Zona urbana)",
+    "municipioId":137,
+    "distritoId":203.0
+  },
+  {
+    "id":1389,
+    "nombre":"Entrada de Pozo Prieto",
+    "municipioId":137,
+    "distritoId":203.0
+  },
+  {
+    "id":1390,
+    "nombre":"San Roque",
+    "municipioId":137,
+    "distritoId":203.0
+  },
+  {
+    "id":1391,
+    "nombre":"La Caya (Zona Urbana)",
+    "municipioId":137,
+    "distritoId":204.0
+  },
+  {
+    "id":1392,
+    "nombre":"Pozo Prieto",
+    "municipioId":137,
+    "distritoId":204.0
+  },
+  {
+    "id":1393,
+    "nombre":"Palo Amarillo",
+    "municipioId":137,
+    "distritoId":204.0
+  },
+  {
+    "id":1394,
+    "nombre":"Cruce de Guayacanes (Zona urbana)",
+    "municipioId":137,
+    "distritoId":205.0
+  },
+  {
+    "id":1395,
+    "nombre":"Ojo de Agua",
+    "municipioId":137,
+    "distritoId":205.0
+  },
+  {
+    "id":1396,
+    "nombre":"Loma de Guayacanes",
+    "municipioId":137,
+    "distritoId":205.0
+  },
+  {
+    "id":1397,
+    "nombre":"Guayacanes Adentro",
+    "municipioId":137,
+    "distritoId":205.0
+  },
+  {
+    "id":1398,
+    "nombre":"Bonao (Zona urbana)",
+    "municipioId":138,
+    "distritoId":null
+  },
+  {
+    "id":1399,
+    "nombre":"El Verde",
+    "municipioId":138,
+    "distritoId":null
+  },
+  {
+    "id":1400,
+    "nombre":"Los Arroces",
+    "municipioId":138,
+    "distritoId":null
+  },
+  {
+    "id":1401,
+    "nombre":"Sabana del Puerto (Zona urbana)",
+    "municipioId":138,
+    "distritoId":206.0
+  },
+  {
+    "id":1402,
+    "nombre":"Palero",
+    "municipioId":138,
+    "distritoId":206.0
+  },
+  {
+    "id":1403,
+    "nombre":"Jima",
+    "municipioId":138,
+    "distritoId":206.0
+  },
+  {
+    "id":1404,
+    "nombre":"Juma Bejucal (Zona urbana)",
+    "municipioId":138,
+    "distritoId":207.0
+  },
+  {
+    "id":1405,
+    "nombre":"San Isidro",
+    "municipioId":138,
+    "distritoId":207.0
+  },
+  {
+    "id":1406,
+    "nombre":"Boca de Juma",
+    "municipioId":138,
+    "distritoId":207.0
+  },
+  {
+    "id":1407,
+    "nombre":"El Ocho",
+    "municipioId":138,
+    "distritoId":207.0
+  },
+  {
+    "id":1408,
+    "nombre":"Arroyo Toro - Masipedro (Zona urbana)",
+    "municipioId":138,
+    "distritoId":208.0
+  },
+  {
+    "id":1409,
+    "nombre":"El Cruce",
+    "municipioId":138,
+    "distritoId":208.0
+  },
+  {
+    "id":1410,
+    "nombre":"Los Bleos",
+    "municipioId":138,
+    "distritoId":208.0
+  },
+  {
+    "id":1411,
+    "nombre":"El Coco",
+    "municipioId":138,
+    "distritoId":208.0
+  },
+  {
+    "id":1412,
+    "nombre":"Jayaco (Zona urbana)",
+    "municipioId":138,
+    "distritoId":209.0
+  },
+  {
+    "id":1413,
+    "nombre":"La Ceiba",
+    "municipioId":138,
+    "distritoId":209.0
+  },
+  {
+    "id":1414,
+    "nombre":"Jayaco Abajo",
+    "municipioId":138,
+    "distritoId":209.0
+  },
+  {
+    "id":1415,
+    "nombre":"Los Quemados (Zona urbana)",
+    "municipioId":138,
+    "distritoId":210.0
+  },
+  {
+    "id":1416,
+    "nombre":"Los Quemados",
+    "municipioId":138,
+    "distritoId":210.0
+  },
+  {
+    "id":1417,
+    "nombre":"Cruce de Blanco",
+    "municipioId":138,
+    "distritoId":210.0
+  },
+  {
+    "id":1418,
+    "nombre":"La Cueva",
+    "municipioId":138,
+    "distritoId":210.0
+  },
+  {
+    "id":1419,
+    "nombre":"Maimón (Zona urbana)",
+    "municipioId":139,
+    "distritoId":null
+  },
+  {
+    "id":1420,
+    "nombre":"Hato Viejo",
+    "municipioId":139,
+    "distritoId":null
+  },
+  {
+    "id":1421,
+    "nombre":"Los Martínez",
+    "municipioId":139,
+    "distritoId":null
+  },
+  {
+    "id":1422,
+    "nombre":"Piedra Blanca (Zona urbana)",
+    "municipioId":140,
+    "distritoId":null
+  },
+  {
+    "id":1423,
+    "nombre":"Arroyo Vuelta",
+    "municipioId":140,
+    "distritoId":null
+  },
+  {
+    "id":1424,
+    "nombre":"El 77",
+    "municipioId":140,
+    "distritoId":null
+  },
+  {
+    "id":1425,
+    "nombre":"Rincón de Yuboa",
+    "municipioId":140,
+    "distritoId":null
+  },
+  {
+    "id":1426,
+    "nombre":"Villa de Sonador (Zona urbana)",
+    "municipioId":140,
+    "distritoId":211.0
+  },
+  {
+    "id":1427,
+    "nombre":"La Colonia",
+    "municipioId":140,
+    "distritoId":211.0
+  },
+  {
+    "id":1428,
+    "nombre":"La Minita",
+    "municipioId":140,
+    "distritoId":211.0
+  },
+  {
+    "id":1429,
+    "nombre":"Juan Adrián (Zona urbana)",
+    "municipioId":140,
+    "distritoId":212.0
+  },
+  {
+    "id":1430,
+    "nombre":"El Zumbador",
+    "municipioId":140,
+    "distritoId":212.0
+  },
+  {
+    "id":1431,
+    "nombre":"Los Plátanos",
+    "municipioId":140,
+    "distritoId":212.0
+  },
+  {
+    "id":1432,
+    "nombre":"La Yautía",
+    "municipioId":140,
+    "distritoId":212.0
+  },
+  {
+    "id":1433,
+    "nombre":"Monte Plata (Zona urbana)",
+    "municipioId":141,
+    "distritoId":null
+  },
+  {
+    "id":1434,
+    "nombre":"El Dián",
+    "municipioId":141,
+    "distritoId":null
+  },
+  {
+    "id":1435,
+    "nombre":"Hato Arriba",
+    "municipioId":141,
+    "distritoId":null
+  },
+  {
+    "id":1436,
+    "nombre":"La Luisa",
+    "municipioId":141,
+    "distritoId":null
+  },
+  {
+    "id":1437,
+    "nombre":"Río Boyá",
+    "municipioId":141,
+    "distritoId":null
+  },
+  {
+    "id":1438,
+    "nombre":"Don Juan (Zona urbana)",
+    "municipioId":141,
+    "distritoId":213.0
+  },
+  {
+    "id":1439,
+    "nombre":"Frías",
+    "municipioId":141,
+    "distritoId":213.0
+  },
+  {
+    "id":1440,
+    "nombre":"Sabana de Payabo",
+    "municipioId":141,
+    "distritoId":213.0
+  },
+  {
+    "id":1441,
+    "nombre":"El Bosque",
+    "municipioId":141,
+    "distritoId":213.0
+  },
+  {
+    "id":1442,
+    "nombre":"La Jagua",
+    "municipioId":141,
+    "distritoId":213.0
+  },
+  {
+    "id":1443,
+    "nombre":"Chirino (Zona urbana)",
+    "municipioId":141,
+    "distritoId":214.0
+  },
+  {
+    "id":1444,
+    "nombre":"San Francisco",
+    "municipioId":141,
+    "distritoId":214.0
+  },
+  {
+    "id":1445,
+    "nombre":"San Juan de Buena Vista",
+    "municipioId":141,
+    "distritoId":214.0
+  },
+  {
+    "id":1446,
+    "nombre":"Yabacao",
+    "municipioId":141,
+    "distritoId":214.0
+  },
+  {
+    "id":1447,
+    "nombre":"Boyá (Zona urbana)",
+    "municipioId":141,
+    "distritoId":215.0
+  },
+  {
+    "id":1448,
+    "nombre":"El Mamey",
+    "municipioId":141,
+    "distritoId":215.0
+  },
+  {
+    "id":1449,
+    "nombre":"El Cacique",
+    "municipioId":141,
+    "distritoId":215.0
+  },
+  {
+    "id":1450,
+    "nombre":"Cruz Morillo",
+    "municipioId":141,
+    "distritoId":215.0
+  },
+  {
+    "id":1451,
+    "nombre":"Bayaguana (Zona urbana)",
+    "municipioId":142,
+    "distritoId":null
+  },
+  {
+    "id":1452,
+    "nombre":"Antón Sánchez",
+    "municipioId":142,
+    "distritoId":null
+  },
+  {
+    "id":1453,
+    "nombre":"Cojobal",
+    "municipioId":142,
+    "distritoId":null
+  },
+  {
+    "id":1454,
+    "nombre":"Comatillo",
+    "municipioId":142,
+    "distritoId":null
+  },
+  {
+    "id":1455,
+    "nombre":"Hidalgo",
+    "municipioId":142,
+    "distritoId":null
+  },
+  {
+    "id":1456,
+    "nombre":"Trinidad",
+    "municipioId":142,
+    "distritoId":null
+  },
+  {
+    "id":1457,
+    "nombre":"Yuvina",
+    "municipioId":142,
+    "distritoId":null
+  },
+  {
+    "id":1458,
+    "nombre":"Sabana Grande de Boyá (Zona urbana)",
+    "municipioId":143,
+    "distritoId":null
+  },
+  {
+    "id":1459,
+    "nombre":"Cabeza de Toro",
+    "municipioId":143,
+    "distritoId":null
+  },
+  {
+    "id":1460,
+    "nombre":"Juan Sánchez",
+    "municipioId":143,
+    "distritoId":null
+  },
+  {
+    "id":1461,
+    "nombre":"Payabo",
+    "municipioId":143,
+    "distritoId":null
+  },
+  {
+    "id":1462,
+    "nombre":"Gonzalo (Zona urbana)",
+    "municipioId":143,
+    "distritoId":216.0
+  },
+  {
+    "id":1463,
+    "nombre":"Los Limones",
+    "municipioId":143,
+    "distritoId":216.0
+  },
+  {
+    "id":1464,
+    "nombre":"Batey La Tarana",
+    "municipioId":143,
+    "distritoId":216.0
+  },
+  {
+    "id":1465,
+    "nombre":"Batey Sabana Larga",
+    "municipioId":143,
+    "distritoId":216.0
+  },
+  {
+    "id":1466,
+    "nombre":"Majagual (Zona urbana)",
+    "municipioId":143,
+    "distritoId":217.0
+  },
+  {
+    "id":1467,
+    "nombre":"Francisquito",
+    "municipioId":143,
+    "distritoId":217.0
+  },
+  {
+    "id":1468,
+    "nombre":"La China",
+    "municipioId":143,
+    "distritoId":217.0
+  },
+  {
+    "id":1469,
+    "nombre":"Los Mapolos",
+    "municipioId":143,
+    "distritoId":217.0
+  },
+  {
+    "id":1470,
+    "nombre":"Yamasá (Zona urbana)",
+    "municipioId":144,
+    "distritoId":null
+  },
+  {
+    "id":1471,
+    "nombre":"La Jina",
+    "municipioId":144,
+    "distritoId":null
+  },
+  {
+    "id":1472,
+    "nombre":"Los Jobillos",
+    "municipioId":144,
+    "distritoId":null
+  },
+  {
+    "id":1473,
+    "nombre":"Pantoa",
+    "municipioId":144,
+    "distritoId":null
+  },
+  {
+    "id":1474,
+    "nombre":"San Antonio",
+    "municipioId":144,
+    "distritoId":null
+  },
+  {
+    "id":1475,
+    "nombre":"Los Botados (Zona urbana)",
+    "municipioId":144,
+    "distritoId":218.0
+  },
+  {
+    "id":1476,
+    "nombre":"Los Botados",
+    "municipioId":144,
+    "distritoId":218.0
+  },
+  {
+    "id":1477,
+    "nombre":"Camarón",
+    "municipioId":144,
+    "distritoId":218.0
+  },
+  {
+    "id":1478,
+    "nombre":"La Cola",
+    "municipioId":144,
+    "distritoId":218.0
+  },
+  {
+    "id":1479,
+    "nombre":"La Maya",
+    "municipioId":144,
+    "distritoId":218.0
+  },
+  {
+    "id":1480,
+    "nombre":"Reparadero",
+    "municipioId":144,
+    "distritoId":218.0
+  },
+  {
+    "id":1481,
+    "nombre":"La Yautía",
+    "municipioId":144,
+    "distritoId":218.0
+  },
+  {
+    "id":1482,
+    "nombre":"Sabana Grande (Zona urbana)",
+    "municipioId":144,
+    "distritoId":219.0
+  },
+  {
+    "id":1483,
+    "nombre":"El Ranchito",
+    "municipioId":144,
+    "distritoId":219.0
+  },
+  {
+    "id":1484,
+    "nombre":"Consuelo",
+    "municipioId":144,
+    "distritoId":219.0
+  },
+  {
+    "id":1485,
+    "nombre":"Río Arriba",
+    "municipioId":144,
+    "distritoId":219.0
+  },
+  {
+    "id":1486,
+    "nombre":"Sabana Grande",
+    "municipioId":144,
+    "distritoId":219.0
+  },
+  {
+    "id":1487,
+    "nombre":"La Estancia",
+    "municipioId":144,
+    "distritoId":219.0
+  },
+  {
+    "id":1488,
+    "nombre":"Hato Viejo",
+    "municipioId":144,
+    "distritoId":219.0
+  },
+  {
+    "id":1489,
+    "nombre":"Peralvillo (Zona urbana)",
+    "municipioId":145,
+    "distritoId":null
+  },
+  {
+    "id":1490,
+    "nombre":"Guázuma  ",
+    "municipioId":145,
+    "distritoId":null
+  },
+  {
+    "id":1491,
+    "nombre":"Cuaba",
+    "municipioId":145,
+    "distritoId":null
+  },
+  {
+    "id":1492,
+    "nombre":"Centro Penzo",
+    "municipioId":145,
+    "distritoId":null
+  },
+  {
+    "id":1493,
+    "nombre":"La Placeta",
+    "municipioId":145,
+    "distritoId":null
+  },
+  {
+    "id":1494,
+    "nombre":"Hato Mayor del Rey (Zona urbana)",
+    "municipioId":146,
+    "distritoId":null
+  },
+  {
+    "id":1495,
+    "nombre":"Don López",
+    "municipioId":146,
+    "distritoId":null
+  },
+  {
+    "id":1496,
+    "nombre":"Manchado",
+    "municipioId":146,
+    "distritoId":null
+  },
+  {
+    "id":1497,
+    "nombre":"Yerba Buena (Zona urbana)",
+    "municipioId":146,
+    "distritoId":220.0
+  },
+  {
+    "id":1498,
+    "nombre":"Las Claras",
+    "municipioId":146,
+    "distritoId":220.0
+  },
+  {
+    "id":1499,
+    "nombre":"El Mamón",
+    "municipioId":146,
+    "distritoId":220.0
+  },
+  {
+    "id":1500,
+    "nombre":"Mata Palacio (Zona urbana)",
+    "municipioId":146,
+    "distritoId":221.0
+  },
+  {
+    "id":1501,
+    "nombre":"Maguá",
+    "municipioId":146,
+    "distritoId":221.0
+  },
+  {
+    "id":1502,
+    "nombre":"Higuamo",
+    "municipioId":146,
+    "distritoId":221.0
+  },
+  {
+    "id":1503,
+    "nombre":"Guayabo Dulce (Zona urbana)",
+    "municipioId":146,
+    "distritoId":222.0
+  },
+  {
+    "id":1504,
+    "nombre":"Paso Cibao",
+    "municipioId":146,
+    "distritoId":222.0
+  },
+  {
+    "id":1505,
+    "nombre":"Las Espinas",
+    "municipioId":146,
+    "distritoId":222.0
+  },
+  {
+    "id":1506,
+    "nombre":"Jalonga",
+    "municipioId":146,
+    "distritoId":222.0
+  },
+  {
+    "id":1507,
+    "nombre":"Sabana de La Mar (Zona urbana)",
+    "municipioId":147,
+    "distritoId":null
+  },
+  {
+    "id":1508,
+    "nombre":"El Centro",
+    "municipioId":147,
+    "distritoId":null
+  },
+  {
+    "id":1509,
+    "nombre":"Elupina Cordero de Las Cañitas (Zona urbana)",
+    "municipioId":147,
+    "distritoId":223.0
+  },
+  {
+    "id":1510,
+    "nombre":"Maguá",
+    "municipioId":147,
+    "distritoId":223.0
+  },
+  {
+    "id":1511,
+    "nombre":"El Valle (Zona urbana)",
+    "municipioId":148,
+    "distritoId":null
+  },
+  {
+    "id":1512,
+    "nombre":"Arenitas",
+    "municipioId":148,
+    "distritoId":null
+  },
+  {
+    "id":1513,
+    "nombre":"Rincón Fogón",
+    "municipioId":148,
+    "distritoId":null
+  },
+  {
+    "id":1514,
+    "nombre":"San Rafael",
+    "municipioId":148,
+    "distritoId":null
+  },
+  {
+    "id":1515,
+    "nombre":"San José de Ocoa (Zona urbana)",
+    "municipioId":149,
+    "distritoId":null
+  },
+  {
+    "id":1516,
+    "nombre":"Los Ranchitos",
+    "municipioId":149,
+    "distritoId":null
+  },
+  {
+    "id":1517,
+    "nombre":"La Ciénaga (Zona urbana)",
+    "municipioId":149,
+    "distritoId":224.0
+  },
+  {
+    "id":1518,
+    "nombre":"Los Anones",
+    "municipioId":149,
+    "distritoId":224.0
+  },
+  {
+    "id":1519,
+    "nombre":"La Ciénaga",
+    "municipioId":149,
+    "distritoId":224.0
+  },
+  {
+    "id":1520,
+    "nombre":"El Rosalito",
+    "municipioId":149,
+    "distritoId":224.0
+  },
+  {
+    "id":1521,
+    "nombre":"Nizao (Zona urbana)",
+    "municipioId":149,
+    "distritoId":225.0
+  },
+  {
+    "id":1522,
+    "nombre":"Las Auyamas Arriba",
+    "municipioId":149,
+    "distritoId":225.0
+  },
+  {
+    "id":1523,
+    "nombre":"Las Cumbres",
+    "municipioId":149,
+    "distritoId":225.0
+  },
+  {
+    "id":1524,
+    "nombre":"El Higuito",
+    "municipioId":149,
+    "distritoId":225.0
+  },
+  {
+    "id":1525,
+    "nombre":"El Pinar (Zona urbana)",
+    "municipioId":149,
+    "distritoId":226.0
+  },
+  {
+    "id":1526,
+    "nombre":"Los Corozos",
+    "municipioId":149,
+    "distritoId":226.0
+  },
+  {
+    "id":1527,
+    "nombre":"Los Tramojos",
+    "municipioId":149,
+    "distritoId":226.0
+  },
+  {
+    "id":1528,
+    "nombre":"El Cercado",
+    "municipioId":149,
+    "distritoId":226.0
+  },
+  {
+    "id":1529,
+    "nombre":"El Naranjal (Zona urbana)",
+    "municipioId":149,
+    "distritoId":227.0
+  },
+  {
+    "id":1530,
+    "nombre":"El Naranjal",
+    "municipioId":149,
+    "distritoId":227.0
+  },
+  {
+    "id":1531,
+    "nombre":"Sabana Larga (Zona urbana)",
+    "municipioId":150,
+    "distritoId":null
+  },
+  {
+    "id":1532,
+    "nombre":"La Horma",
+    "municipioId":150,
+    "distritoId":null
+  },
+  {
+    "id":1533,
+    "nombre":"Sabana Larga",
+    "municipioId":150,
+    "distritoId":null
+  },
+  {
+    "id":1534,
+    "nombre":"Villa de Rancho Arriba (Zona urbana)",
+    "municipioId":151,
+    "distritoId":null
+  },
+  {
+    "id":1535,
+    "nombre":"Arroyo Caña",
+    "municipioId":151,
+    "distritoId":null
+  },
+  {
+    "id":1536,
+    "nombre":"Mahoma",
+    "municipioId":151,
+    "distritoId":null
+  },
+  {
+    "id":1537,
+    "nombre":"Quita Sueño",
+    "municipioId":151,
+    "distritoId":null
+  },
+  {
+    "id":1538,
+    "nombre":"Santo Domingo Este (Zona urbana)",
+    "municipioId":152,
+    "distritoId":null
+  },
+  {
+    "id":1539,
+    "nombre":"Cancino",
+    "municipioId":152,
+    "distritoId":null
+  },
+  {
+    "id":1540,
+    "nombre":"Mendoza",
+    "municipioId":152,
+    "distritoId":null
+  },
+  {
+    "id":1541,
+    "nombre":"San Luis (Zona urbana)",
+    "municipioId":152,
+    "distritoId":228.0
+  },
+  {
+    "id":1542,
+    "nombre":"San Isidro",
+    "municipioId":152,
+    "distritoId":228.0
+  },
+  {
+    "id":1543,
+    "nombre":"El Naranjo",
+    "municipioId":152,
+    "distritoId":228.0
+  },
+  {
+    "id":1544,
+    "nombre":"San Luis",
+    "municipioId":152,
+    "distritoId":228.0
+  },
+  {
+    "id":1545,
+    "nombre":"Santo Domingo Oeste (Zona urbana)",
+    "municipioId":153,
+    "distritoId":null
+  },
+  {
+    "id":1546,
+    "nombre":"Manoguayabo",
+    "municipioId":153,
+    "distritoId":null
+  },
+  {
+    "id":1547,
+    "nombre":"Santo Domingo Norte (Zona urbana)",
+    "municipioId":154,
+    "distritoId":null
+  },
+  {
+    "id":1548,
+    "nombre":"Licey",
+    "municipioId":154,
+    "distritoId":null
+  },
+  {
+    "id":1549,
+    "nombre":"Sierra Prieta",
+    "municipioId":154,
+    "distritoId":null
+  },
+  {
+    "id":1550,
+    "nombre":"Duquesa",
+    "municipioId":154,
+    "distritoId":null
+  },
+  {
+    "id":1551,
+    "nombre":"Higüero",
+    "municipioId":154,
+    "distritoId":null
+  },
+  {
+    "id":1552,
+    "nombre":"La Jagua",
+    "municipioId":154,
+    "distritoId":null
+  },
+  {
+    "id":1553,
+    "nombre":"La Victoria (Zona urbana)",
+    "municipioId":154,
+    "distritoId":229.0
+  },
+  {
+    "id":1554,
+    "nombre":"Mal Nombre",
+    "municipioId":154,
+    "distritoId":229.0
+  },
+  {
+    "id":1555,
+    "nombre":"La Virgen",
+    "municipioId":154,
+    "distritoId":229.0
+  },
+  {
+    "id":1556,
+    "nombre":"Mata Mamón",
+    "municipioId":154,
+    "distritoId":229.0
+  },
+  {
+    "id":1557,
+    "nombre":"La Bomba",
+    "municipioId":154,
+    "distritoId":229.0
+  },
+  {
+    "id":1558,
+    "nombre":"Guanuma",
+    "municipioId":154,
+    "distritoId":229.0
+  },
+  {
+    "id":1559,
+    "nombre":"Hacienda Estrella",
+    "municipioId":154,
+    "distritoId":229.0
+  },
+  {
+    "id":1560,
+    "nombre":"La Ceiba",
+    "municipioId":154,
+    "distritoId":229.0
+  },
+  {
+    "id":1561,
+    "nombre":"Boca Chica (Zona urbana)",
+    "municipioId":155,
+    "distritoId":null
+  },
+  {
+    "id":1562,
+    "nombre":"Cruce de Boca Chica",
+    "municipioId":155,
+    "distritoId":null
+  },
+  {
+    "id":1563,
+    "nombre":"La Malena",
+    "municipioId":155,
+    "distritoId":null
+  },
+  {
+    "id":1564,
+    "nombre":"La Caleta (Zona urbana)",
+    "municipioId":155,
+    "distritoId":230.0
+  },
+  {
+    "id":1565,
+    "nombre":"El Valiente",
+    "municipioId":155,
+    "distritoId":230.0
+  },
+  {
+    "id":1566,
+    "nombre":"Campo Lindo",
+    "municipioId":155,
+    "distritoId":230.0
+  },
+  {
+    "id":1567,
+    "nombre":"La Caleta",
+    "municipioId":155,
+    "distritoId":230.0
+  },
+  {
+    "id":1568,
+    "nombre":"San Antonio de Guerra (Zona urbana)",
+    "municipioId":156,
+    "distritoId":null
+  },
+  {
+    "id":1569,
+    "nombre":"El Toro",
+    "municipioId":156,
+    "distritoId":null
+  },
+  {
+    "id":1570,
+    "nombre":"La Joya",
+    "municipioId":156,
+    "distritoId":null
+  },
+  {
+    "id":1571,
+    "nombre":"Enjuagador",
+    "municipioId":156,
+    "distritoId":null
+  },
+  {
+    "id":1572,
+    "nombre":"Mata de Palma",
+    "municipioId":156,
+    "distritoId":null
+  },
+  {
+    "id":1573,
+    "nombre":"Bella Vista",
+    "municipioId":156,
+    "distritoId":null
+  },
+  {
+    "id":1574,
+    "nombre":"Estorga (Zona urbana)",
+    "municipioId":156,
+    "distritoId":231.0
+  },
+  {
+    "id":1575,
+    "nombre":"Batey II",
+    "municipioId":156,
+    "distritoId":231.0
+  },
+  {
+    "id":1576,
+    "nombre":"Kilómetro 36B",
+    "municipioId":156,
+    "distritoId":231.0
+  },
+  {
+    "id":1577,
+    "nombre":"Estorga",
+    "municipioId":156,
+    "distritoId":231.0
+  },
+  {
+    "id":1578,
+    "nombre":"Los Alcarrizos (Zona urbana)",
+    "municipioId":157,
+    "distritoId":null
+  },
+  {
+    "id":1579,
+    "nombre":"Santa Rosa",
+    "municipioId":157,
+    "distritoId":null
+  },
+  {
+    "id":1580,
+    "nombre":"Palmarejo Villa Linda (Zona urbana)",
+    "municipioId":157,
+    "distritoId":232.0
+  },
+  {
+    "id":1581,
+    "nombre":"Palmarejito",
+    "municipioId":157,
+    "distritoId":232.0
+  },
+  {
+    "id":1582,
+    "nombre":"Santa Bárbara",
+    "municipioId":157,
+    "distritoId":232.0
+  },
+  {
+    "id":1583,
+    "nombre":"Villa Linda",
+    "municipioId":157,
+    "distritoId":232.0
+  },
+  {
+    "id":1584,
+    "nombre":"Pantoja (Zona urbana)",
+    "municipioId":157,
+    "distritoId":233.0
+  },
+  {
+    "id":1585,
+    "nombre":"Pedro Brand (Zona urbana)",
+    "municipioId":158,
+    "distritoId":null
+  },
+  {
+    "id":1586,
+    "nombre":"Los Corozos",
+    "municipioId":158,
+    "distritoId":null
+  },
+  {
+    "id":1587,
+    "nombre":"San Miguel",
+    "municipioId":158,
+    "distritoId":null
+  },
+  {
+    "id":1588,
+    "nombre":"Piedra Gorda",
+    "municipioId":158,
+    "distritoId":null
+  },
+  {
+    "id":1589,
+    "nombre":"La Polonia",
+    "municipioId":158,
+    "distritoId":null
+  },
+  {
+    "id":1590,
+    "nombre":"Frasquito Gómez",
+    "municipioId":158,
+    "distritoId":null
+  },
+  {
+    "id":1591,
+    "nombre":"Santa Cruz",
+    "municipioId":158,
+    "distritoId":null
+  },
+  {
+    "id":1592,
+    "nombre":"La Guáyiga (Zona urbana)",
+    "municipioId":158,
+    "distritoId":234.0
+  },
+  {
+    "id":1593,
+    "nombre":"Los García",
+    "municipioId":158,
+    "distritoId":234.0
+  },
+  {
+    "id":1594,
+    "nombre":"El Pedregal",
+    "municipioId":158,
+    "distritoId":234.0
+  },
+  {
+    "id":1595,
+    "nombre":"Yacó",
+    "municipioId":158,
+    "distritoId":234.0
+  },
+  {
+    "id":1596,
+    "nombre":"La Cuaba (Zona urbana)",
+    "municipioId":158,
+    "distritoId":235.0
+  },
+  {
+    "id":1597,
+    "nombre":"Los Aguacates",
+    "municipioId":158,
+    "distritoId":235.0
+  },
+  {
+    "id":1598,
+    "nombre":"La Estancia",
+    "municipioId":158,
+    "distritoId":235.0
+  },
+  {
+    "id":1599,
+    "nombre":"El Limón",
+    "municipioId":158,
+    "distritoId":235.0
+  }
+]
