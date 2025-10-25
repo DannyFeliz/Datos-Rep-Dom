@@ -1,0 +1,1177 @@
+[
+  {
+    "id":1,
+    "nombre":"Barro Arriba (DM)",
+    "municipioId":2
+  },
+  {
+    "id":2,
+    "nombre":"Las Barías-La Estancia (DM)",
+    "municipioId":2
+  },
+  {
+    "id":3,
+    "nombre":"Los Jovillos  (DM)",
+    "municipioId":2
+  },
+  {
+    "id":4,
+    "nombre":"Puerto Viejo (DM)",
+    "municipioId":2
+  },
+  {
+    "id":5,
+    "nombre":"Barreras  (DM)",
+    "municipioId":2
+  },
+  {
+    "id":6,
+    "nombre":"Doña Emma Balaguer Viuda Vallejo (DM)",
+    "municipioId":2
+  },
+  {
+    "id":7,
+    "nombre":"Clavellina (DM)",
+    "municipioId":2
+  },
+  {
+    "id":8,
+    "nombre":"Las Lomas (DM)",
+    "municipioId":2
+  },
+  {
+    "id":9,
+    "nombre":"Palmar de Ocoa (DM)",
+    "municipioId":3
+  },
+  {
+    "id":10,
+    "nombre":"Villarpando (DM)",
+    "municipioId":4
+  },
+  {
+    "id":11,
+    "nombre":"Hato Nuevo Cortés (DM)",
+    "municipioId":4
+  },
+  {
+    "id":12,
+    "nombre":"Las Lagunas (DM)",
+    "municipioId":5
+  },
+  {
+    "id":13,
+    "nombre":"La Siembra (DM)",
+    "municipioId":5
+  },
+  {
+    "id":14,
+    "nombre":"Monte Bonito (DM)",
+    "municipioId":5
+  },
+  {
+    "id":15,
+    "nombre":"Los Fríos (DM)",
+    "municipioId":5
+  },
+  {
+    "id":16,
+    "nombre":"Proyecto 4 (DM)",
+    "municipioId":7
+  },
+  {
+    "id":17,
+    "nombre":"Ganadero (DM)",
+    "municipioId":7
+  },
+  {
+    "id":18,
+    "nombre":"Proyecto 2-C (DM)",
+    "municipioId":7
+  },
+  {
+    "id":19,
+    "nombre":"El Rosario (DM)",
+    "municipioId":8
+  },
+  {
+    "id":20,
+    "nombre":"Tábara Abajo (DM)",
+    "municipioId":9
+  },
+  {
+    "id":21,
+    "nombre":"Amiama Gómez (DM)",
+    "municipioId":9
+  },
+  {
+    "id":22,
+    "nombre":"Los Toros (DM)",
+    "municipioId":9
+  },
+  {
+    "id":23,
+    "nombre":"El Palmar  (DM)",
+    "municipioId":12
+  },
+  {
+    "id":24,
+    "nombre":"El Salado (DM)",
+    "municipioId":13
+  },
+  {
+    "id":25,
+    "nombre":"Uvilla (DM)",
+    "municipioId":14
+  },
+  {
+    "id":26,
+    "nombre":"Santana (DM)",
+    "municipioId":14
+  },
+  {
+    "id":27,
+    "nombre":"Monserrate o Montserrat (DM)",
+    "municipioId":14
+  },
+  {
+    "id":28,
+    "nombre":"Cabeza de Toro (DM)",
+    "municipioId":14
+  },
+  {
+    "id":29,
+    "nombre":"Mena (DM)",
+    "municipioId":14
+  },
+  {
+    "id":30,
+    "nombre":"Santa Bárbara El 6 (DM)",
+    "municipioId":14
+  },
+  {
+    "id":31,
+    "nombre":"Las Clavellinas (DM)",
+    "municipioId":16
+  },
+  {
+    "id":32,
+    "nombre":"El Cachón (DM)",
+    "municipioId":17
+  },
+  {
+    "id":33,
+    "nombre":"La Guázara (DM)",
+    "municipioId":17
+  },
+  {
+    "id":34,
+    "nombre":"Villa Central (DM)",
+    "municipioId":17
+  },
+  {
+    "id":35,
+    "nombre":"Arroyo Dulce (DM)",
+    "municipioId":19
+  },
+  {
+    "id":36,
+    "nombre":"Los Patos (DM)",
+    "municipioId":20
+  },
+  {
+    "id":37,
+    "nombre":"Canoa (DM)",
+    "municipioId":21
+  },
+  {
+    "id":38,
+    "nombre":"Quita Coraza (DM)",
+    "municipioId":21
+  },
+  {
+    "id":39,
+    "nombre":"Fondo Negro (DM)",
+    "municipioId":21
+  },
+  {
+    "id":40,
+    "nombre":"Baoruco (DM)",
+    "municipioId":23
+  },
+  {
+    "id":41,
+    "nombre":"Pescadería (DM)",
+    "municipioId":24
+  },
+  {
+    "id":42,
+    "nombre":"Palo Alto (DM)",
+    "municipioId":27
+  },
+  {
+    "id":43,
+    "nombre":"Cañongo (DM)",
+    "municipioId":28
+  },
+  {
+    "id":44,
+    "nombre":"Capotillo (DM)",
+    "municipioId":29
+  },
+  {
+    "id":45,
+    "nombre":"Santiago de La Cruz (DM)",
+    "municipioId":29
+  },
+  {
+    "id":46,
+    "nombre":"Manuel Bueno (DM)",
+    "municipioId":32
+  },
+  {
+    "id":47,
+    "nombre":"La Peña (DM)",
+    "municipioId":33
+  },
+  {
+    "id":48,
+    "nombre":"Cenoví (DM)",
+    "municipioId":33
+  },
+  {
+    "id":49,
+    "nombre":"Jaya (DM)",
+    "municipioId":33
+  },
+  {
+    "id":50,
+    "nombre":"Presidente Don Antonio Guzmán Fernández (DM)",
+    "municipioId":33
+  },
+  {
+    "id":51,
+    "nombre":"Las Coles (DM)",
+    "municipioId":34
+  },
+  {
+    "id":52,
+    "nombre":"El Aguacate (DM)",
+    "municipioId":34
+  },
+  {
+    "id":53,
+    "nombre":"Agua Santa del Yuna  (DM)",
+    "municipioId":37
+  },
+  {
+    "id":54,
+    "nombre":"Cristo Rey de Guaraguao (DM)",
+    "municipioId":37
+  },
+  {
+    "id":55,
+    "nombre":"Las Taranas (DM)",
+    "municipioId":37
+  },
+  {
+    "id":56,
+    "nombre":"Barraquito (DM)",
+    "municipioId":37
+  },
+  {
+    "id":57,
+    "nombre":"Sabana Grande (DM)",
+    "municipioId":39
+  },
+  {
+    "id":58,
+    "nombre":"Sabana Larga (DM)",
+    "municipioId":40
+  },
+  {
+    "id":59,
+    "nombre":"Guayabo (DM)",
+    "municipioId":40
+  },
+  {
+    "id":60,
+    "nombre":"Sabana Cruz (DM)",
+    "municipioId":41
+  },
+  {
+    "id":61,
+    "nombre":"Sabana Higüero (DM)",
+    "municipioId":41
+  },
+  {
+    "id":62,
+    "nombre":"Guanito (DM)",
+    "municipioId":42
+  },
+  {
+    "id":63,
+    "nombre":"Rancho de La Guardia (DM)",
+    "municipioId":43
+  },
+  {
+    "id":64,
+    "nombre":"Río Limpio (DM)",
+    "municipioId":44
+  },
+  {
+    "id":65,
+    "nombre":"Pedro Sánchez (DM)",
+    "municipioId":46
+  },
+  {
+    "id":66,
+    "nombre":"San Francisco-Vicentillo (DM)",
+    "municipioId":46
+  },
+  {
+    "id":67,
+    "nombre":"Santa Lucía (DM)",
+    "municipioId":46
+  },
+  {
+    "id":68,
+    "nombre":"El Cedro (DM)",
+    "municipioId":47
+  },
+  {
+    "id":69,
+    "nombre":"La Gina (DM)",
+    "municipioId":47
+  },
+  {
+    "id":70,
+    "nombre":"José Contreras (DM)",
+    "municipioId":48
+  },
+  {
+    "id":71,
+    "nombre":"Juan López (DM)",
+    "municipioId":48
+  },
+  {
+    "id":72,
+    "nombre":"Las Lagunas (DM)",
+    "municipioId":48
+  },
+  {
+    "id":73,
+    "nombre":"Canca la Reyna (DM)",
+    "municipioId":48
+  },
+  {
+    "id":74,
+    "nombre":"El Higüerito (DM)",
+    "municipioId":48
+  },
+  {
+    "id":75,
+    "nombre":"Monte de la Jagua (DM)",
+    "municipioId":48
+  },
+  {
+    "id":76,
+    "nombre":"La Ortega (DM)",
+    "municipioId":48
+  },
+  {
+    "id":77,
+    "nombre":"Joba Arriba (DM)",
+    "municipioId":50
+  },
+  {
+    "id":78,
+    "nombre":"Veragua (DM)",
+    "municipioId":50
+  },
+  {
+    "id":79,
+    "nombre":"Villa Magante (DM)",
+    "municipioId":50
+  },
+  {
+    "id":80,
+    "nombre":"El Limón (DM)",
+    "municipioId":53
+  },
+  {
+    "id":81,
+    "nombre":"Boca de Cachón (DM)",
+    "municipioId":53
+  },
+  {
+    "id":82,
+    "nombre":"Vengan a Ver (DM)",
+    "municipioId":54
+  },
+  {
+    "id":83,
+    "nombre":"Guayabal (DM)",
+    "municipioId":56
+  },
+  {
+    "id":84,
+    "nombre":"Batey 8 (DM)",
+    "municipioId":57
+  },
+  {
+    "id":85,
+    "nombre":"La Colonia (DM)",
+    "municipioId":58
+  },
+  {
+    "id":86,
+    "nombre":"Las Lagunas de Nisibón (DM)",
+    "municipioId":59
+  },
+  {
+    "id":87,
+    "nombre":"La Otra Banda (DM)",
+    "municipioId":59
+  },
+  {
+    "id":88,
+    "nombre":"Verón Punta Cana (DM)",
+    "municipioId":59
+  },
+  {
+    "id":89,
+    "nombre":"Boca de Yuma (DM)",
+    "municipioId":60
+  },
+  {
+    "id":90,
+    "nombre":"Bayahíbe (DM)",
+    "municipioId":60
+  },
+  {
+    "id":91,
+    "nombre":"Caleta (DM)",
+    "municipioId":61
+  },
+  {
+    "id":92,
+    "nombre":"Cumayasa (DM)",
+    "municipioId":63
+  },
+  {
+    "id":93,
+    "nombre":"Río Verde Arriba (DM)",
+    "municipioId":64
+  },
+  {
+    "id":94,
+    "nombre":"El Ranchito (DM)",
+    "municipioId":64
+  },
+  {
+    "id":95,
+    "nombre":"Tavera (DM)",
+    "municipioId":64
+  },
+  {
+    "id":96,
+    "nombre":"Don Juan Rodríguez (DM)",
+    "municipioId":64
+  },
+  {
+    "id":97,
+    "nombre":"Tireo (DM)",
+    "municipioId":65
+  },
+  {
+    "id":98,
+    "nombre":"La Sabina (DM)",
+    "municipioId":65
+  },
+  {
+    "id":99,
+    "nombre":"Buena Vista (DM)",
+    "municipioId":66
+  },
+  {
+    "id":100,
+    "nombre":"Manabao (DM)",
+    "municipioId":66
+  },
+  {
+    "id":101,
+    "nombre":"Rincón (DM)",
+    "municipioId":67
+  },
+  {
+    "id":102,
+    "nombre":"San José de Matanzas (DM)",
+    "municipioId":68
+  },
+  {
+    "id":103,
+    "nombre":"Las Gordas (DM)",
+    "municipioId":68
+  },
+  {
+    "id":104,
+    "nombre":"Arroyo al Medio (DM)",
+    "municipioId":68
+  },
+  {
+    "id":105,
+    "nombre":"Arroyo Salado (DM)",
+    "municipioId":69
+  },
+  {
+    "id":106,
+    "nombre":"La Entrada (DM)",
+    "municipioId":69
+  },
+  {
+    "id":107,
+    "nombre":"El Pozo (DM)",
+    "municipioId":70
+  },
+  {
+    "id":108,
+    "nombre":"Palo Verde (DM)",
+    "municipioId":73
+  },
+  {
+    "id":109,
+    "nombre":"Villa Elisa (DM)",
+    "municipioId":74
+  },
+  {
+    "id":110,
+    "nombre":"Hatillo Palma (DM)",
+    "municipioId":74
+  },
+  {
+    "id":111,
+    "nombre":"Cana Chapetón (DM)",
+    "municipioId":74
+  },
+  {
+    "id":112,
+    "nombre":"Santa Maria (DM)",
+    "municipioId":76
+  },
+  {
+    "id":113,
+    "nombre":"José Francisco Peña Gómez (DM)",
+    "municipioId":78
+  },
+  {
+    "id":114,
+    "nombre":"Juancho (DM)",
+    "municipioId":79
+  },
+  {
+    "id":115,
+    "nombre":"Villa Fundación (DM)",
+    "municipioId":80
+  },
+  {
+    "id":116,
+    "nombre":"Sabana Buey (DM)",
+    "municipioId":80
+  },
+  {
+    "id":117,
+    "nombre":"Paya (DM)",
+    "municipioId":80
+  },
+  {
+    "id":118,
+    "nombre":"Villa Sombrero (DM)",
+    "municipioId":80
+  },
+  {
+    "id":119,
+    "nombre":"El Carretón (DM)",
+    "municipioId":80
+  },
+  {
+    "id":120,
+    "nombre":"Catalina (DM)",
+    "municipioId":80
+  },
+  {
+    "id":121,
+    "nombre":"El Limonal (DM)",
+    "municipioId":80
+  },
+  {
+    "id":122,
+    "nombre":"Las Barías (DM)",
+    "municipioId":80
+  },
+  {
+    "id":123,
+    "nombre":"Pizarrete (DM)",
+    "municipioId":81
+  },
+  {
+    "id":124,
+    "nombre":"Santana (DM)",
+    "municipioId":81
+  },
+  {
+    "id":125,
+    "nombre":"Yásica Arriba (DM)",
+    "municipioId":83
+  },
+  {
+    "id":126,
+    "nombre":"Maimón (DM)",
+    "municipioId":83
+  },
+  {
+    "id":127,
+    "nombre":"Río Grande (DM)",
+    "municipioId":84
+  },
+  {
+    "id":128,
+    "nombre":"Navas (DM)",
+    "municipioId":87
+  },
+  {
+    "id":129,
+    "nombre":"La Isabela (DM)",
+    "municipioId":88
+  },
+  {
+    "id":130,
+    "nombre":"Belloso (DM)",
+    "municipioId":88
+  },
+  {
+    "id":131,
+    "nombre":"El Estrecho de Luperón Omar Bross (DM)",
+    "municipioId":88
+  },
+  {
+    "id":132,
+    "nombre":"Cabarete (DM)",
+    "municipioId":89
+  },
+  {
+    "id":133,
+    "nombre":"Sabaneta de Yásica (DM)",
+    "municipioId":89
+  },
+  {
+    "id":134,
+    "nombre":"Estero Hondo (DM)",
+    "municipioId":90
+  },
+  {
+    "id":135,
+    "nombre":"La Jaiba (DM)",
+    "municipioId":90
+  },
+  {
+    "id":136,
+    "nombre":"Gualete (DM)",
+    "municipioId":90
+  },
+  {
+    "id":137,
+    "nombre":"Jamao Afuera (DM)",
+    "municipioId":92
+  },
+  {
+    "id":138,
+    "nombre":"Blanco (DM)",
+    "municipioId":93
+  },
+  {
+    "id":139,
+    "nombre":"El Limón (DM)",
+    "municipioId":95
+  },
+  {
+    "id":140,
+    "nombre":"Arroyo Barril (DM)",
+    "municipioId":95
+  },
+  {
+    "id":141,
+    "nombre":"Las Galeras (DM)",
+    "municipioId":95
+  },
+  {
+    "id":142,
+    "nombre":"Hato Damas (DM)",
+    "municipioId":98
+  },
+  {
+    "id":143,
+    "nombre":"Hatillo (DM)",
+    "municipioId":98
+  },
+  {
+    "id":144,
+    "nombre":"El Carril (DM)",
+    "municipioId":100
+  },
+  {
+    "id":145,
+    "nombre":"Quita Sueño (DM)",
+    "municipioId":100
+  },
+  {
+    "id":146,
+    "nombre":"Cambita El Pueblecito (DM)",
+    "municipioId":101
+  },
+  {
+    "id":147,
+    "nombre":"San José del Puerto (DM)",
+    "municipioId":102
+  },
+  {
+    "id":148,
+    "nombre":"Medina (DM)",
+    "municipioId":102
+  },
+  {
+    "id":149,
+    "nombre":"La Cuchilla (DM)",
+    "municipioId":102
+  },
+  {
+    "id":150,
+    "nombre":"Doña Ana (DM)",
+    "municipioId":103
+  },
+  {
+    "id":151,
+    "nombre":"Pedro Corto (DM)",
+    "municipioId":106
+  },
+  {
+    "id":152,
+    "nombre":"Sabaneta (DM)",
+    "municipioId":106
+  },
+  {
+    "id":153,
+    "nombre":"Sabana Alta (DM)",
+    "municipioId":106
+  },
+  {
+    "id":154,
+    "nombre":"El Rosario (DM)",
+    "municipioId":106
+  },
+  {
+    "id":155,
+    "nombre":"Hato del Padre (DM)",
+    "municipioId":106
+  },
+  {
+    "id":156,
+    "nombre":"Guanito (DM)",
+    "municipioId":106
+  },
+  {
+    "id":157,
+    "nombre":"La Jagua (DM)",
+    "municipioId":106
+  },
+  {
+    "id":158,
+    "nombre":"Las Maguanas-Hato Nuevo (DM)",
+    "municipioId":106
+  },
+  {
+    "id":159,
+    "nombre":"Las Charcas de María Nova (DM)",
+    "municipioId":106
+  },
+  {
+    "id":160,
+    "nombre":"Las Zanjas (DM)",
+    "municipioId":106
+  },
+  {
+    "id":161,
+    "nombre":"Arroyo Cano (DM)",
+    "municipioId":107
+  },
+  {
+    "id":162,
+    "nombre":"Yaque (DM)",
+    "municipioId":107
+  },
+  {
+    "id":163,
+    "nombre":"Derrumbadero (DM)",
+    "municipioId":108
+  },
+  {
+    "id":164,
+    "nombre":"Batista (DM)",
+    "municipioId":108
+  },
+  {
+    "id":165,
+    "nombre":"Jínova (DM)",
+    "municipioId":109
+  },
+  {
+    "id":166,
+    "nombre":"Matayaya (DM)",
+    "municipioId":110
+  },
+  {
+    "id":167,
+    "nombre":"Carrera de Yeguas (DM)",
+    "municipioId":110
+  },
+  {
+    "id":168,
+    "nombre":"Jorjillo (DM)",
+    "municipioId":111
+  },
+  {
+    "id":169,
+    "nombre":"El Puerto (DM)",
+    "municipioId":113
+  },
+  {
+    "id":170,
+    "nombre":"Gautier (DM)",
+    "municipioId":113
+  },
+  {
+    "id":171,
+    "nombre":"Quita Sueño (DM)",
+    "municipioId":118
+  },
+  {
+    "id":172,
+    "nombre":"Caballero (DM)",
+    "municipioId":118
+  },
+  {
+    "id":173,
+    "nombre":"Comedero Arriba (DM)",
+    "municipioId":118
+  },
+  {
+    "id":174,
+    "nombre":"Platanal  (DM)",
+    "municipioId":118
+  },
+  {
+    "id":175,
+    "nombre":"Zambrana Abajo (DM)",
+    "municipioId":118
+  },
+  {
+    "id":176,
+    "nombre":"La Cueva (DM)",
+    "municipioId":119
+  },
+  {
+    "id":177,
+    "nombre":"La Bija (DM)",
+    "municipioId":121
+  },
+  {
+    "id":178,
+    "nombre":"Angelina (DM)",
+    "municipioId":121
+  },
+  {
+    "id":179,
+    "nombre":"Hernando Alonzo (DM)",
+    "municipioId":121
+  },
+  {
+    "id":180,
+    "nombre":"Pedro García (DM)",
+    "municipioId":122
+  },
+  {
+    "id":181,
+    "nombre":"La Canela (DM)",
+    "municipioId":122
+  },
+  {
+    "id":182,
+    "nombre":"San Francisco de Jacagua (DM)",
+    "municipioId":122
+  },
+  {
+    "id":183,
+    "nombre":"Hato del Yaque (DM)",
+    "municipioId":122
+  },
+  {
+    "id":184,
+    "nombre":"Santiago Oeste (DM)",
+    "municipioId":122
+  },
+  {
+    "id":185,
+    "nombre":"Juncalito (DM)",
+    "municipioId":124
+  },
+  {
+    "id":186,
+    "nombre":"El Caimito (DM)",
+    "municipioId":124
+  },
+  {
+    "id":187,
+    "nombre":"Las Palomas (DM)",
+    "municipioId":125
+  },
+  {
+    "id":188,
+    "nombre":"El Rubio (DM)",
+    "municipioId":126
+  },
+  {
+    "id":189,
+    "nombre":"La Cuesta (DM)",
+    "municipioId":126
+  },
+  {
+    "id":190,
+    "nombre":"Las Placetas (DM)",
+    "municipioId":126
+  },
+  {
+    "id":191,
+    "nombre":"Canca La Piedra (DM)",
+    "municipioId":127
+  },
+  {
+    "id":192,
+    "nombre":"Palmar Arriba (DM)",
+    "municipioId":128
+  },
+  {
+    "id":193,
+    "nombre":"El Limón (DM)",
+    "municipioId":128
+  },
+  {
+    "id":194,
+    "nombre":"Guayabal (DM)",
+    "municipioId":129
+  },
+  {
+    "id":195,
+    "nombre":"Canabacoa (DM)",
+    "municipioId":129
+  },
+  {
+    "id":196,
+    "nombre":"Ámina (DM)",
+    "municipioId":135
+  },
+  {
+    "id":197,
+    "nombre":"Jaibón o Pueblo Nuevo (DM)",
+    "municipioId":135
+  },
+  {
+    "id":198,
+    "nombre":"Guatapanal (DM)",
+    "municipioId":135
+  },
+  {
+    "id":199,
+    "nombre":"Maizal (DM)",
+    "municipioId":136
+  },
+  {
+    "id":200,
+    "nombre":"Jicomé (DM)",
+    "municipioId":136
+  },
+  {
+    "id":201,
+    "nombre":"Boca de Mao (DM)",
+    "municipioId":136
+  },
+  {
+    "id":202,
+    "nombre":"Paradero (DM)",
+    "municipioId":136
+  },
+  {
+    "id":203,
+    "nombre":"Jaibón (DM)",
+    "municipioId":137
+  },
+  {
+    "id":204,
+    "nombre":"La Caya (DM)",
+    "municipioId":137
+  },
+  {
+    "id":205,
+    "nombre":"Cruce de Guayacanes (DM)",
+    "municipioId":137
+  },
+  {
+    "id":206,
+    "nombre":"Sabana del Puerto (DM)",
+    "municipioId":138
+  },
+  {
+    "id":207,
+    "nombre":"Juma Bejucal (DM)",
+    "municipioId":138
+  },
+  {
+    "id":208,
+    "nombre":"Arroyo  Toro - Masipedro (DM)",
+    "municipioId":138
+  },
+  {
+    "id":209,
+    "nombre":"Jayaco (DM)",
+    "municipioId":138
+  },
+  {
+    "id":210,
+    "nombre":"La Salvia - Los Quemados (DM)",
+    "municipioId":138
+  },
+  {
+    "id":211,
+    "nombre":"Villa de Sonador (DM)",
+    "municipioId":140
+  },
+  {
+    "id":212,
+    "nombre":"Juan Adrián (DM)",
+    "municipioId":140
+  },
+  {
+    "id":213,
+    "nombre":"Don Juan (DM)",
+    "municipioId":141
+  },
+  {
+    "id":214,
+    "nombre":"Chirino (DM)",
+    "municipioId":141
+  },
+  {
+    "id":215,
+    "nombre":"Boyá (DM)",
+    "municipioId":141
+  },
+  {
+    "id":216,
+    "nombre":"Gonzalo (DM)",
+    "municipioId":143
+  },
+  {
+    "id":217,
+    "nombre":"Majagual (DM)",
+    "municipioId":143
+  },
+  {
+    "id":218,
+    "nombre":"Los Botados (DM)",
+    "municipioId":144
+  },
+  {
+    "id":219,
+    "nombre":"Mamá Tingó (DM)",
+    "municipioId":144
+  },
+  {
+    "id":220,
+    "nombre":"Yerba Buena (DM)",
+    "municipioId":146
+  },
+  {
+    "id":221,
+    "nombre":"Mata Palacio (DM)",
+    "municipioId":146
+  },
+  {
+    "id":222,
+    "nombre":"Guayabo Dulce (DM)",
+    "municipioId":146
+  },
+  {
+    "id":223,
+    "nombre":"Elupina Cordero de Las Cañitas (DM)",
+    "municipioId":147
+  },
+  {
+    "id":224,
+    "nombre":"La Ciénaga (DM)",
+    "municipioId":149
+  },
+  {
+    "id":225,
+    "nombre":"Nizao - Las Auyamas (DM)",
+    "municipioId":149
+  },
+  {
+    "id":226,
+    "nombre":"El Pinar (DM)",
+    "municipioId":149
+  },
+  {
+    "id":227,
+    "nombre":"El Naranjal (DM)",
+    "municipioId":149
+  },
+  {
+    "id":228,
+    "nombre":"San Luis (DM)",
+    "municipioId":152
+  },
+  {
+    "id":229,
+    "nombre":"La Victoria (DM)",
+    "municipioId":154
+  },
+  {
+    "id":230,
+    "nombre":"La Caleta (DM)",
+    "municipioId":155
+  },
+  {
+    "id":231,
+    "nombre":"Hato Viejo (DM)",
+    "municipioId":156
+  },
+  {
+    "id":232,
+    "nombre":"Palmarejo-Villa Linda (DM)",
+    "municipioId":157
+  },
+  {
+    "id":233,
+    "nombre":"Pantoja (DM)",
+    "municipioId":157
+  },
+  {
+    "id":234,
+    "nombre":"La Guáyiga (DM)",
+    "municipioId":158
+  },
+  {
+    "id":235,
+    "nombre":"La Cuaba (DM)",
+    "municipioId":158
+  }
+]

@@ -1,130 +1,130 @@
 [
-	{
-		"provincia_id" : 1,
-		"provincia" : "Distrito Nacional"
-	},
-	{
-		"provincia_id" : 2,
-		"provincia" : "Santo Domingo"
-	},
-	{
-		"provincia_id" : 21,
-		"provincia" : "San Pedro de Macorís"
-	},
-	{
-		"provincia_id" : 22,
-		"provincia" : "La Romana"
-	},
-	{
-		"provincia_id" : 23,
-		"provincia" : "La Altagracia"
-	},
-	{
-		"provincia_id" : 24,
-		"provincia" : "El Seibo"
-	},
-	{
-		"provincia_id" : 25,
-		"provincia" : "Hato Mayor"
-	},
-	{
-		"provincia_id" : 31,
-		"provincia" : "Duarte"
-	},
-	{
-		"provincia_id" : 32,
-		"provincia" : "Samaná"
-	},
-	{
-		"provincia_id" : 33,
-		"provincia" : "Maria Trinidad Sánchez"
-	},
-	{
-		"provincia_id" : 34,
-		"provincia" : "Salcedo"
-	},
-	{
-		"provincia_id" : 41,
-		"provincia" : "La Vega"
-	},
-	{
-		"provincia_id" : 42,
-		"provincia" : "Monseñor Nouel"
-	},
-	{
-		"provincia_id" : 43,
-		"provincia" : "Sánchez Ramirez"
-	},
-	{
-		"provincia_id" : 51,
-		"provincia" : "Santiago"
-	},
-	{
-		"provincia_id" : 56,
-		"provincia" : "Espaillat"
-	},
-	{
-		"provincia_id" : 57,
-		"provincia" : "Puerto Plata"
-	},
-	{
-		"provincia_id" : 61,
-		"provincia" : "Valverde"
-	},
-	{
-		"provincia_id" : 62,
-		"provincia" : "Monte Cristi"
-	},
-	{
-		"provincia_id" : 63,
-		"provincia" : "Dajabón"
-	},
-	{
-		"provincia_id" : 64,
-		"provincia" : "Santiago Rodríguez"
-	},
-	{
-		"provincia_id" : 71,
-		"provincia" : "Azua"
-	},
-	{
-		"provincia_id" : 72,
-		"provincia" : "San Juan"
-	},
-	{
-		"provincia_id" : 73,
-		"provincia" : "Elías Piña"
-	},
-	{
-		"provincia_id" : 81,
-		"provincia" : "Barahona"
-	},
-	{
-		"provincia_id" : 82,
-		"provincia" : "Bahoruco"
-	},
-	{
-		"provincia_id" : 83,
-		"provincia" : "Independencia"
-	},
-	{
-		"provincia_id" : 84,
-		"provincia" : "Perdenales"
-	},
-	{
-		"provincia_id" : 91,
-		"provincia" : "San Cristóbal"
-	},
-	{
-		"provincia_id" : 92,
-		"provincia" : "Monte Plata"
-	},
-	{
-		"provincia_id" : 93,
-		"provincia" : "San José de Ocoa"
-	},
-	{
-		"provincia_id" : 94,
-		"provincia" : "Peravia"
-	}
+  {
+    "id":1,
+    "nombre":"Distrito Nacional"
+  },
+  {
+    "id":2,
+    "nombre":"Azua"
+  },
+  {
+    "id":3,
+    "nombre":"Baoruco"
+  },
+  {
+    "id":4,
+    "nombre":"Barahona"
+  },
+  {
+    "id":5,
+    "nombre":"Dajabón"
+  },
+  {
+    "id":6,
+    "nombre":"Duarte"
+  },
+  {
+    "id":7,
+    "nombre":"Elías Piña"
+  },
+  {
+    "id":8,
+    "nombre":"El Seibo"
+  },
+  {
+    "id":9,
+    "nombre":"Espaillat"
+  },
+  {
+    "id":10,
+    "nombre":"Independencia"
+  },
+  {
+    "id":11,
+    "nombre":"La Altagracia"
+  },
+  {
+    "id":12,
+    "nombre":"La Romana"
+  },
+  {
+    "id":13,
+    "nombre":"La Vega"
+  },
+  {
+    "id":14,
+    "nombre":"María Trinidad Sánchez"
+  },
+  {
+    "id":15,
+    "nombre":"Monte Cristi"
+  },
+  {
+    "id":16,
+    "nombre":"Pedernales"
+  },
+  {
+    "id":17,
+    "nombre":"Peravia"
+  },
+  {
+    "id":18,
+    "nombre":"Puerto Plata"
+  },
+  {
+    "id":19,
+    "nombre":"Hermanas Mirabal"
+  },
+  {
+    "id":20,
+    "nombre":"Samaná"
+  },
+  {
+    "id":21,
+    "nombre":"San Cristóbal"
+  },
+  {
+    "id":22,
+    "nombre":"San Juan"
+  },
+  {
+    "id":23,
+    "nombre":"San Pedro de Macorís"
+  },
+  {
+    "id":24,
+    "nombre":"Sanchez Ramírez"
+  },
+  {
+    "id":25,
+    "nombre":"Santiago"
+  },
+  {
+    "id":26,
+    "nombre":"Santiago Rodríguez"
+  },
+  {
+    "id":27,
+    "nombre":"Valverde"
+  },
+  {
+    "id":28,
+    "nombre":"Monseñor Nouel"
+  },
+  {
+    "id":29,
+    "nombre":"Monte Plata"
+  },
+  {
+    "id":30,
+    "nombre":"Hato Mayor"
+  },
+  {
+    "id":31,
+    "nombre":"San José de Ocoa"
+  },
+  {
+    "id":32,
+    "nombre":"Santo Domingo"
+  }
 ]

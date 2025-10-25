@@ -1,0 +1,21 @@
+# Use root/example as user/password credentials
+version: '3.1'
+
+services:
+  db:
+    image: mariadb
+    restart: always
+    ports:
+      - ${DB_PORT}:3306
+    env_file: .env
+    environment:
+      MARIADB_ROOT_PASSWORD: root
+      MARIADB_USER: ${DB_USER} 
+      MARIADB_PASSWORD: ${DB_PASSWORD}
+      MARIADB_DATABASE: ${DB_DATABASE}
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
+

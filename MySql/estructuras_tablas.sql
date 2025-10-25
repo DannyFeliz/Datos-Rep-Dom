@@ -1,24 +1,68 @@
+
+DROP TABLE IF EXISTS `barrios`;
+CREATE TABLE `barrios` (
+  `id` int(11) DEFAULT NULL,
+  `nombre` varchar(150) DEFAULT NULL,
+  `seccionId` int(11) DEFAULT NULL,
+  KEY `ix_barrios_id` (`id`),
+  KEY `fk_barrios_secciones` (`seccionId`),
+  CONSTRAINT `fk_barrios_secciones` FOREIGN KEY (`seccionId`) REFERENCES `secciones` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
+
+
+DROP TABLE IF EXISTS `distritos`;
+CREATE TABLE `distritos` (
+  `id` int(11) DEFAULT NULL,
+  `nombre` varchar(150) DEFAULT NULL,
+  `municipioId` int(11) DEFAULT NULL,
+  KEY `ix_distritos_id` (`id`),
+  KEY `fk_distritos_municipios` (`municipioId`),
+  CONSTRAINT `fk_distritos_municipios` FOREIGN KEY (`municipioId`) REFERENCES `municipios` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
+
+
+DROP TABLE IF EXISTS `municipios`;
 CREATE TABLE `municipios` (
-  `provincia_id` tinyint(3) unsigned NOT NULL,
-  `municipio_id` int(10) unsigned NOT NULL,
-  `municipio` varchar(150) COLLATE utf8_spanish_ci NOT NULL,
-  PRIMARY KEY (`municipio_id`),
-  KEY `provincia_id` (`provincia_id`),
-  CONSTRAINT `provincia_id` FOREIGN KEY (`provincia_id`) REFERENCES `provincias` (`provincia_id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
+  `id` int(11) DEFAULT NULL,
+  `provinciaId` int(11) DEFAULT NULL,
+  `nombre` varchar(150) DEFAULT NULL,
+  KEY `ix_municipios_id` (`id`),
+  KEY `fk_municipios_provincias` (`provinciaId`),
+  CONSTRAINT `fk_municipios_provincias` FOREIGN KEY (`provinciaId`) REFERENCES `provincias` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
 
+
+DROP TABLE IF EXISTS `provincias`;
 CREATE TABLE `provincias` (
-  `provincia_id` tinyint(3) unsigned NOT NULL,
-  `provincia` varchar(50) COLLATE utf8_spanish_ci NOT NULL,
-  PRIMARY KEY (`provincia_id`),
-  UNIQUE KEY `id_UNIQUE` (`provincia_id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
+  `id` int(11) DEFAULT NULL,
+  `nombre` varchar(50) DEFAULT NULL,
+  KEY `ix_provincias_id` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
 
-CREATE TABLE `sectores` (
-  `municipio_id` int(10) unsigned NOT NULL,
-  `sector_id` bigint(20) unsigned NOT NULL,
-  `sector` varchar(150) COLLATE utf8_spanish_ci NOT NULL,
-  PRIMARY KEY (`sector_id`),
-  KEY `ciudad_ir_idx` (`municipio_id`),
-  CONSTRAINT `ciudad_ir` FOREIGN KEY (`municipio_id`) REFERENCES `municipios` (`municipio_id`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
+
+DROP TABLE IF EXISTS `secciones`;
+CREATE TABLE `secciones` (
+  `id` int(11) DEFAULT NULL,
+  `nombre` varchar(150) DEFAULT NULL,
+  `municipioId` int(11) DEFAULT NULL,
+  `distritoId` int(11) DEFAULT NULL,
+  KEY `ix_secciones_id` (`id`),
+  KEY `fk_secciones_distritos` (`distritoId`),
+  KEY `fk_secciones_municipios` (`municipioId`),
+  CONSTRAINT `fk_secciones_distritos` FOREIGN KEY (`distritoId`) REFERENCES `distritos` (`id`),
+  CONSTRAINT `fk_secciones_municipios` FOREIGN KEY (`municipioId`) REFERENCES `municipios` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
+
+
+DROP TABLE IF EXISTS `sub_barrios`;
+CREATE TABLE `sub_barrios` (
+  `id` int(11) DEFAULT NULL,
+  `nombre` varchar(150) DEFAULT NULL,
+  `barrioId` int(11) DEFAULT NULL,
+  KEY `ix_sub_barrios_id` (`id`),
+  KEY `fk_sub_barrios_barrios` (`barrioId`),
+  CONSTRAINT `fk_sub_barrios_barrios` FOREIGN KEY (`barrioId`) REFERENCES `barrios` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_spanish_ci;
+
+
+-- 2024-07-25 13:51:36
